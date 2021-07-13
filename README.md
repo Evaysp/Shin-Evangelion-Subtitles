@@ -1,5 +1,7 @@
 # Shin-Evangelion-Translation
 
-シンエヴァ　台本
+Evangelion: 3.0+1.0 Thrice Upon a Time
 
-福音战士新剧场版 台本
+シン・エヴァンゲリオン劇場版　台本
+
+新·福音战士剧场版：终 台本
