@@ -1,0 +1,8450 @@
+﻿1
+00:00:02,250 --> 00:00:03,791
+<span>Nei film precedenti di Evangelion.</span>
+
+2
+00:00:04,375 --> 00:00:05,666
+EVANGELION:1.11 YOU ARE (NOT) ALONE.
+
+3
+00:00:05,750 --> 00:00:09,375
+<span>Questa è l'arma destinata a risolvere</span>
+<span>le battaglie decisive.</span>
+
+4
+00:00:09,458 --> 00:00:11,375
+<span>La macchina umanoide Evangelion.</span>
+
+5
+00:00:11,458 --> 00:00:13,583
+<span>Shinji Ikari, salirai tu a bordo.</span>
+
+6
+00:00:13,666 --> 00:00:16,083
+<span>- Partenza.</span>
+- Come potrei pilotare questo coso?
+
+7
+00:00:16,166 --> 00:00:19,333
+<span>Adesso sali a bordo.</span>
+<span>Oppure vattene subito!</span>
+
+8
+00:00:19,416 --> 00:00:23,250
+<span>Non devo fuggire.</span>
+
+9
+00:00:23,916 --> 00:00:26,333
+- Salirò io a bordo.
+<span>- Gli Eva possono battere gli Angeli.</span>
+
+10
+00:00:26,416 --> 00:00:29,125
+<span>Se non riusciamo a sconfiggere gli Angeli</span>
+<span>per noi non ci sarà più un futuro.</span>
+
+11
+00:00:29,208 --> 00:00:31,583
+<span>Quindici anni fa,</span>
+<span>in seguito al Second Impact,</span>
+
+12
+00:00:31,666 --> 00:00:33,625
+<span>metà della popolazione</span>
+<span>è stata cancellata.</span>
+
+13
+00:00:33,708 --> 00:00:35,875
+<span>Se adesso gli Angeli</span>
+<span>dovessero causare il Third Impact,</span>
+
+14
+00:00:35,958 --> 00:00:37,375
+<span>l'umanità si estinguerebbe.</span>
+
+15
+00:00:37,458 --> 00:00:39,000
+<span>Perché io mi trovo qui?</span>
+
+16
+00:00:39,083 --> 00:00:41,125
+<span>Tu non hai fiducia</span>
+<span>nel lavoro di tuo padre?</span>
+
+17
+00:00:41,208 --> 00:00:43,250
+<span>Non posso fare altro che salire sull'Eva.</span>
+
+18
+00:00:43,333 --> 00:00:45,416
+<span>È per questo</span>
+<span>che mio padre mi ha chiamato qui.</span>
+
+19
+00:00:45,500 --> 00:00:47,000
+<span>Ecco perché non posso fare a meno</span>
+<span>di salirci.</span>
+
+20
+00:00:47,083 --> 00:00:50,000
+<span>Sei tu che devi decidere se continuare</span>
+<span>a essere il pilota dell'Eva.</span>
+
+21
+00:00:50,083 --> 00:00:53,833
+<span>- Allora, ci salirò ancora una volta.</span>
+- Tu non morirai.
+
+22
+00:00:53,916 --> 00:00:55,000
+<span>Perché io ti proteggerò.</span>
+
+23
+00:00:55,083 --> 00:00:57,666
+<span>Shinji è salito a bordo con coraggio.</span>
+
+24
+00:00:57,750 --> 00:01:00,708
+<span>Finché non rinuncia di sua volontà,</span>
+<span>dobbiamo affidarci a lui.</span>
+
+25
+00:01:00,791 --> 00:01:01,833
+<span>- Siamo nelle tue mani.</span>
+- Metticela tutta.
+
+26
+00:01:01,916 --> 00:01:04,708
+<span>Arrivederci.</span>
+<span>Il fatto è che non ho nient'altro.</span>
+
+27
+00:01:04,791 --> 00:01:05,791
+<span>Ayanami!</span>
+
+28
+00:01:05,875 --> 00:01:09,166
+<span>Io non so mai</span>
+<span>che espressione avere in questi casi.</span>
+
+29
+00:01:09,250 --> 00:01:10,375
+<span>Penso che dovresti sorridere.</span>
+
+30
+00:01:10,458 --> 00:01:13,000
+<span>Ragazzi</span>
+<span>con il destino programmato in anticipo.</span>
+
+31
+00:01:13,083 --> 00:01:14,291
+EVANGELION:2.22
+YOU CAN (NOT) ADVANCE.
+
+32
+00:01:14,375 --> 00:01:17,625
+Asuka Shikigami Langley,
+la pilota dell'Eva Zero-Due.
+
+33
+00:01:17,708 --> 00:01:18,708
+<span>Povero stupido!</span>
+
+34
+00:01:18,791 --> 00:01:20,833
+<span>Esistono persone felici</span>
+<span>di salire sull'Eva?</span>
+
+35
+00:01:20,916 --> 00:01:23,583
+<span>- Tuo padre non ti è simpatico.</span>
+- Mi ha lodato per la prima volta.
+
+36
+00:01:23,666 --> 00:01:24,791
+<span>Sei stato bravo Shinji.</span>
+
+37
+00:01:24,875 --> 00:01:26,583
+E, per la prima volta,
+quelle lodi mi hanno reso felice.
+
+38
+00:01:26,666 --> 00:01:29,500
+<span>Il Progetto per il Perfezionamento.</span>
+<span>Nasconde un piano segreto della Nerv?</span>
+
+39
+00:01:29,583 --> 00:01:30,833
+Katsuragi, fa' attenzione.
+
+40
+00:01:30,916 --> 00:01:32,958
+<span>Quando Ikari è insieme a me,</span>
+<span>mi si scalda il cuore.</span>
+
+41
+00:01:33,041 --> 00:01:34,416
+<span>In poche parole, è cotta di lui.</span>
+
+42
+00:01:34,500 --> 00:01:35,708
+Tu sei interessante.
+
+43
+00:01:35,791 --> 00:01:37,833
+<span>Puoi essere felice</span>
+<span>anche senza salirci a bordo.</span>
+
+44
+00:01:37,916 --> 00:01:41,208
+<span>Ma Asuka si trova ancora</span>
+<span>a bordo dell'Eva! Ecco perché!</span>
+
+45
+00:01:41,291 --> 00:01:42,791
+<span>Quello è un Angelo.</span>
+<span>Vale a dire un nemico.</span>
+
+46
+00:01:42,875 --> 00:01:45,750
+<span>- Non farlo! La colpa è tutta sua!</span>
+- Così fuggi ancora?
+
+47
+00:01:45,833 --> 00:01:48,791
+<span>Che cosa c'è di male</span>
+<span>se fuggo dalle cose spiacevoli?</span>
+
+48
+00:01:48,875 --> 00:01:50,041
+<span>Non voglio mai più salire su un Eva.</span>
+
+49
+00:01:50,125 --> 00:01:53,166
+<span>Se fai lo scorbutico in quel modo,</span>
+<span>non c'è più nessun divertimento.</span>
+
+50
+00:01:53,250 --> 00:01:55,458
+Farò in modo
+che Ikari non debba più salire su un Eva.
+
+51
+00:01:55,541 --> 00:01:58,000
+<span>Io sono il pilota</span>
+<span>dell'Unità Eva Zero-Uno.</span>
+
+52
+00:01:58,083 --> 00:02:01,708
+<span>Sono Shinji Ikari!</span>
+<span>Ora restituiscimi Ayanami!</span>
+
+53
+00:02:01,791 --> 00:02:03,083
+Sì, va' avanti Shinji!
+
+54
+00:02:03,166 --> 00:02:05,166
+<span>Fallo per esaudire</span>
+<span>il tuo stesso desiderio!</span>
+
+55
+00:02:05,250 --> 00:02:08,250
+<span>- Se io sparirò, qualcuno mi sostituirà.</span>
+- Ayanami, vieni!
+
+56
+00:02:08,333 --> 00:02:10,833
+<span>Mi dispiace. Non ho ottenuto nulla.</span>
+
+57
+00:02:10,916 --> 00:02:13,416
+Ormai va bene così. Va bene così.
+
+58
+00:02:13,500 --> 00:02:16,708
+La prosecuzione del Second Impact,
+condurrà al Third Impact.
+
+59
+00:02:16,791 --> 00:02:18,833
+- È giunto il momento.
+- Verso la fine del mondo.
+
+60
+00:02:19,458 --> 00:02:20,458
+EVANGELION:3.33
+YOU CAN (NOT) REDO.
+
+61
+00:02:20,541 --> 00:02:23,666
+Shinji Ikari. Non devi fare nulla.
+
+62
+00:02:23,750 --> 00:02:26,333
+Non devo salire a bordo dell'Eva?
+È assurdo signorina Misato!
+
+63
+00:02:26,833 --> 00:02:29,041
+<span>All'improvviso mi trovo in una situazione</span>
+<span>di cui non capisco nulla.</span>
+
+64
+00:02:29,125 --> 00:02:31,083
+<span>Perché da allora sono passati 14 anni.</span>
+
+65
+00:02:31,166 --> 00:02:34,833
+Noi siamo la Wille, un'organizzazione
+nata per distruggere la Nerv.
+
+66
+00:02:34,916 --> 00:02:36,750
+Mi chiamo Kaworu. Kaworu Nagisa.
+
+67
+00:02:36,833 --> 00:02:39,750
+<span>E come te,</span>
+<span>sono un ragazzo dal destino programmato.</span>
+
+68
+00:02:39,833 --> 00:02:41,791
+<span>È l'Unità Evangelion 13.</span>
+
+69
+00:02:41,875 --> 00:02:44,750
+Quando sarà il momento salirai a bordo
+dell'Eva con lui.
+
+70
+00:02:44,833 --> 00:02:46,500
+<span>Non salirai a bordo di un Eva.</span>
+
+71
+00:02:46,583 --> 00:02:48,458
+<span>- Rei Ayanami non esiste più, Shinji.</span>
+- Sta mentendo!
+
+72
+00:02:48,541 --> 00:02:50,791
+<span>L'Unità Eva Zero-Uno,</span>
+<span>una volta risvegliata,</span>
+
+73
+00:02:50,875 --> 00:02:52,458
+<span>ha aperto la Camera dei Guf</span>
+
+74
+00:02:52,541 --> 00:02:55,291
+<span>e ha agito da trigger</span>
+<span>per realizzare il Third Impact.</span>
+
+75
+00:02:55,375 --> 00:02:57,833
+<span>A innescare tutto, sei stato tu.</span>
+
+76
+00:02:57,916 --> 00:02:59,416
+- Allora io ti ho salvata, giusto?
+- Non lo so.
+
+77
+00:02:59,500 --> 00:03:01,000
+Iniziamo, Fuyutsuki.
+
+78
+00:03:01,083 --> 00:03:03,708
+Shin-bamboccio,
+vuoi innescare un altro Third Impact?
+
+79
+00:03:03,791 --> 00:03:07,166
+Prenderò le lance,
+per te Kaworu e per tutti gli altri.
+
+80
+00:03:07,250 --> 00:03:09,416
+Così il mondo tornerà come prima.
+
+81
+00:03:09,500 --> 00:03:13,125
+- E allora, anche la signorina Misato...
+- Misato, attiva il DSS Chocker!
+
+82
+00:03:13,208 --> 00:03:15,833
+<span>- Non farlo, Shinji!</span>
+- Fermati! Shin-bamboccio!
+
+83
+00:03:15,916 --> 00:03:16,916
+<span>E questo che cos'è?</span>
+
+84
+00:03:17,708 --> 00:03:19,333
+Il Fourth Impact.
+
+85
+00:03:19,416 --> 00:03:21,583
+Stiamo assistendo al suo rito di apertura.
+
+86
+00:03:21,666 --> 00:03:22,750
+<span>È stata colpa mia?</span>
+
+87
+00:03:23,291 --> 00:03:25,083
+<span>È perché ho estratto le lance?</span>
+
+88
+00:03:25,166 --> 00:03:26,208
+Questo è un ordine.
+
+89
+00:03:26,291 --> 00:03:29,750
+Non essere così triste.
+Ci rivedremo, Shinji.
+
+90
+00:03:29,833 --> 00:03:33,000
+No, Kaworu! È tutta colpa mia!
+
+91
+00:03:33,083 --> 00:03:34,125
+<span>Sei proprio viziato.</span>
+
+92
+00:03:34,208 --> 00:03:37,208
+<span>Non c'è colpa</span>
+<span>che non possa essere espiata.</span>
+
+93
+00:03:37,291 --> 00:03:40,666
+<span>La speranza rimane. In qualunque momento.</span>
+
+94
+00:03:46,291 --> 00:03:50,041
+<span>Presto o tardi scoprirai</span>
+
+95
+00:03:50,125 --> 00:03:53,875
+<span>Che la vita è un lungo viaggio</span>
+
+96
+00:03:53,958 --> 00:03:57,875
+<span>Non importa quanto poi</span>
+
+97
+00:03:57,958 --> 00:04:02,208
+<span>Durerà il tuo passaggio</span>
+
+98
+00:04:02,291 --> 00:04:05,833
+<span>Finché tu percorrerai</span>
+
+99
+00:04:05,916 --> 00:04:10,166
+<span>La via della verità</span>
+
+100
+00:04:11,541 --> 00:04:13,250
+<span>Flotta d'assalto PARIS, in posizione.</span>
+
+101
+00:04:13,333 --> 00:04:15,750
+<span>In discesa</span>
+<span>verso il Punto Zero dalla Città Vecchia.</span>
+
+102
+00:04:15,833 --> 00:04:18,750
+<span>A tutte le navi,</span>
+<span>formazione in assetto difensivo.</span>
+
+103
+00:04:18,833 --> 00:04:22,500
+<span>Controllo gravità, autonomia</span>
+<span>e gestione da remoto. Nessuna anomalia.</span>
+
+104
+00:04:23,000 --> 00:04:27,916
+<span>Spazio aereo di Parigi,</span>
+<span>libero in tutte le direzioni.</span>
+
+105
+00:04:28,000 --> 00:04:32,125
+<span>Controllo coordinate delle navi.</span>
+<span>Raggiunto punto inizio operazione.</span>
+
+106
+00:04:32,208 --> 00:04:35,416
+<span>Ricevuto.</span>
+<span>A tutte le navi, stato di allerta.</span>
+
+107
+00:04:36,791 --> 00:04:42,625
+<span>Tamburin, tan tan, tamburin</span>
+
+108
+00:04:42,708 --> 00:04:45,750
+<span>A tutte le navi,</span>
+<span>formazione in stato di allerta.</span>
+
+109
+00:04:45,833 --> 00:04:49,750
+<span>Eva Zero-Otto e DSRV</span>
+<span>in discesa verso l'obiettivo.</span>
+
+110
+00:04:49,833 --> 00:04:51,875
+<span>Tamburin</span>
+
+111
+00:04:51,958 --> 00:04:55,583
+<span>Tamburin, tamburin, tamburin</span>
+
+112
+00:04:55,666 --> 00:04:58,125
+<span>Tamburin</span>
+
+113
+00:04:58,625 --> 00:05:01,000
+<span>Sistema di assorbimento,</span>
+<span>nessuna anomalia.</span>
+
+114
+00:05:01,083 --> 00:05:02,583
+<span>Fissaggio dello scafo completato.</span>
+
+115
+00:05:02,666 --> 00:05:04,000
+<span>Il DSRV è atterrato.</span>
+
+116
+00:05:04,625 --> 00:05:06,250
+<span>Analisi atmosferica:</span>
+
+117
+00:05:06,333 --> 00:05:10,791
+<span>concentrazione ossigeno meno tre,</span>
+<span>anidride carbonica entro i limiti.</span>
+
+118
+00:05:10,875 --> 00:05:13,583
+<span>- Sbarco autorizzato.</span>
+- Ricevuto. Iniziare l'operazione.
+
+119
+00:05:13,666 --> 00:05:16,291
+<span>Siamo insieme io e te, amore</span>
+
+120
+00:05:16,375 --> 00:05:19,625
+<span>Siamo insieme io e te</span>
+
+121
+00:05:19,708 --> 00:05:23,250
+<span>Sogno, siamo insieme io e te</span>
+
+122
+00:05:23,333 --> 00:05:24,541
+<span>Sono passati 16 anni.</span>
+
+123
+00:05:25,125 --> 00:05:28,208
+Vedere come è ridotta Parigi,
+una volta "la città dei fiori",
+
+124
+00:05:28,791 --> 00:05:29,958
+mi spezza il cuore.
+
+125
+00:05:30,041 --> 00:05:32,000
+<span>...a te a me...</span>
+
+126
+00:05:32,083 --> 00:05:35,041
+Densità Barriera L maggiore del previsto.
+
+127
+00:05:35,125 --> 00:05:39,458
+Inizio operazione di restauro pilastro
+di contenimento euro Nerv 1.
+
+128
+00:05:39,541 --> 00:05:41,500
+Tempo residuo 720 secondi.
+
+129
+00:05:41,583 --> 00:05:44,375
+<span>...per noi due</span>
+
+130
+00:05:44,458 --> 00:05:47,750
+Impossibile!
+180 secondi in meno di quanto pianificato.
+
+131
+00:05:47,833 --> 00:05:49,500
+Avrà considerato il tempo per rientrare?
+
+132
+00:05:49,583 --> 00:05:51,875
+Mi sento davvero a disagio
+con questa tuta.
+
+133
+00:05:51,958 --> 00:05:53,875
+Dovrebbero indossarle
+solo i piloti degli Eva.
+
+134
+00:05:54,375 --> 00:05:56,791
+Poche storie, mettiti subito al lavoro.
+
+135
+00:05:56,875 --> 00:05:59,208
+<span>Tutto il mondo è per noi</span>
+
+136
+00:05:59,291 --> 00:06:02,166
+Allora, possiamo attivare
+il sistema anti L?
+
+137
+00:06:02,625 --> 00:06:05,083
+Sì, ripetendo la procedura
+dalla fase quattro.
+
+138
+00:06:05,541 --> 00:06:06,833
+Merito di chi ci ha preceduto.
+
+139
+00:06:07,458 --> 00:06:11,166
+Asseconderemo i vostri desideri
+per salvare questa città.
+
+140
+00:06:11,250 --> 00:06:12,541
+Forza, mettiamoci al lavoro.
+
+141
+00:06:12,625 --> 00:06:14,458
+RESTART DECRIPTAZIONE
+
+142
+00:06:17,041 --> 00:06:19,458
+Stanno arrivando. Eva 44 A!
+
+143
+00:06:19,541 --> 00:06:22,250
+<span>Specializzati per il volo!</span>
+<span>In avvicinamento a ore quattro.</span>
+
+144
+00:06:23,166 --> 00:06:25,083
+<span>Che magnifica formazione.</span>
+
+145
+00:06:25,166 --> 00:06:28,875
+<span>Hanno creato una colonia a sé stante,</span>
+<span>come fossero un nuovo organismo.</span>
+
+146
+00:06:28,958 --> 00:06:32,541
+Mari, devi intercettarli,
+Ci servono 560 secondi.
+
+147
+00:06:32,625 --> 00:06:33,916
+Vado subito!
+
+148
+00:06:34,000 --> 00:06:37,250
+Mi occuperò io di accogliere
+ciascuno di quei 44A!
+
+149
+00:06:37,333 --> 00:06:41,000
+Andiamo Nagara-chi,
+da adesso sono nelle tue mani!
+
+150
+00:06:41,083 --> 00:06:43,750
+Vediamo un po' qui come va!
+
+151
+00:06:48,208 --> 00:06:50,916
+Rollio, beccheggio e imbarcata.
+
+152
+00:06:51,666 --> 00:06:54,208
+Questo sistema è interessante,
+ma è scomodo.
+
+153
+00:06:54,291 --> 00:06:55,333
+Se avessi potuto scegliere
+
+154
+00:06:56,000 --> 00:07:01,416
+io avrei preferito qualcosa di più simile
+al movimento umano.
+
+155
+00:07:06,375 --> 00:07:09,083
+L'Unità Zero-Otto
+ha ingaggiato la prima ondata di 44A.
+
+156
+00:07:09,833 --> 00:07:11,166
+Seconda ondata rilevata.
+
+157
+00:07:11,666 --> 00:07:14,833
+Come previsto l'Unità Zero-Otto
+sta bloccando tutti i 44A.
+
+158
+00:07:15,333 --> 00:07:17,583
+Termine operazione in 420 secondi.
+
+159
+00:07:20,500 --> 00:07:24,083
+Nostromo, ci vorrà più del previsto.
+È come usare un portatile a 8 bit.
+
+160
+00:07:24,166 --> 00:07:25,166
+Come con gli Eva.
+
+161
+00:07:25,250 --> 00:07:27,583
+È un sistema enigmatico
+ancora poco chiaro.
+
+162
+00:07:27,666 --> 00:07:29,875
+Non siamo in grado di capirlo del tutto.
+
+163
+00:07:30,500 --> 00:07:33,291
+Fase quattro, completata.
+Siamo in ritardo sulla tabella di marcia.
+
+164
+00:07:33,833 --> 00:07:36,041
+- Stiamo calmi e procediamo.
+- Sì.
+
+165
+00:07:36,125 --> 00:07:37,833
+Mantenere la velocità.
+
+166
+00:07:38,958 --> 00:07:42,625
+Più 20 sulla piattaforma di guida.
+Stabilizzare inclinazione.
+
+167
+00:07:42,708 --> 00:07:44,291
+E avanti tutta!
+
+168
+00:07:47,041 --> 00:07:48,125
+Non mi sfuggirete!
+
+169
+00:07:52,208 --> 00:07:55,000
+Miao!
+
+170
+00:07:57,208 --> 00:08:01,125
+Miao!
+
+171
+00:08:01,208 --> 00:08:05,541
+Miao!
+
+172
+00:08:06,041 --> 00:08:07,416
+Che cosa?
+
+173
+00:08:15,083 --> 00:08:18,500
+Una quarta ondata? Tutti contro uno, eh?
+
+174
+00:08:19,041 --> 00:08:22,750
+Ovviamente. <span>Many a small bird</span>
+<span>drive away a hawk, </span> giusto?
+
+175
+00:08:23,500 --> 00:08:25,666
+Termine operazione in 360 secondi.
+
+176
+00:08:26,083 --> 00:08:28,833
+È impossibile!
+Non trovo il modo di passare alla fase 5.
+
+177
+00:08:28,916 --> 00:08:30,875
+Non dire così! Devi cercare più a fondo!
+
+178
+00:08:30,958 --> 00:08:32,083
+Impossibile!
+
+179
+00:08:32,166 --> 00:08:34,500
+Non c'è abbastanza tempo
+per la sovrascrittura dei dati.
+
+180
+00:08:34,583 --> 00:08:36,791
+Niente è impossibile! Aumenta i bypass!
+
+181
+00:08:36,875 --> 00:08:38,833
+Ma Nostromo, non c'è abbastanza tempo.
+
+182
+00:08:40,166 --> 00:08:43,291
+Basta piagnucolare!
+Ecco perché non sopporto i ragazzini.
+
+183
+00:09:12,750 --> 00:09:14,333
+Prendi!
+
+184
+00:09:14,416 --> 00:09:16,291
+Miao!
+
+185
+00:09:19,875 --> 00:09:22,291
+Miao!
+
+186
+00:09:22,916 --> 00:09:25,083
+Maledetti! Fuori dai piedi, ferraglia!
+
+187
+00:09:30,583 --> 00:09:33,333
+È stato un gioco da ragazzi.
+
+188
+00:09:35,291 --> 00:09:39,166
+Delle false copie degli Angeli, eh?
+Davvero imprudente.
+
+189
+00:09:46,375 --> 00:09:47,875
+Sta' attenta! È il boss nemico.
+
+190
+00:09:48,916 --> 00:09:50,375
+<span>L'uso militarizzato degli Eva</span>
+
+191
+00:09:50,458 --> 00:09:52,833
+<span>è una violazione</span>
+<span>del trattato del Vaticano.</span>
+
+192
+00:09:52,916 --> 00:09:55,541
+<span>È un 4444C per il combattimento a terra.</span>
+
+193
+00:09:55,625 --> 00:09:59,416
+<span>Armato di cannone a positroni</span>
+<span>e scortato da 44B con batteria esterna.</span>
+
+194
+00:10:00,083 --> 00:10:02,875
+Il Comandante Fuyutsuki
+ci sta mettendo alla prova?
+
+195
+00:10:08,625 --> 00:10:11,208
+<span>Alta energia dai 44b. E in aumento!</span>
+
+196
+00:10:11,541 --> 00:10:13,375
+A tutte le navi,
+assetto difensivo terra-aria!
+
+197
+00:10:13,458 --> 00:10:16,291
+<span>Al personale,</span>
+<span>prepararsi all'impatto e all'IEM.</span>
+
+198
+00:10:27,916 --> 00:10:30,125
+<span>Il 4444C è in posizione di tiro.</span>
+
+199
+00:10:30,583 --> 00:10:33,250
+<span>I 44b generano molta energia.</span>
+
+200
+00:10:33,333 --> 00:10:35,750
+<span>Alimentano un sistema</span>
+<span>ad altissima tensione!</span>
+
+201
+00:10:36,375 --> 00:10:39,250
+<span>Tutti i sistemi d'alimentazione del 4444C</span>
+<span>attivi!</span>
+
+202
+00:10:40,083 --> 00:10:42,333
+<span>Accelerazione positronica</span>
+<span>all'ultimo stadio!</span>
+
+203
+00:10:42,416 --> 00:10:44,416
+<span>Culatta del fucile chiusa e sigillata!</span>
+
+204
+00:10:48,166 --> 00:10:49,458
+Preparatevi!
+
+205
+00:11:11,791 --> 00:11:14,208
+<span>Qui sta crollando tutto.</span>
+
+206
+00:11:22,541 --> 00:11:25,666
+<span>Ho fatto appena in tempo! Ah!</span>
+
+207
+00:11:26,500 --> 00:11:29,375
+Se spara un altro colpo,
+questa volta siamo spacciati.
+
+208
+00:11:29,458 --> 00:11:32,375
+<span>Ricominciano.</span>
+<span>Reazione ad alta energia dei 44B.</span>
+
+209
+00:11:32,458 --> 00:11:35,208
+<span>Accumulano elettricità</span>
+<span>in un sistema di stoccaggio.</span>
+
+210
+00:11:39,208 --> 00:11:42,083
+<span>Di già? Accelerazione del 4444C.</span>
+
+211
+00:11:42,166 --> 00:11:45,000
+<span>È in posizione di tiro! Oh, accidenti!</span>
+
+212
+00:11:45,500 --> 00:11:49,291
+<span>Secondo colpo imminente!</span>
+<span>Questa è davvero la fine!</span>
+
+213
+00:11:54,541 --> 00:11:57,833
+- Nagara-chi, creami un diversivo!
+<span>- Ricevuto!</span>
+
+214
+00:12:14,208 --> 00:12:15,875
+Ma che bastardo!
+
+215
+00:12:21,791 --> 00:12:23,583
+Excusez-moi, Eiffel!
+
+216
+00:12:40,208 --> 00:12:42,708
+4444C ora inattivo.
+
+217
+00:12:42,791 --> 00:12:44,791
+Tempo residuo 30 secondi!
+
+218
+00:12:45,625 --> 00:12:47,291
+- Analisi algoritmo.
+- Blocco di sicurezza disinserito.
+
+219
+00:12:47,375 --> 00:12:49,250
+- Passaggio al linguaggio C.
+- Sistema anti-L operativo.
+
+220
+00:12:49,333 --> 00:12:50,541
+Fase cinque completata.
+
+221
+00:12:51,000 --> 00:12:52,708
+Senpai vice-comandante, attivazione!
+
+222
+00:13:02,666 --> 00:13:04,291
+<span>Ripristino area vecchia Parigi.</span>
+
+223
+00:13:04,666 --> 00:13:09,083
+Riavvio sistema di congelamento
+strutture Euro-Nerv. Ripristino in corso.
+
+224
+00:13:38,208 --> 00:13:42,166
+Maya, ottimo lavoro.
+C'è mancato davvero poco.
+
+225
+00:13:43,416 --> 00:13:47,375
+Missione completata.
+Misato, vieni a ritirare i tuoi bagagli.
+
+226
+00:13:47,458 --> 00:13:50,291
+<span>Ricevuto.</span>
+<span>Scendo al punto di rifornimento.</span>
+
+227
+00:13:50,375 --> 00:13:51,875
+<span>Prepararsi al rifornimento.</span>
+
+228
+00:13:51,958 --> 00:13:54,916
+<span>Priorità recupero parti di riserva</span>
+<span>dell'Eva, armi e munizioni.</span>
+
+229
+00:13:55,000 --> 00:13:58,500
+<span>Navi da rifornire in discesa.</span>
+<span>Priorità alle portaerei, presto!</span>
+
+230
+00:13:58,583 --> 00:14:02,291
+<span>Recuperare le parti necessarie</span>
+<span>alla ricostruzione dell'Unità Zero-Due.</span>
+
+231
+00:14:02,708 --> 00:14:03,958
+Chi semina raccoglie.
+
+232
+00:14:04,708 --> 00:14:07,666
+Ricostruiremo la smembrata Unità Zero-Due
+
+233
+00:14:07,750 --> 00:14:11,125
+e la Zero-Otto verrà rimodellata
+con i componenti compatibili.
+
+234
+00:14:12,541 --> 00:14:15,375
+Ovunque tu sia,
+sappi che verrò a prenderti.
+
+235
+00:14:16,208 --> 00:14:18,583
+Devi solo aspettarmi, Cagnolino.
+
+236
+00:14:18,666 --> 00:14:24,416
+EVANGELION:3.0+1.01
+THRICE UPON A TIME
+
+237
+00:16:01,958 --> 00:16:04,000
+Che smidollato.
+
+238
+00:16:14,250 --> 00:16:17,916
+Colpa mia!
+Sono in ritardo. Tutto bene, Ikari?
+
+239
+00:16:21,291 --> 00:16:25,250
+Ehi! I cani non possono entrare qui!
+
+240
+00:16:27,916 --> 00:16:30,500
+Ma guarda. Ti sei svegliato.
+
+241
+00:16:30,583 --> 00:16:31,916
+Ma mi senti?
+
+242
+00:16:32,000 --> 00:16:36,458
+Guarda che sono io! Tohji, Tohji Suzuhara.
+
+243
+00:16:36,541 --> 00:16:38,708
+Ne è passato di tempo, Shinji.
+
+244
+00:16:38,791 --> 00:16:41,875
+Io non riuscivo a crederci
+quando ti hanno portato qui.
+
+245
+00:16:41,958 --> 00:16:45,541
+Sai, sono molto curioso di sapere
+che cosa ti è successo.
+
+246
+00:16:45,625 --> 00:16:49,916
+Vorrei conoscere la storia per intero.
+Però sono contento che stai bene.
+
+247
+00:16:56,041 --> 00:16:59,875
+Ce la fai ad alzarti? Sembra di sì. Dai.
+Ti porto a casa mia.
+
+248
+00:17:02,250 --> 00:17:04,500
+Fuori fa parecchio freddo.
+
+249
+00:17:04,583 --> 00:17:07,958
+Professore,
+la ragazza non vuole cambiarsi i vestiti.
+
+250
+00:17:08,041 --> 00:17:09,791
+Non importa, va bene così.
+
+251
+00:17:09,875 --> 00:17:11,833
+Inoltre, abbiamo quasi finito il Tamiflu.
+
+252
+00:17:11,916 --> 00:17:14,666
+D'accordo.
+Lo farò presente al responsabile.
+
+253
+00:17:14,750 --> 00:17:18,833
+Mi dispiace,
+per oggi dovremo accontentarci. Andiamo.
+
+254
+00:17:32,416 --> 00:17:34,250
+- Ora dobbiamo andare
+- Eh, sì
+
+255
+00:17:34,333 --> 00:17:35,500
+- Ciao ragazzi.
+- Ciao.
+
+256
+00:17:35,583 --> 00:17:38,833
+- A presto,
+- Dà un abbraccio ai tuoi figli.
+
+257
+00:17:38,916 --> 00:17:41,875
+Questo posto è strano.
+Ci sono tante persone.
+
+258
+00:17:41,958 --> 00:17:43,833
+Non hai mai visto tanta gente insieme?
+
+259
+00:17:44,250 --> 00:17:48,583
+È una delle comunità dove si sono riuniti
+i sopravvissuti, il Villaggio Tre.
+
+260
+00:17:49,000 --> 00:17:50,333
+Ci vivono circa 1000 persone.
+
+261
+00:17:50,791 --> 00:17:52,416
+Lì distribuiscono i viveri.
+
+262
+00:17:52,500 --> 00:17:54,875
+Una razione al giorno.
+Tre giorni a settimana.
+
+263
+00:17:55,625 --> 00:17:57,291
+Professore, buongiorno.
+
+264
+00:17:57,375 --> 00:18:00,708
+Oh, signora Matsukata.
+È in dolce attesa. Non faccia sforzi.
+
+265
+00:18:00,791 --> 00:18:04,500
+Professore, sono loro due?
+I ragazzi mandati dalla Kredit?
+
+266
+00:18:04,583 --> 00:18:07,333
+Beh... più o meno.
+
+267
+00:18:07,416 --> 00:18:11,208
+- Si prenda cura di loro.
+- Certo, nessun problema.
+
+268
+00:18:14,041 --> 00:18:15,583
+Che cos'è la Kredit?
+
+269
+00:18:15,666 --> 00:18:19,458
+La Kredit è un'organizzazione di supporto
+creata dalla Wille.
+
+270
+00:18:19,541 --> 00:18:21,083
+Si occupa dei rifornimenti
+
+271
+00:18:21,166 --> 00:18:24,416
+e fa anche da sostegno
+per il commercio tra gli altri villaggi.
+
+272
+00:18:24,500 --> 00:18:27,250
+Senza nessun aiuto,
+per noi sarebbe dura andare avanti.
+
+273
+00:18:28,583 --> 00:18:31,541
+Cos'è quello? Non sembra essere un cane.
+
+274
+00:18:31,625 --> 00:18:33,708
+Eh? Perché è un gatto.
+
+275
+00:18:34,291 --> 00:18:36,666
+- Un gatto?
+- È la prima volta che ne vedi uno?
+
+276
+00:18:37,083 --> 00:18:39,791
+Ce ne sono una decina
+che vivono sotto ai treni.
+
+277
+00:18:39,875 --> 00:18:42,791
+Siamo fortunati ad avere cani e gatti qui.
+
+278
+00:18:42,875 --> 00:18:44,791
+SUONARE IL CAMPANELLO
+IN CASO DI EMERGENZA MEDICA
+
+279
+00:18:44,875 --> 00:18:47,458
+È una casa vecchia, ma è accogliente.
+
+280
+00:18:47,541 --> 00:18:49,625
+Non vivere in un condominio è un lusso.
+
+281
+00:18:50,791 --> 00:18:53,458
+Sono tornato.
+La cena sarà pronta tra poco.
+
+282
+00:18:59,291 --> 00:19:02,916
+Ecco, perdonate l'attesa.
+Mangiate finché è ancora caldo.
+
+283
+00:19:03,333 --> 00:19:07,541
+Shinji, immagino che tu abbia fame.
+Dovresti mangiare.
+
+284
+00:19:08,500 --> 00:19:12,833
+E va bene, ma se cambi idea
+non farti problemi. D'accordo?
+
+285
+00:19:12,916 --> 00:19:14,708
+- E ora, buon appetito.
+- Buon appetito!
+
+286
+00:19:16,708 --> 00:19:19,875
+- Buono! Vero?
+- È un sapore strano.
+
+287
+00:19:20,666 --> 00:19:23,500
+- Però è piacevole.
+- Allora, significa che è buono.
+
+288
+00:19:23,583 --> 00:19:26,791
+C'è da ammettere che mia figlia
+in cucina è davvero formidabile.
+
+289
+00:19:26,875 --> 00:19:32,000
+È davvero la migliore moglie del mondo.
+Vi sorprenderà sapere chi è.
+
+290
+00:19:32,083 --> 00:19:34,708
+Sono a casa. Scusate il ritardo.
+
+291
+00:19:34,791 --> 00:19:37,375
+Oh! Bentornata! Ti aspettavamo.
+
+292
+00:19:37,458 --> 00:19:40,750
+Shinji, guarda!
+Hai riconosciuto mia moglie?
+
+293
+00:19:40,833 --> 00:19:42,583
+È la capoclasse!
+
+294
+00:19:42,666 --> 00:19:45,083
+Quando me l'ha detto,
+non riuscivo a crederci
+
+295
+00:19:45,166 --> 00:19:47,291
+e anche ora che siete davanti a me,
+sembra un sogno.
+
+296
+00:19:47,375 --> 00:19:50,250
+Non ti vedo da tanto, Shinji
+e anche tu Ayanami.
+
+297
+00:19:50,333 --> 00:19:52,708
+Ti sbagli. Io non sono Ayanami.
+
+298
+00:19:52,791 --> 00:19:55,333
+Che cosa? Non lo sei?
+
+299
+00:19:55,416 --> 00:19:57,250
+- Eppure... sei identica.
+- Sei identica.
+
+300
+00:20:01,458 --> 00:20:02,458
+Questo cos'è?
+
+301
+00:20:02,541 --> 00:20:06,291
+Lei è nostra figlia, Tsubame.
+Carina, vero?
+
+302
+00:20:06,375 --> 00:20:09,583
+È un umano, ma piccola.
+Perché l'avete rimpicciolita?
+
+303
+00:20:09,666 --> 00:20:12,375
+Sul serio?
+Non hai mai visto nemmeno un bambino?
+
+304
+00:20:12,458 --> 00:20:16,875
+Quando è nata era anche più piccola.
+I bambini però crescono in fretta.
+
+305
+00:20:25,708 --> 00:20:27,500
+Questo è... carina?
+
+306
+00:20:27,583 --> 00:20:30,041
+Proprio così! È adorabile!
+
+307
+00:20:30,125 --> 00:20:33,458
+Anche se sono di parte,
+perché è mia figlia!
+
+308
+00:20:33,541 --> 00:20:35,583
+Tesoro scusa!
+
+309
+00:20:35,666 --> 00:20:38,166
+Ti sei spaventata,
+perché abbiamo urlato, vero?
+
+310
+00:20:38,250 --> 00:20:41,916
+Scusami, Tsubame, ti ho fatta piangere io.
+
+311
+00:20:43,083 --> 00:20:45,708
+Oh, è arrivato il pezzo grosso!
+
+312
+00:20:46,541 --> 00:20:48,416
+Scusate. Sono in ritardo.
+
+313
+00:20:52,750 --> 00:20:55,666
+Andiamo, già è un miracolo
+che siamo tutti insieme...
+
+314
+00:20:55,750 --> 00:20:56,833
+Che stai facendo?
+
+315
+00:20:56,916 --> 00:21:00,375
+I bambini crescono bevendo il latte
+che esce dal seno.
+
+316
+00:21:00,458 --> 00:21:05,208
+<span>Non svegliarti soltanto perché</span>
+<span>Il sole è alto nel cielo</span>
+
+317
+00:21:05,291 --> 00:21:06,458
+<span>Ora è tempo di andare più in là</span>
+
+318
+00:21:06,541 --> 00:21:09,625
+Signorina Sosia, tu non puoi ancora farlo.
+
+319
+00:21:10,666 --> 00:21:13,791
+Io non capisco.
+Che cosa farebbe Rei Ayanami?
+
+320
+00:21:14,500 --> 00:21:17,541
+Tu sei diversa da Ayanami, giusto?
+
+321
+00:21:17,625 --> 00:21:20,250
+Allora, dovresti fare quello
+che vuoi fare tu.
+
+322
+00:21:21,708 --> 00:21:23,375
+<span>Passa oltre e capirai</span>
+
+323
+00:21:23,458 --> 00:21:25,375
+Posso agire diversamente?
+
+324
+00:21:25,458 --> 00:21:29,166
+<span>Non parlarmi ancora della vita</span>
+
+325
+00:21:29,250 --> 00:21:33,625
+Ne è passato di tempo, Ikari.
+Sono Aida, Kensuke Aida.
+
+326
+00:21:34,083 --> 00:21:35,750
+<span>Ehi!</span>
+
+327
+00:21:37,625 --> 00:21:40,875
+Già, è Kensuke!
+È stato lui a salvarti, sai?
+
+328
+00:21:41,541 --> 00:21:44,875
+Questo nerd della sopravvivenza
+ha salvato tantissime volte anche me.
+
+329
+00:21:45,333 --> 00:21:48,541
+Se non fosse stato per lui
+di certo sarei già morto da un pezzo.
+
+330
+00:21:54,333 --> 00:21:58,041
+Shinji, resta pure zitto,
+ma almeno mangia il pasto offerto.
+
+331
+00:21:58,125 --> 00:22:01,791
+- Per educazione.
+- Ma no, papà, lascia stare.
+
+332
+00:22:01,875 --> 00:22:04,625
+Sono stato io a obbligarli a venire qui.
+
+333
+00:22:04,708 --> 00:22:06,416
+Lasciamolo in pace per oggi.
+
+334
+00:22:06,500 --> 00:22:08,166
+Certo Tohji, però...
+
+335
+00:22:08,250 --> 00:22:11,541
+rifiutare così un pasto offerto
+è offensivo.
+
+336
+00:22:11,625 --> 00:22:14,250
+Neanche l'ha assaggiato. Andiamo, Shinji!
+
+337
+00:22:15,375 --> 00:22:18,125
+Piano, papà! Così sveglierai Tsubame.
+
+338
+00:22:18,750 --> 00:22:20,833
+Su, puliamo e stendiamo i futon.
+
+339
+00:22:21,333 --> 00:22:23,708
+Tesoro, prendili anche per Shinji
+e la signorina Sosia.
+
+340
+00:22:23,791 --> 00:22:26,583
+No, mi occuperò io di Shinji.
+
+341
+00:22:26,666 --> 00:22:28,458
+Penso che sia meglio così.
+
+342
+00:22:35,041 --> 00:22:39,125
+È assurdo, vero?
+Tohji e la capoclasse si sono sposati.
+
+343
+00:22:39,208 --> 00:22:41,833
+Quando eravamo ancora a scuola,
+non facevano che litigare.
+
+344
+00:22:42,750 --> 00:22:45,875
+Però, è iniziato tutto
+dal Near Third Impact.
+
+345
+00:22:45,958 --> 00:22:48,041
+Si sono presi cura l'uno dell'altra.
+
+346
+00:22:49,833 --> 00:22:54,083
+Ikari, il Near
+non ha portato solo cose negative.
+
+347
+00:23:11,250 --> 00:23:13,750
+Dobbiamo salire ancora il pendio. Ikari.
+
+348
+00:23:19,708 --> 00:23:20,875
+Ecco, siamo arrivati.
+
+349
+00:23:21,333 --> 00:23:23,250
+Sono le rovine di una stazione dismessa.
+
+350
+00:23:23,333 --> 00:23:25,916
+L'ho trasformata in una casa.
+Mettiti pure comodo.
+
+351
+00:23:26,333 --> 00:23:28,291
+Se hai bisogno del bagno è lì.
+
+352
+00:23:28,375 --> 00:23:31,000
+Prendo del carburante,
+tu entra, nel frattempo.
+
+353
+00:23:39,083 --> 00:23:40,583
+Ehi, sono nuda.
+
+354
+00:23:40,666 --> 00:23:43,041
+Che succede,
+non arrossisci più per l'imbarazzo?
+
+355
+00:23:45,208 --> 00:23:48,291
+Accidenti. Ma perché Ken-Ken
+ha portato qui questo depresso?
+
+356
+00:23:48,375 --> 00:23:49,958
+Sono proprio curiosa.
+
+357
+00:23:50,041 --> 00:23:51,333
+Sono a casa.
+
+358
+00:23:51,875 --> 00:23:55,166
+Sì, c'è anche lei.
+Penso che rimarrà qui per un po'.
+
+359
+00:23:55,250 --> 00:23:58,541
+Per vari motivi, diciamo che Shikinami
+non può farsi vedere al Villaggio.
+
+360
+00:23:58,625 --> 00:24:01,750
+E non solo,
+Mi irrita che ci siano tutti quei Lilin.
+
+361
+00:24:09,916 --> 00:24:12,541
+La vista del DSS Choker
+ti fa questo effetto?
+
+362
+00:24:16,166 --> 00:24:18,458
+Ken-Ken, sei troppo buono con lui.
+
+363
+00:24:18,541 --> 00:24:20,333
+Dovrebbe pulire da solo lo schifo
+che ha fatto.
+
+364
+00:24:20,750 --> 00:24:23,916
+Ikari non è in grado di fare niente,
+adesso. Non mangia nemmeno.
+
+365
+00:24:24,333 --> 00:24:26,000
+Gli sarà successo qualcosa di traumatico.
+
+366
+00:24:26,083 --> 00:24:28,000
+Si comporta come al solito.
+
+367
+00:24:28,083 --> 00:24:32,833
+Fa sempre così, si chiude in se stesso
+e non guarda in faccia a nessuno.
+
+368
+00:24:32,916 --> 00:24:35,750
+Per lui è normale.
+Fidati, lascialo perdere.
+
+369
+00:24:35,833 --> 00:24:37,541
+Non ha voglia di vivere,
+ma non vuole morire.
+
+370
+00:24:39,041 --> 00:24:41,791
+Ikari, non ti devi preoccupare.
+
+371
+00:24:41,875 --> 00:24:44,208
+È un'occasione
+per essere di nuovo insieme.
+
+372
+00:24:44,291 --> 00:24:47,333
+Chiedi pure quello che vuoi.
+Siamo amici, ricordi?
+
+373
+00:24:48,416 --> 00:24:50,958
+Sono davvero felice
+che tu sia ancora vivo.
+
+374
+00:24:55,833 --> 00:25:01,416
+Ehi, responsabile
+non dovevi preoccuparti così tanto.
+
+375
+00:25:01,500 --> 00:25:05,250
+Grazie per tutto quello che fai.
+Buonanotte, tesoro.
+
+376
+00:25:06,166 --> 00:25:08,916
+Perché dici "buonanotte"?
+
+377
+00:25:09,000 --> 00:25:12,750
+Ecco... è una formula comune
+per augurare un buon riposo.
+
+378
+00:25:13,625 --> 00:25:15,416
+Buonanotte, signorina Sosia.
+
+379
+00:25:40,791 --> 00:25:45,875
+Non ce la faccio più a fingere di dormire.
+Mi chiedo quando riuscirò a farlo davvero.
+
+380
+00:26:14,625 --> 00:26:16,125
+Buongiorno.
+
+381
+00:26:16,208 --> 00:26:17,833
+Perché dici "buongiorno"?
+
+382
+00:26:17,916 --> 00:26:22,041
+Diciamo che è per augurarci
+di rimanere in vita anche oggi.
+
+383
+00:26:22,583 --> 00:26:24,625
+Buongiorno, signorina Sosia.
+
+384
+00:26:30,416 --> 00:26:33,875
+Ken-Ken si alza ogni giorno alle 6:00.
+È già andato a lavorare.
+
+385
+00:26:34,458 --> 00:26:37,041
+Ecco la colazione. Vedi di mangiarla.
+
+386
+00:26:40,208 --> 00:26:43,500
+Cara, non ti sembra
+di indossare un vestito troppo attillato?
+
+387
+00:26:43,583 --> 00:26:47,041
+La moglie del Professore ci ha chiesto
+di occuparci della signorina Sosia.
+
+388
+00:26:47,125 --> 00:26:50,666
+Signorina Sosia?
+Penso che il suo nome nasconda qualcosa.
+
+389
+00:26:50,750 --> 00:26:52,166
+Faremo bene a tenerla con noi?
+
+390
+00:26:52,250 --> 00:26:54,250
+Se può lavorare, che problema c'è?
+
+391
+00:26:54,916 --> 00:26:57,916
+Lavorare? Posso farlo, se è un ordine.
+
+392
+00:26:58,000 --> 00:27:00,375
+Non è un ordine, è più un incarico.
+
+393
+00:27:01,041 --> 00:27:02,375
+E che cos'è un incarico?
+
+394
+00:27:02,458 --> 00:27:06,500
+- Che cosa ha appena chiesto?
+- Non importa, lascia perdere.
+
+395
+00:27:06,583 --> 00:27:09,041
+Beh, è quando sudi
+per guadagnarti da mangiare.
+
+396
+00:27:10,250 --> 00:27:11,875
+Quando sudi.
+
+397
+00:27:12,208 --> 00:27:14,041
+Fai piano, usa tre dita.
+
+398
+00:27:14,125 --> 00:27:17,583
+Bene. Così. Adesso lo tiri,
+e dopo lo lasci andare.
+
+399
+00:27:20,958 --> 00:27:23,916
+Non stringerlo troppo.
+Appoggia piano le dita.
+
+400
+00:27:24,000 --> 00:27:25,750
+Bene, devi solo prenderci la mano.
+
+401
+00:27:32,958 --> 00:27:37,291
+Forza! Cerca di tenere il passo,
+sei ancora troppo lenta.
+
+402
+00:27:42,916 --> 00:27:44,291
+Questo è "sudare"?
+
+403
+00:27:53,291 --> 00:27:54,333
+Questo è "lavoro"?
+
+404
+00:27:56,875 --> 00:27:59,625
+- Oh, le avevamo appena piantate.
+- Ormai è successo.
+
+405
+00:27:59,708 --> 00:28:01,916
+Forza, ti do una mano.
+
+406
+00:28:07,625 --> 00:28:12,041
+Grazie di tutto.
+Anche oggi abbiamo completato le mansioni.
+
+407
+00:28:12,125 --> 00:28:15,333
+Tieni. Un piccolo extra
+per aver lavorato così bene con noi.
+
+408
+00:28:17,291 --> 00:28:19,500
+In questi casi, cosa bisogna dire?
+
+409
+00:28:20,250 --> 00:28:21,833
+Ti ringrazio.
+
+410
+00:28:22,375 --> 00:28:24,208
+Ti ringrazio.
+
+411
+00:28:24,708 --> 00:28:28,625
+- Andiamo a rilassarci alle terme.
+- Cosa sono le terme?
+
+412
+00:28:28,708 --> 00:28:31,125
+TERME DEL MEMORIALE
+
+413
+00:28:32,541 --> 00:28:33,666
+Queste sono le terme.
+
+414
+00:28:37,583 --> 00:28:39,958
+Che c'è?
+Hai qualche problema a spogliarti?
+
+415
+00:28:46,875 --> 00:28:48,833
+Le terme sono strane.
+
+416
+00:28:48,916 --> 00:28:51,291
+A differenza dell'LCL, l'acqua è calda.
+
+417
+00:28:55,375 --> 00:29:00,333
+E io, nonostante non abbia ordini,
+sono viva. Perché?
+
+418
+00:29:03,416 --> 00:29:05,666
+Pensi di fare pena a qualcuno
+con questa sceneggiata,
+
+419
+00:29:05,750 --> 00:29:07,958
+rimanendo in silenzio in un angolo?
+
+420
+00:29:08,666 --> 00:29:11,458
+Mi sei d'intralcio nelle pulizie. Idiota.
+
+421
+00:29:14,291 --> 00:29:16,375
+Oh, non sei la mamma.
+
+422
+00:29:16,458 --> 00:29:20,500
+Bentornata, signorina Sosia.
+È andata bene al lavoro?
+
+423
+00:29:21,500 --> 00:29:23,333
+Perdonami, sono in ritardo.
+
+424
+00:29:23,875 --> 00:29:26,708
+Ehi! Mamma!
+
+425
+00:29:26,791 --> 00:29:29,458
+- Hai fatto la brava?
+- Sì!
+
+426
+00:29:31,333 --> 00:29:33,125
+Grazie, Hikari, come al solito.
+
+427
+00:29:33,208 --> 00:29:36,250
+- Figurati. È naturale aiutarci a vicenda.
+- Evviva!
+
+428
+00:29:36,333 --> 00:29:38,833
+- Dai, torniamo a casa.
+- Sì!
+
+429
+00:29:38,916 --> 00:29:41,208
+- Arrivederci!
+- Ciao! Arrivederci!
+
+430
+00:29:42,166 --> 00:29:43,583
+Che significa "arrivederci"?
+
+431
+00:29:44,041 --> 00:29:46,750
+Diciamo che...
+è un augurio di incontrarsi di nuovo.
+
+432
+00:29:46,833 --> 00:29:48,750
+In braccio! Prendimi in braccio!
+
+433
+00:29:49,375 --> 00:29:50,375
+Dai, cammina.
+
+434
+00:29:50,458 --> 00:29:51,833
+A casa giochiamo insieme, vero?
+
+435
+00:29:52,375 --> 00:29:53,500
+Che cosa... fanno?
+
+436
+00:29:54,458 --> 00:29:57,500
+È una cosa
+che si fa quando si sta bene insieme.
+
+437
+00:30:12,791 --> 00:30:15,000
+Oh, che seccatura!
+
+438
+00:30:17,291 --> 00:30:19,833
+Guarda che non è facile per nessuno.
+
+439
+00:30:27,000 --> 00:30:28,000
+Sì, vomita ancora.
+
+440
+00:30:30,791 --> 00:30:31,916
+Sei infantile!
+
+441
+00:30:32,000 --> 00:30:33,916
+Dovresti essere grato
+che qualcuno ti sfami.
+
+442
+00:30:34,000 --> 00:30:36,458
+Sei ancora come i Lilin.
+
+443
+00:30:36,541 --> 00:30:40,916
+Devi mangiare per sopravvivere.
+Perciò adesso mangia!
+
+444
+00:30:41,000 --> 00:30:42,541
+Io ho bisogno solamente di bere.
+
+445
+00:30:42,625 --> 00:30:46,041
+Prima che il tuo corpo smetta di crescere,
+ti consiglio di assaporare il cibo.
+
+446
+00:30:46,125 --> 00:30:48,166
+Stupido bamboccio.
+
+447
+00:30:48,250 --> 00:30:53,000
+L'unico motivo per cui non fai nulla
+è che hai paura di farti male, vigliacco!
+
+448
+00:30:53,083 --> 00:30:55,750
+Ad ogni modo
+se hai tutto questo tempo libero,
+
+449
+00:30:55,833 --> 00:30:57,791
+chiediti perché mi viene voglia
+di picchiarti!
+
+450
+00:30:57,875 --> 00:30:59,125
+Cavolo, quanto sei emotivo.
+
+451
+00:31:04,000 --> 00:31:09,125
+Qualunque cosa tu faccia,
+ti si ritorce sempre contro,
+
+452
+00:31:09,208 --> 00:31:11,000
+sei davvero una causa persa.
+
+453
+00:31:11,083 --> 00:31:15,083
+Ma è soltanto colpa tua,
+perché non vuoi fare nulla per rimediare.
+
+454
+00:31:15,166 --> 00:31:19,291
+Forse eseguivi solo gli ordini
+di tuo padre,
+
+455
+00:31:19,375 --> 00:31:23,375
+ma se sei così fragile,
+non dovevi salire sull'Eva.
+
+456
+00:31:44,875 --> 00:31:46,916
+Meriti di stare da solo. Bamboccio.
+
+457
+00:33:00,583 --> 00:33:02,250
+Sono tornato.
+
+458
+00:33:02,333 --> 00:33:03,875
+Dov'è Ikari?
+
+459
+00:33:03,958 --> 00:33:05,416
+Se n'è andato.
+
+460
+00:33:05,500 --> 00:33:06,625
+Capisco.
+
+461
+00:33:06,708 --> 00:33:10,416
+Forse lasciarlo da solo
+è la cosa migliore per lui.
+
+462
+00:33:10,500 --> 00:33:12,041
+Sai dov'è andato?
+
+463
+00:33:12,125 --> 00:33:14,166
+A nord, alle rovine del lago.
+
+464
+00:33:14,250 --> 00:33:17,791
+Al vecchio Quartier Generale della Nerv.
+Sarà l'abitudine?
+
+465
+00:33:17,875 --> 00:33:20,416
+- Ha mangiato?
+- L'ho costretto a farlo.
+
+466
+00:33:20,500 --> 00:33:22,125
+Resisterà per un po'.
+
+467
+00:33:22,208 --> 00:33:23,958
+Ti ringrazio, Shikinami.
+
+468
+00:33:24,041 --> 00:33:26,541
+Non serve. Non l'ho fatto per lui.
+
+469
+00:33:26,625 --> 00:33:30,416
+Ma non sarò la causa della sua morte,
+sarà il suo stesso egoismo a ucciderlo.
+
+470
+00:33:43,916 --> 00:33:45,250
+Qual è il mio nome?
+
+471
+00:33:45,333 --> 00:33:49,458
+Già. Non possiamo continuare
+a chiamarti signorina Sosia.
+
+472
+00:33:49,541 --> 00:33:50,875
+Il Professore ci ha detto
+
+473
+00:33:50,958 --> 00:33:53,166
+che in realtà
+non ti ricordi più come ti chiami.
+
+474
+00:33:53,250 --> 00:33:55,791
+Quindi perché non ti scegli adesso
+un nome nuovo?
+
+475
+00:33:56,916 --> 00:33:59,708
+Scegliere il mio nome?
+
+476
+00:34:11,500 --> 00:34:14,666
+BIBLIOTECA
+
+477
+00:34:17,708 --> 00:34:19,333
+Libri.
+
+478
+00:34:19,416 --> 00:34:21,291
+<span>Quelli di cui parlava Ikari?</span>
+
+479
+00:34:32,458 --> 00:34:33,833
+Ricordati di restituirlo.
+
+480
+00:34:35,416 --> 00:34:37,041
+Ti ringrazio.
+
+481
+00:34:37,791 --> 00:34:39,208
+Leggi?
+
+482
+00:34:39,291 --> 00:34:40,625
+OCHIBISAN E IL PORCOSPINO
+
+483
+00:34:40,708 --> 00:34:41,708
+<span>Ti ringrazio.</span>
+
+484
+00:34:52,708 --> 00:34:53,791
+Sei sola.
+
+485
+00:34:54,666 --> 00:34:59,375
+E come lo sei adesso,
+lo sei sempre stata.
+
+486
+00:34:59,458 --> 00:35:02,291
+Per te è la normalità, Asuka.
+
+487
+00:35:07,458 --> 00:35:08,750
+Chi è?
+
+488
+00:35:09,833 --> 00:35:12,500
+- Sono io.
+- Il lotto iniziale?
+
+489
+00:35:13,958 --> 00:35:15,250
+Su, entra pure.
+
+490
+00:35:17,583 --> 00:35:20,125
+Dov'è Ikari? Pensavo di trovarlo qui.
+
+491
+00:35:20,208 --> 00:35:23,291
+Non c'è, mi spiace. Se ne è andato.
+
+492
+00:35:23,375 --> 00:35:25,291
+Capisco. Allora andrò a cercarlo.
+
+493
+00:35:25,916 --> 00:35:27,208
+Voglio dirti una cosa.
+
+494
+00:35:27,291 --> 00:35:30,458
+Noi piloti di Eva, come gli Eva,
+siamo controllati da inibitori
+
+495
+00:35:30,541 --> 00:35:32,666
+che ci impediscono di superare
+i limiti umani.
+
+496
+00:35:33,583 --> 00:35:35,833
+La tua mancanza di emozioni ne è la prova.
+
+497
+00:35:35,916 --> 00:35:39,208
+Sei il risultato di uno schema
+dei comportamenti umani.
+
+498
+00:35:39,291 --> 00:35:40,708
+Voi Ayanami Series avete lo scopo
+
+499
+00:35:40,791 --> 00:35:43,416
+di conquistare la fiducia
+del Terzo Ragazzo.
+
+500
+00:35:44,375 --> 00:35:45,625
+I sentimenti che provi,
+
+501
+00:35:45,708 --> 00:35:47,625
+te li ha impiantati la Nerv
+quando ti ha creata.
+
+502
+00:35:49,000 --> 00:35:52,625
+Capisco. Ma non importa.
+Mi sta bene in questo modo.
+
+503
+00:35:53,125 --> 00:35:55,166
+"Capisco". Se sta bene a te...
+
+504
+00:35:56,000 --> 00:36:01,000
+È nell'edificio N109, tra le rovine
+della Seconda Divisione della Nerv.
+
+505
+00:36:01,083 --> 00:36:02,875
+Ti ringrazio.
+
+506
+00:36:02,958 --> 00:36:05,708
+Visto che stai andando da lui,
+portati delle razioni.
+
+507
+00:36:05,791 --> 00:36:07,000
+Sicuramente sarà allo stremo.
+
+508
+00:36:07,875 --> 00:36:10,833
+Perché non vieni al Villaggio
+e non ti metti a lavorare anche tu?
+
+509
+00:36:10,916 --> 00:36:12,500
+Ma sei stupida?
+
+510
+00:36:12,583 --> 00:36:15,958
+Non ho alcuna intenzione di vivere lì.
+Qui sono al sicuro.
+
+511
+00:36:28,208 --> 00:36:29,875
+Ikari.
+
+512
+00:36:33,791 --> 00:36:36,916
+Mi hanno insegnato a riconsegnare
+ciò che ho preso in prestito.
+
+513
+00:37:06,666 --> 00:37:08,375
+Io ritornerò.
+
+514
+00:39:48,125 --> 00:39:50,916
+Sicuro che sia meglio lasciare Shinji
+da solo?
+
+515
+00:39:51,000 --> 00:39:52,791
+Forse potrebbe essere pericoloso.
+
+516
+00:39:53,208 --> 00:39:54,958
+Lasciamolo stare per ora.
+
+517
+00:39:55,041 --> 00:39:57,291
+Ikari adesso
+ha bisogno di un po' di tempo.
+
+518
+00:39:57,875 --> 00:39:59,541
+Certo Kensuke, ma...
+
+519
+00:39:59,625 --> 00:40:02,458
+non pensi che Shinji
+possa avere freddo là fuori?
+
+520
+00:40:02,541 --> 00:40:05,458
+Non serve a niente preoccuparsi
+così tanto.
+
+521
+00:40:05,541 --> 00:40:08,625
+Presto ritornerà. Dobbiamo fidarci di lui.
+
+522
+00:40:08,708 --> 00:40:10,041
+Lo spero.
+
+523
+00:40:11,500 --> 00:40:14,666
+Shinji si adatterebbe in fretta
+allo stile di vita del Villaggio.
+
+524
+00:40:21,500 --> 00:40:23,958
+Ikari, non sarebbe meglio
+se tornassi al Villaggio?
+
+525
+00:40:28,000 --> 00:40:33,333
+Ikari, qui non hai niente da fare.
+Puoi proteggere anche tu il Villaggio, no?
+
+526
+00:40:35,333 --> 00:40:38,291
+Non voglio proteggere niente.
+
+527
+00:40:38,375 --> 00:40:40,250
+Io ho distrutto ogni cosa.
+
+528
+00:40:41,333 --> 00:40:44,041
+Non voglio fare niente!
+Non parlerò con nessuno!
+
+529
+00:40:44,125 --> 00:40:45,250
+Che nessuno venga qui!
+
+530
+00:40:45,666 --> 00:40:49,583
+Io voglio solo essere lasciato in pace.
+
+531
+00:40:51,416 --> 00:40:55,125
+Ma perché tutti sono così gentili con me?
+
+532
+00:40:57,458 --> 00:40:58,875
+Perché ti vogliamo bene, Ikari.
+
+533
+00:41:01,666 --> 00:41:03,750
+Ti ringrazio per aver parlato con me.
+
+534
+00:41:06,375 --> 00:41:09,625
+Ecco... questo si fa
+quando si sta bene insieme.
+
+535
+00:41:27,833 --> 00:41:30,166
+Finito di girare?
+Il lotto iniziale ti ha convinto?
+
+536
+00:41:34,000 --> 00:41:36,875
+Dopo aver pianto tanto,
+ti senti più riposato?
+
+537
+00:41:40,125 --> 00:41:41,666
+Certo.
+
+538
+00:41:41,750 --> 00:41:45,250
+Visto che riesci a muoverti,
+allora, vedi di aiutare Ken-Ken.
+
+539
+00:41:54,583 --> 00:41:58,166
+Un giro in auto, a volte, fa molto bene.
+Ti libera la mente.
+
+540
+00:41:58,708 --> 00:42:00,625
+Sono stato esonerato dal lavoro agricolo,
+
+541
+00:42:00,708 --> 00:42:02,416
+che è la principale attività
+nel Villaggio.
+
+542
+00:42:02,500 --> 00:42:04,333
+In compenso lavoro come tuttofare.
+
+543
+00:42:04,875 --> 00:42:08,250
+Qui la maggior parte delle infrastrutture
+ha esaurito il proprio ciclo vitale.
+
+544
+00:42:08,666 --> 00:42:09,666
+È un lavoro impegnativo.
+
+545
+00:42:10,583 --> 00:42:15,041
+E purtroppo, molte ormai
+non possono neanche più essere riparate,
+
+546
+00:42:15,125 --> 00:42:17,333
+perciò abbiamo dovuto abbandonarle.
+
+547
+00:42:28,083 --> 00:42:32,083
+Raccogliamo soltanto i rami caduti
+o potiamo quelli più in basso.
+
+548
+00:42:32,166 --> 00:42:34,708
+Cerchiamo di prenderci cura
+delle foreste rimaste.
+
+549
+00:42:39,583 --> 00:42:42,750
+La vita al Villaggio Tre
+dipende completamente da quest'acqua.
+
+550
+00:42:43,333 --> 00:42:45,208
+È fondamentale tenerne d'occhio il flusso.
+
+551
+00:42:45,750 --> 00:42:49,958
+La quantità d'acqua a nostra disposizione
+determina la vita o la morte al Villaggio.
+
+552
+00:42:52,250 --> 00:42:54,125
+Vado a controllare la sorgente.
+
+553
+00:42:54,208 --> 00:42:57,208
+La strada è molto ripida,
+perciò trovati da fare qui.
+
+554
+00:42:57,750 --> 00:42:59,750
+Tieni, puoi procurarci qualcosa
+da mangiare.
+
+555
+00:43:00,791 --> 00:43:03,083
+Non voglio.
+Io non l'ho mai fatto prima d'ora.
+
+556
+00:43:03,166 --> 00:43:04,166
+E non so come si fa.
+
+557
+00:43:04,250 --> 00:43:06,875
+Fa' un tentativo prima di arrenderti.
+
+558
+00:43:10,750 --> 00:43:14,208
+Dai, non preoccuparti.
+Me ne richiedono solo uno a settimana.
+
+559
+00:43:14,291 --> 00:43:15,333
+Sarà per la prossima volta.
+
+560
+00:43:18,625 --> 00:43:20,791
+Quello è un regalo dalla Wille.
+
+561
+00:43:21,500 --> 00:43:24,125
+Un dispositivo
+che annulla il processo di purificazione
+
+562
+00:43:24,208 --> 00:43:26,041
+della Barriera-L.
+
+563
+00:43:26,125 --> 00:43:29,166
+Grazie a quello il Villaggio Tre
+non viene contaminato dal Core.
+
+564
+00:43:29,708 --> 00:43:31,125
+È merito dell'equipe di Misato.
+
+565
+00:43:36,083 --> 00:43:38,041
+Ultimamente, li troviamo spesso.
+
+566
+00:43:38,125 --> 00:43:40,125
+Noi li chiamiamo Haikai. Vagabondi.
+
+567
+00:43:40,208 --> 00:43:42,166
+Eva senza testa sepolti da sempre
+
+568
+00:43:42,250 --> 00:43:43,875
+che improvvisamente
+hanno iniziato a muoversi.
+
+569
+00:43:44,750 --> 00:43:45,875
+Oggi siamo qui per osservarli.
+
+570
+00:43:47,083 --> 00:43:50,541
+Già, non vanno mai oltre
+quel Pilastro di Contenimento.
+
+571
+00:43:50,625 --> 00:43:53,416
+A quanto pare,
+ha effetto anche su di loro.
+
+572
+00:43:53,500 --> 00:43:55,708
+Ci sono cose impossibili
+anche per un tuttofare.
+
+573
+00:43:55,791 --> 00:43:57,458
+Se smettesse di funzionare,
+saremmo fregati.
+
+574
+00:44:01,416 --> 00:44:02,791
+Come puoi immaginare,
+
+575
+00:44:02,875 --> 00:44:06,041
+nessuno di noi sa effettivamente
+fin quando reggerà.
+
+576
+00:44:06,125 --> 00:44:10,125
+Però fino a quel momento,
+dobbiamo impegnarci per sopravvivere.
+
+577
+00:44:11,583 --> 00:44:13,208
+Sono prugne secche.
+
+578
+00:44:13,291 --> 00:44:15,958
+Ogni anno, mio marito
+non vede l'ora di poterle mangiare.
+
+579
+00:44:17,208 --> 00:44:21,041
+La vita alla fine è un continuo ripetersi
+di cose belle e cose brutte.
+
+580
+00:44:21,125 --> 00:44:23,375
+Ogni giorno potrebbe essere uguale
+a questo.
+
+581
+00:44:23,458 --> 00:44:25,416
+Penso che sia così che vada.
+
+582
+00:44:25,500 --> 00:44:28,375
+Non sarò mai più giovane
+come lo sono adesso.
+
+583
+00:44:28,458 --> 00:44:31,375
+Voglio vivere al meglio ogni momento.
+Insieme alla mia Tsubame.
+
+584
+00:44:34,166 --> 00:44:36,708
+Incredibile, sembra
+si sia affezionata molto a te.
+
+585
+00:44:37,416 --> 00:44:41,875
+Signorina Sosia,
+se vuoi puoi restare qui con noi.
+
+586
+00:44:42,833 --> 00:44:43,875
+Qual è il mio nome?
+
+587
+00:44:43,958 --> 00:44:47,208
+Esatto. Allora ne hai scelto uno?
+
+588
+00:44:47,291 --> 00:44:48,458
+Non ci ho pensato.
+
+589
+00:44:48,541 --> 00:44:50,750
+Beh, chiedi a qualcuno
+di sceglierlo per te.
+
+590
+00:44:51,750 --> 00:44:52,791
+Che cosa, il tuo nome?
+
+591
+00:44:53,333 --> 00:44:55,958
+Sì. Vorrei che mi aiutassi a sceglierlo.
+
+592
+00:44:57,083 --> 00:45:00,416
+Mi piace stare qui,
+per questo mi serve un nome.
+
+593
+00:45:01,166 --> 00:45:03,166
+E voglio che sia tu a darmelo.
+
+594
+00:45:03,625 --> 00:45:06,791
+Devo darti un nome,
+ma che non sia Ayanami.
+
+595
+00:45:06,875 --> 00:45:08,333
+Un nome qualunque, allora.
+
+596
+00:45:09,333 --> 00:45:13,875
+No, Ikari io voglio solo il nome
+che mi sceglierai tu.
+
+597
+00:45:18,958 --> 00:45:21,041
+Va tutto bene con il lotto iniziale?
+
+598
+00:45:23,625 --> 00:45:25,416
+Oggi è venuta a trovarmi, perché?
+
+599
+00:45:26,416 --> 00:45:28,083
+Niente. Chiedevo solo.
+
+600
+00:45:59,458 --> 00:46:03,250
+Quindi, io posso vivere soltanto
+alla Nerv.
+
+601
+00:46:11,750 --> 00:46:13,833
+- Andiamo, forza.
+- Non abbiamo ancora finito.
+
+602
+00:46:13,916 --> 00:46:17,166
+Allora Shinji,
+Ti sei abituato alla vita al Villaggio?
+
+603
+00:46:17,583 --> 00:46:20,291
+- Sì. Abbastanza.
+- Mi fa piacere.
+
+604
+00:46:20,916 --> 00:46:23,708
+Questo Villaggio
+è nato dall'unione di tanti estranei.
+
+605
+00:46:23,791 --> 00:46:26,416
+Ma in qualche modo,
+siamo riusciti a restare insieme.
+
+606
+00:46:26,500 --> 00:46:28,500
+All'inizio è stato difficile?
+
+607
+00:46:28,583 --> 00:46:32,625
+Certo, diciamo
+che... sono accadute tantissime cose.
+
+608
+00:46:33,375 --> 00:46:36,875
+È un mondo che non ci ha permesso
+di restare bambini a lungo.
+
+609
+00:46:36,958 --> 00:46:39,083
+Siamo dovuti crescere in fretta
+
+610
+00:46:39,166 --> 00:46:41,125
+e abbiamo dovuto imparare
+a sopravvivere da soli.
+
+611
+00:46:41,875 --> 00:46:46,375
+Per il bene della mia famiglia ho fatto
+molte cose di cui ora mi vergogno.
+
+612
+00:46:46,458 --> 00:46:48,750
+Pur di sopravvivere
+ho commesso azioni indicibili.
+
+613
+00:46:49,666 --> 00:46:51,458
+Neanche sono un vero dottore.
+
+614
+00:46:51,541 --> 00:46:53,833
+Mi impegno a fare la parte del medico.
+
+615
+00:46:53,916 --> 00:46:56,333
+Sono un autodidatta
+che aiuta gli altri come può.
+
+616
+00:46:56,916 --> 00:46:57,916
+Faccio quello che faccio
+
+617
+00:46:58,000 --> 00:47:00,750
+grazie agli strumenti diagnostici
+che ci fornisce la Kredit.
+
+618
+00:47:01,250 --> 00:47:04,458
+Tohji tu sei molto bravo.
+E salvi la vita della gente.
+
+619
+00:47:05,083 --> 00:47:07,375
+Ci sono tanti che non riesco a salvare.
+
+620
+00:47:07,458 --> 00:47:10,250
+Sono tempi bui,
+ma credo che il compito di un medico
+
+621
+00:47:10,333 --> 00:47:13,333
+sia non farsi sopraffare dalla rabbia,
+e mi impegno.
+
+622
+00:47:13,416 --> 00:47:15,083
+Tutto quello che faccio lo faccio,
+
+623
+00:47:15,166 --> 00:47:18,416
+perché, prima di morire,
+voglio lasciare un segno.
+
+624
+00:47:18,500 --> 00:47:20,000
+Questo pensiero mi mantiene in vita.
+
+625
+00:47:21,125 --> 00:47:26,083
+Shinji, tu hai già combattuto abbastanza
+per tutti noi.
+
+626
+00:47:26,166 --> 00:47:29,500
+Secondo me ora dovresti restare qui
+e vivere con la mia famiglia.
+
+627
+00:47:30,208 --> 00:47:31,208
+Sarebbe la cosa più giusta.
+
+628
+00:47:40,375 --> 00:47:44,000
+Vi ringrazio
+per essere venuti con me così presto.
+
+629
+00:47:44,083 --> 00:47:46,208
+Mio padre è sopravvissuto al Near,
+
+630
+00:47:46,291 --> 00:47:50,375
+non avrei mai pensato che alla fine
+sarebbe morto in un semplice incidente.
+
+631
+00:47:51,166 --> 00:47:54,541
+Forse avrei dovuto parlare di più con lui,
+bere qualcosa insieme,
+
+632
+00:47:54,625 --> 00:47:56,666
+e avrei dovuto ascoltare le sue lamentele.
+
+633
+00:47:57,625 --> 00:47:59,750
+Tuo padre è ancora vivo, giusto?
+
+634
+00:47:59,833 --> 00:48:01,125
+Dovresti parlare con lui,
+
+635
+00:48:01,208 --> 00:48:04,333
+anche se pensi sia una perdita di tempo.
+O un giorno te ne pentirai.
+
+636
+00:48:04,416 --> 00:48:08,208
+Gli stai chiedendo decisamente troppo.
+Parliamo di Gendoh Ikari.
+
+637
+00:48:09,958 --> 00:48:13,208
+Però sono padre e figlio.
+Un legame ci deve essere.
+
+638
+00:48:23,250 --> 00:48:26,166
+Pare che la signora Matsukata
+abbia avuto un parto difficile,
+
+639
+00:48:26,250 --> 00:48:27,666
+ma alla fine è andato tutto bene.
+
+640
+00:48:27,750 --> 00:48:29,791
+Sono contenta
+che il bambino sia in salute.
+
+641
+00:48:29,875 --> 00:48:32,416
+So che il marito piangeva dalla gioia.
+
+642
+00:48:32,500 --> 00:48:37,166
+<span>La distribuzione nel distretto di Sukeda</span>
+<span>avverrà domani mattina come programmato.</span>
+
+643
+00:48:37,250 --> 00:48:41,375
+- Ehi, tu! Allora sai anche sorridere.
+- Già. Sei così carina.
+
+644
+00:48:41,458 --> 00:48:44,208
+Infatti, sei proprio una bella ragazza.
+
+645
+00:48:44,291 --> 00:48:46,083
+Perché non ti cambi quel vestito,
+ogni tanto?
+
+646
+00:48:47,125 --> 00:48:49,625
+Sì. Proverò a vestirmi diversamente.
+
+647
+00:48:51,958 --> 00:48:54,333
+Senti,
+che ne dici di provarti questo qui?
+
+648
+00:48:56,333 --> 00:48:58,083
+Oh, sì, ti sta benissimo!
+
+649
+00:48:58,166 --> 00:49:00,750
+Sei davvero carina.
+Quanto ti vorrei come nuora.
+
+650
+00:49:01,791 --> 00:49:03,416
+Questa è la timidezza?
+
+651
+00:49:03,833 --> 00:49:05,166
+Sei incredibilmente bella.
+
+652
+00:49:06,083 --> 00:49:08,250
+Questo è l'imbarazzo?
+
+653
+00:49:10,708 --> 00:49:16,083
+Perdonami. So che sentirai molto caldo,
+ma devi proprio indossarla per un po'.
+
+654
+00:49:16,583 --> 00:49:18,625
+Essendo il tuttofare del Villaggio
+
+655
+00:49:18,708 --> 00:49:21,041
+ho anche un contatto diretto
+con la Kredit.
+
+656
+00:49:26,333 --> 00:49:28,958
+Stiamo conducendo degli esperimenti
+per ricostruire le aree
+
+657
+00:49:29,041 --> 00:49:30,916
+in cui la Barriera-L è più debole.
+
+658
+00:49:31,000 --> 00:49:32,625
+È un laboratorio esterno della Kredit.
+
+659
+00:49:33,291 --> 00:49:37,500
+A dirla tutta, qui c'è una persona
+dello staff che vorrei incontrare.
+
+660
+00:49:38,625 --> 00:49:40,500
+Professor Aida!
+
+661
+00:49:43,625 --> 00:49:47,125
+È tanto che non ci vediamo.
+Lui deve essere il tuo nuovo assistente.
+
+662
+00:49:47,750 --> 00:49:50,250
+Sì, qualcosa del genere.
+
+663
+00:49:50,333 --> 00:49:52,083
+È la prima volta
+che incontro uno straniero.
+
+664
+00:49:54,375 --> 00:49:58,375
+Io mi chiamo Kaji. Ryoji Kaji.
+Qual è il tuo nome?
+
+665
+00:50:02,666 --> 00:50:05,916
+Che ne pensi, Ikari? Sembra in gamba, no?
+
+666
+00:50:07,041 --> 00:50:10,083
+Però, il suo nome, Kaji... beh...
+
+667
+00:50:10,166 --> 00:50:15,375
+Già. È figlio della signorina Misato
+e del signor Kaji. Ha quasi 14 anni.
+
+668
+00:50:15,458 --> 00:50:18,000
+Lui non sa nulla dei suoi genitori.
+
+669
+00:50:18,083 --> 00:50:20,125
+Misato ha voluto così.
+
+670
+00:50:20,208 --> 00:50:24,000
+Non essendo in grado di fargli da madre,
+ha deciso di non incontrarlo mai,
+
+671
+00:50:24,083 --> 00:50:25,416
+preferendo proteggere suo figlio
+
+672
+00:50:25,500 --> 00:50:29,500
+con il ruolo di Comandante
+a capo della Wille.
+
+673
+00:50:29,583 --> 00:50:33,250
+Invece il signor Kaji?
+
+674
+00:50:33,333 --> 00:50:34,625
+È deceduto.
+
+675
+00:50:34,708 --> 00:50:38,750
+Serviva qualcuno che si sacrificasse
+per fermare il Third Impact.
+
+676
+00:50:38,833 --> 00:50:43,500
+Il signor Kaji ha scelto di farlo
+e Misato non l'ha fermato.
+
+677
+00:50:43,583 --> 00:50:45,083
+La signorina Misato si è pentita
+
+678
+00:50:45,166 --> 00:50:48,541
+di averti scaricato
+tutte le responsabilità, Ikari.
+
+679
+00:50:48,625 --> 00:50:50,208
+Sa che avrebbe dovuto sorreggerti.
+
+680
+00:50:51,375 --> 00:50:54,666
+Penso sia per questo che non vuole
+che tu salga più a bordo di un Eva.
+
+681
+00:50:55,958 --> 00:51:01,416
+Ikari, non sei l'unico che sta soffrendo.
+Anche Misato soffre quanto te.
+
+682
+00:51:14,750 --> 00:51:15,875
+L'odore della terra.
+
+683
+00:51:18,333 --> 00:51:19,333
+Signor Kaji...
+
+684
+00:51:20,833 --> 00:51:22,916
+Ehi, domani la Wunder verrà a riprenderti.
+
+685
+00:51:23,333 --> 00:51:25,125
+Ecco le indicazioni sul reintegro a bordo.
+
+686
+00:51:26,541 --> 00:51:29,750
+I documenti sul Villaggio
+che la signorina Misato ha richiesto.
+
+687
+00:51:29,833 --> 00:51:32,333
+Le foto di famiglia
+dei membri della Wille.
+
+688
+00:51:32,416 --> 00:51:35,208
+E infine questa è una lettera di Tohji
+per sua sorella.
+
+689
+00:51:35,291 --> 00:51:37,458
+Mi ha scongiurato di fargliela avere.
+
+690
+00:51:38,625 --> 00:51:39,833
+Ok, è tutto chiaro.
+
+691
+00:51:41,583 --> 00:51:43,208
+Sono tornato.
+
+692
+00:52:01,708 --> 00:52:03,500
+Lacrime?
+
+693
+00:52:04,958 --> 00:52:07,625
+Sono io che sto piangendo?
+
+694
+00:52:13,458 --> 00:52:15,750
+Questa è la solitudine?
+
+695
+00:52:19,458 --> 00:52:22,125
+Buongiorno, signorina Sosia.
+
+696
+00:52:32,375 --> 00:52:38,250
+"Buonanotte. Buongiorno.
+Ti ringrazio. Arrivederci."
+
+697
+00:52:43,458 --> 00:52:46,041
+- Buongiorno.
+- Buongiorno.
+
+698
+00:52:46,125 --> 00:52:47,541
+Tutto bene? Sei arrivata presto.
+
+699
+00:52:48,250 --> 00:52:50,166
+Avevo voglia di vederti, Ikari.
+
+700
+00:52:53,083 --> 00:52:54,750
+Tieni.
+
+701
+00:52:57,458 --> 00:52:59,166
+Ti ringrazio.
+
+702
+00:53:00,875 --> 00:53:03,833
+Riguardo il fatto di trovarti un nome...
+
+703
+00:53:03,916 --> 00:53:07,416
+Per me tu sei Ayanami.
+Non riesco a concepirne un altro.
+
+704
+00:53:08,333 --> 00:53:12,083
+Ti ringrazio
+per aver pensato a un nuovo nome.
+
+705
+00:53:12,166 --> 00:53:13,250
+Mi hai resa molto felice.
+
+706
+00:53:15,791 --> 00:53:17,875
+Ma non posso vivere qui,
+
+707
+00:53:17,958 --> 00:53:21,458
+- anche se mi piace viverci.
+- Ayanami?
+
+708
+00:53:22,500 --> 00:53:26,750
+"Piacere", ora ne capisco il senso.
+Sono felice.
+
+709
+00:53:29,083 --> 00:53:30,875
+Ayanami? Qualcosa non va?
+
+710
+00:53:33,958 --> 00:53:36,333
+Mi piaceva coltivare il riso.
+
+711
+00:53:41,000 --> 00:53:43,708
+Mi piaceva tenere in braccio Tsubame.
+
+712
+00:53:48,833 --> 00:53:51,791
+Volevo stare insieme al ragazzo
+che mi piace.
+
+713
+00:53:57,041 --> 00:53:59,166
+Arrivederci.
+
+714
+00:54:00,375 --> 00:54:01,500
+Ayanami!
+
+715
+00:54:02,250 --> 00:54:04,625
+Cosa? La signorina Sosia non è con te?
+
+716
+00:54:05,708 --> 00:54:07,416
+Cos'hai, piccola?
+
+717
+00:54:39,375 --> 00:54:41,458
+Sarebbe quella la Wunder, eh?
+
+718
+00:54:41,541 --> 00:54:44,166
+Accidenti, è gigantesca.
+
+719
+00:54:45,833 --> 00:54:48,000
+Le operazioni di carico sono frenetiche.
+
+720
+00:54:49,000 --> 00:54:52,125
+La battaglia finale è vicina.
+
+721
+00:54:54,541 --> 00:54:56,333
+Smettila! Non filmare me!
+
+722
+00:54:56,416 --> 00:55:00,958
+Perdonami.
+Ma oggi voglio riprendere ogni cosa.
+
+723
+00:55:01,041 --> 00:55:03,625
+Va bene. Fa' come ti pare.
+
+724
+00:55:09,875 --> 00:55:12,833
+E tu? Come mai sei venuto qui?
+
+725
+00:55:15,958 --> 00:55:20,291
+Ikari, se vuoi, puoi restare con noi.
+
+726
+00:55:21,500 --> 00:55:24,000
+Ti ringrazio, Kensuke.
+
+727
+00:55:24,083 --> 00:55:27,000
+Devi farmi un favore,
+ringrazia anche Tohji e gli altri.
+
+728
+00:55:29,166 --> 00:55:31,666
+Asuka, io verrò insieme a te.
+
+729
+00:55:32,500 --> 00:55:35,625
+Capisco.
+Bene, le regole sono queste, perciò...
+
+730
+00:55:42,416 --> 00:55:44,166
+Sakura...
+
+731
+00:55:45,000 --> 00:55:46,458
+Suzuhara.
+
+732
+00:55:49,750 --> 00:55:51,375
+Ti avevo detto di non pilotarlo,
+
+733
+00:55:51,458 --> 00:55:57,500
+invece hai deciso di salire lo stesso
+a bordo di un Eva! Ti odio, Ikari!
+
+734
+00:55:58,541 --> 00:55:59,916
+Ma chi sei, sua moglie?
+
+735
+00:56:10,333 --> 00:56:12,625
+Abbiamo verificato le sue condizioni.
+
+736
+00:56:12,708 --> 00:56:14,958
+Da ora sarò io responsabile
+di monitoraggio
+
+737
+00:56:15,041 --> 00:56:16,791
+e contenimento del BM-03.
+
+738
+00:56:18,958 --> 00:56:23,416
+Firmi qui, Maggiore Speciale Temporaneo,
+Shikinami-Langley.
+
+739
+00:56:25,125 --> 00:56:26,416
+E il DSS Choker?
+
+740
+00:56:28,541 --> 00:56:30,000
+Non è necessario installarlo.
+
+741
+00:56:30,833 --> 00:56:32,666
+Per l'intera durata dell'operazione
+
+742
+00:56:32,750 --> 00:56:34,916
+sarà in isolamento
+in una camera anti-deflagrante.
+
+743
+00:56:35,000 --> 00:56:38,916
+<span>Il soggetto BM-03</span>
+<span>ha raggiunto la Chamber Due.</span>
+
+744
+00:56:39,000 --> 00:56:40,375
+<span>Avvio sistema di accensione.</span>
+
+745
+00:56:40,458 --> 00:56:41,833
+Essendosi tolto il dispositivo
+
+746
+00:56:41,916 --> 00:56:44,916
+questo trattamento
+è l'alternativa più affidabile.
+
+747
+00:56:45,000 --> 00:56:48,666
+Nel Magi-C è salvato
+lo storico del DSS Choker.
+
+748
+00:56:49,500 --> 00:56:52,416
+A quanto pare attivandosi
+è esploso uccidendo un altro pilota
+
+749
+00:56:52,500 --> 00:56:54,166
+davanti ai suoi occhi.
+
+750
+00:56:55,250 --> 00:56:58,625
+E nonostante questo trauma
+ha deciso di tornare alla Wunder.
+
+751
+00:57:00,166 --> 00:57:01,166
+Per quale motivo?
+
+752
+00:57:01,708 --> 00:57:05,791
+Chissà. E perché il Comandante Katsuragi
+l'abbia fatto risalire a bordo
+
+753
+00:57:05,875 --> 00:57:07,708
+è davvero un mistero.
+
+754
+00:57:07,791 --> 00:57:10,000
+Ecco la documentazione
+relativa al Villaggio Tre
+
+755
+00:57:10,083 --> 00:57:11,375
+del responsabile Suzuhara.
+
+756
+00:57:12,083 --> 00:57:13,083
+Dal mio fratellone...
+
+757
+00:57:16,041 --> 00:57:20,541
+<span>Chiusura della Chamber Due, completata.</span>
+<span>Avvio del sistema d'emergenza.</span>
+
+758
+00:57:20,625 --> 00:57:25,708
+<span>Procedura isolamento soggetto</span>
+<span>sotto osservazione BM-03, ultimata.</span>
+
+759
+00:57:30,291 --> 00:57:32,458
+Nessun problema
+nella copertura dell'equipaggio.
+
+760
+00:57:32,541 --> 00:57:34,166
+Rapporto del sito Neo-Due,
+
+761
+00:57:34,250 --> 00:57:37,791
+<span>avviare power-shift dell'Unità Zero-Otto,</span>
+<span>come da programma.</span>
+
+762
+00:57:37,875 --> 00:57:39,833
+<span>Stato delle operazioni</span>
+<span>all'esterno della nave?</span>
+
+763
+00:57:39,916 --> 00:57:44,250
+<span>Sostituzione Torretta Quattro e modifiche</span>
+<span>al cannone di poppa, eseguite.</span>
+
+764
+00:57:44,333 --> 00:57:46,916
+<span>Gli interventi sull'Eva</span>
+<span>all'esterno della banchina,</span>
+
+765
+00:57:47,000 --> 00:57:48,666
+<span>sono in ritardo del 3%.</span>
+
+766
+00:57:49,083 --> 00:57:50,083
+Dobbiamo sbrigarci.
+
+767
+00:57:50,166 --> 00:57:52,041
+Velocizzare di un quinto
+la tabella di marcia.
+
+768
+00:57:52,125 --> 00:57:53,083
+- Ricevuto!
+- Ricevuto!
+
+769
+00:57:53,166 --> 00:57:56,958
+<span>Razzo numero 1 connessione secondaria</span>
+<span>in riavvio tra cinque minuti.</span>
+
+770
+00:57:57,041 --> 00:57:59,083
+È un bene che il Maggiore Shikinami
+sia di nuovo con noi,
+
+771
+00:57:59,875 --> 00:58:02,291
+ma mi chiedo cosa ci faccia con lei
+quell'Angelo della peste.
+
+772
+00:58:02,666 --> 00:58:05,375
+È meglio così che lasciare
+che la Nerv si approfitti di lui.
+
+773
+00:58:05,458 --> 00:58:07,041
+Se dovesse tentare di salire sull'Eva,
+
+774
+00:58:07,125 --> 00:58:09,333
+bisognerebbe dare l'ordine di sparare
+per uccidere.
+
+775
+00:58:09,416 --> 00:58:10,666
+Non sarebbe più rassicurante?
+
+776
+00:58:10,958 --> 00:58:13,375
+Dovresti parlarne con il Comandante.
+
+777
+00:58:13,458 --> 00:58:16,208
+Quando è scappato l'ultima volta,
+lei avrebbe potuto eliminarlo.
+
+778
+00:58:16,291 --> 00:58:18,791
+A questo punto, io non mi fido per niente.
+
+779
+00:58:18,875 --> 00:58:21,541
+Parliamo di un ragazzino.
+È comprensibile esitare.
+
+780
+00:58:21,625 --> 00:58:23,750
+Quel ragazzino
+ha scatenato il Near Third Impact,
+
+781
+00:58:24,166 --> 00:58:26,208
+uccidendo tutta la mia famiglia,
+a parte me.
+
+782
+00:58:26,291 --> 00:58:28,916
+Il Near Third è stato il risultato.
+Ma non era il suo intento.
+
+783
+00:58:29,416 --> 00:58:31,583
+Anche il Comandante
+deve espiare le proprie colpe.
+
+784
+00:58:32,250 --> 00:58:35,291
+Sono d'accordo.
+Kaji le ha affidato la guida della Wille.
+
+785
+00:58:35,375 --> 00:58:37,541
+Per questo
+mi fiderò sempre del comandante.
+
+786
+00:58:38,916 --> 00:58:40,916
+Siete tutti troppo indulgenti con lei.
+
+787
+00:58:41,666 --> 00:58:43,583
+Pensate che basti pulire una latrina
+
+788
+00:58:43,666 --> 00:58:46,875
+per farla diventare
+una sorgente d'acqua potabile?
+
+789
+00:58:48,125 --> 00:58:49,791
+Non è così che funziona.
+
+790
+00:58:54,166 --> 00:58:56,750
+<span>Test connessione parti del JA</span>
+<span>con la Nuova Unità Zero-Due,</span>
+
+791
+00:58:57,416 --> 00:58:58,583
+<span>nessuna anomalia.</span>
+
+792
+00:58:58,666 --> 00:59:01,250
+<span>Si prega di avviare il sistema</span>
+<span>di coordinazione del braccio sinistro.</span>
+
+793
+00:59:02,166 --> 00:59:06,916
+Hanno aggiunto altro esplosivo,
+direi che ormai non si fidano più di noi.
+
+794
+00:59:08,000 --> 00:59:09,416
+Sono tornata.
+
+795
+00:59:09,833 --> 00:59:11,375
+Bentornata, Principessa.
+
+796
+00:59:11,458 --> 00:59:13,041
+Ottimo lavoro giù a terra.
+
+797
+00:59:13,125 --> 00:59:15,291
+Cherie, non sai quanto mi sei mancata!
+
+798
+00:59:15,375 --> 00:59:17,541
+Accidenti! Dà un'occhiata a questo posto.
+
+799
+00:59:17,625 --> 00:59:20,166
+Che è successo qui? Hai sempre più libri.
+
+800
+00:59:20,250 --> 00:59:22,666
+I libri sono una raccolta
+della saggezza umana.
+
+801
+00:59:23,166 --> 00:59:25,583
+Il mio sogno nel cassetto
+è di riuscire a leggere tutti i libri
+
+802
+00:59:25,666 --> 00:59:27,291
+mai scritti in tutto il mondo.
+
+803
+00:59:27,833 --> 00:59:31,541
+By the way. Dimmi del Cagnolino. Come sta?
+
+804
+00:59:31,625 --> 00:59:34,000
+Non lo so. Non mi importa.
+
+805
+00:59:34,083 --> 00:59:35,166
+Capisco.
+
+806
+00:59:35,250 --> 00:59:37,583
+Quindi non ti interessano i bei ragazzi,
+giusto?
+
+807
+00:59:38,666 --> 00:59:42,333
+A quel bamboccio
+non serve una fidanzata, ma una madre.
+
+808
+00:59:42,916 --> 00:59:46,958
+<span>Tutte le operazioni di rifornimento</span>
+<span>delle navi da guerra completate.</span>
+
+809
+00:59:47,041 --> 00:59:50,375
+<span>Il personale di terra è pregato</span>
+<span>di evacuare le navi rifornite.</span>
+
+810
+00:59:50,875 --> 00:59:53,333
+Firma qui per permettere alla Kredit
+di operare in modo indipendente
+
+811
+00:59:53,416 --> 00:59:57,166
+e rimuovere gli ancoraggi degli Eva,
+Comandante Katsuragi.
+
+812
+01:00:00,208 --> 01:00:03,125
+Questo documento
+certifica l'approvazione del comandante.
+
+813
+01:00:03,208 --> 01:00:06,458
+- Maya, puoi cominciare.
+<span>- Ricevuto, vice-comandante.</span>
+
+814
+01:00:09,083 --> 01:00:11,750
+Sei sempre qui quando vuoi stare da sola.
+
+815
+01:00:11,833 --> 01:00:14,791
+Forse sarebbe meglio spostare qui
+il tuo ufficio.
+
+816
+01:00:16,000 --> 01:00:18,500
+Non dev'essere facile lasciar andare
+il ricordo di Ryo-chan.
+
+817
+01:00:18,583 --> 01:00:20,541
+Kaji non c'entra nulla.
+
+818
+01:00:20,625 --> 01:00:21,958
+- Stare qui mi rilassa.
+- Effettivamente...
+
+819
+01:00:23,125 --> 01:00:27,291
+qui c'era la funzione principale
+di questa nave da guerra.
+
+820
+01:00:27,375 --> 01:00:29,166
+Ossia preservare ogni forma di vita.
+
+821
+01:00:29,583 --> 01:00:30,791
+Un'Arca automatizzata
+
+822
+01:00:30,875 --> 01:00:33,375
+in grado di sostenersi
+senza nessun equipaggio,
+
+823
+01:00:33,458 --> 01:00:34,583
+in modo semi-permanente.
+
+824
+01:00:34,666 --> 01:00:37,375
+La vera natura della Wunder, la Tripla A.
+
+825
+01:00:37,458 --> 01:00:38,750
+Secondo Kaji,
+
+826
+01:00:38,833 --> 01:00:42,625
+la sopravvivenza del genere umano
+non era la cosa più importante.
+
+827
+01:00:42,708 --> 01:00:46,000
+Il Progetto per il Perfezionamento
+avrebbe portato alla scomparsa
+
+828
+01:00:46,083 --> 01:00:47,083
+delle altre forme di vita.
+
+829
+01:00:47,166 --> 01:00:50,333
+Mentre lui pensava di dover preservare
+il mondo in armonia con la natura.
+
+830
+01:00:50,416 --> 01:00:53,625
+Per riuscirci, avrebbe fatto evacuare
+più forme di vita possibile
+
+831
+01:00:53,708 --> 01:00:55,333
+dalla superficie terrestre.
+
+832
+01:00:56,125 --> 01:01:00,708
+E a questo scopo lui ha trafugato
+dalla Nerv questa nave in costruzione.
+
+833
+01:01:01,416 --> 01:01:03,833
+Credeva che l'umanità,
+con le sue sole forze,
+
+834
+01:01:03,916 --> 01:01:05,666
+non potesse fermare
+il Piano per il Perfezionamento.
+
+835
+01:01:06,416 --> 01:01:10,958
+Però, sacrificando la propria vita,
+è riuscito a fermare il Third.
+
+836
+01:01:11,041 --> 01:01:13,291
+Il suo egoismo,
+alla fine, ha salvato tutti noi.
+
+837
+01:01:13,375 --> 01:01:14,750
+Che uomo insopportabile.
+
+838
+01:01:19,791 --> 01:01:21,625
+E dal momento che lui non c'è più...
+
+839
+01:01:22,833 --> 01:01:26,083
+<span>voglio distruggere io la Nerv</span>
+<span>con questa nave,</span>
+
+840
+01:01:26,166 --> 01:01:29,625
+<span>per impedire il Piano</span>
+<span>per il Perfezionamento dell'Uomo.</span>
+
+841
+01:01:29,708 --> 01:01:32,000
+<span>Lo fai per vendetta personale?</span>
+
+842
+01:01:32,083 --> 01:01:35,125
+<span>No. Non sarà un'Arca</span>
+<span>che preserva la vita,</span>
+
+843
+01:01:35,208 --> 01:01:37,083
+<span>ma una Corazzata</span>
+<span>che combatte per la vita.</span>
+
+844
+01:01:38,416 --> 01:01:42,250
+A sentirti,
+parli come una madre premurosa.
+
+845
+01:01:42,333 --> 01:01:45,833
+Non merito questa definizione.
+Non la merito affatto.
+
+846
+01:01:52,208 --> 01:01:55,083
+Il capitano e il suo vice
+sono sul Ponte di Comando.
+
+847
+01:01:55,166 --> 01:01:57,000
+<span>Quartier generale Nerv in movimento.</span>
+
+848
+01:01:57,083 --> 01:01:58,791
+<span>Scortati dalla Luna Nera</span>
+
+849
+01:01:58,875 --> 01:02:01,875
+<span>si dirigono alle rovine del centro</span>
+<span>di bombardamento in Antartide.</span>
+
+850
+01:02:18,208 --> 01:02:21,875
+<span>Il ripristino della Luna Nera</span>
+<span>è la chiave di avvio del Fourth Impact.</span>
+
+851
+01:02:22,625 --> 01:02:24,791
+<span>Per il sacrificio ai Vasi di Adams</span>
+
+852
+01:02:24,875 --> 01:02:28,625
+<span>verrà usata una nuova forma di vita</span>
+<span>asessuata senza peccato,</span>
+
+853
+01:02:28,708 --> 01:02:30,375
+<span>composta solo da anime pure,</span>
+
+854
+01:02:30,958 --> 01:02:33,708
+<span>la riproduzione</span>
+<span>dell'Advanced Ayanami Series.</span>
+
+855
+01:02:34,583 --> 01:02:38,500
+Il piano per il Perfezionamento dell'Uomo.
+la salvazione dell'umanità per l'umanità.
+
+856
+01:02:39,250 --> 01:02:42,833
+A che cosa ci potrà mai portare
+tutta questa superbia?
+
+857
+01:02:50,125 --> 01:02:52,333
+Il Terzo Ragazzo
+è nuovamente con la Wille.
+
+858
+01:02:53,083 --> 01:02:56,375
+E l'Ayanamy Type numero Sei,
+senza manutenzione
+
+859
+01:02:56,458 --> 01:02:58,375
+sembra aver perso la sua forma.
+
+860
+01:02:59,541 --> 01:03:02,875
+Volevi che tuo figlio provasse
+il tuo stesso senso di privazione.
+
+861
+01:03:02,958 --> 01:03:05,666
+Non è questa la verità, Ikari?
+
+862
+01:03:11,208 --> 01:03:14,250
+Dal punto di vista psicologico
+sembra stabile.
+
+863
+01:03:14,333 --> 01:03:16,333
+Perciò Comandante Katsuragi,
+
+864
+01:03:16,416 --> 01:03:18,750
+che farai
+col soggetto chiamato Shinji Ikari?
+
+865
+01:03:18,833 --> 01:03:20,958
+Eviterai di incontrarlo come tuo figlio?
+
+866
+01:03:21,375 --> 01:03:24,833
+Tenerlo in custodia a bordo basterà.
+Non ho bisogno di vederlo.
+
+867
+01:03:25,625 --> 01:03:28,583
+Sicura che non dovrebbe indossare
+il DSS Choker?
+
+868
+01:03:29,333 --> 01:03:34,416
+Solo quando c'è l'intento di espiare
+i propri peccati avviene la redenzione.
+
+869
+01:03:34,500 --> 01:03:37,125
+Misato,
+anche se ti mostri così distaccata,
+
+870
+01:03:37,208 --> 01:03:39,000
+tu sei contenta che lui sia tornato.
+
+871
+01:03:39,083 --> 01:03:44,750
+Non cedi alle emozioni
+per evitare di soffrire in futuro,
+
+872
+01:03:44,833 --> 01:03:45,958
+lo so che è così.
+
+873
+01:03:47,666 --> 01:03:48,958
+Dritta al punto, come sempre.
+
+874
+01:03:49,708 --> 01:03:51,875
+Non posso coccolarti troppo
+per evitarti il dolore.
+
+875
+01:03:52,583 --> 01:03:53,583
+Lo sai che è così.
+
+876
+01:03:58,666 --> 01:04:03,208
+Con il tempo fisicamente
+non cambia niente, tranne i miei capelli.
+
+877
+01:04:03,291 --> 01:04:05,416
+Che seccatura.
+
+878
+01:04:05,916 --> 01:04:10,250
+Tra i capelli vivono spiriti,
+impurità e preoccupazioni.
+
+879
+01:04:10,333 --> 01:04:13,666
+Rappresentano il caos
+che regna nell'animo umano.
+
+880
+01:04:13,750 --> 01:04:17,250
+È la prova inconfutabile
+che sei umana, Principessa.
+
+881
+01:04:33,375 --> 01:04:35,208
+Il Second Impact.
+
+882
+01:04:35,291 --> 01:04:37,625
+L'ipocentro
+di quella maledetta esplosione.
+
+883
+01:04:38,333 --> 01:04:41,041
+Tutti i Vasi di Adams sono pronti.
+
+884
+01:04:41,125 --> 01:04:45,291
+Anche il riavvio dell'Unità Tredici
+è soltanto questione di tempo.
+
+885
+01:04:45,958 --> 01:04:49,166
+Bene. Allora cominciamo. Fuyutsuki...
+
+886
+01:04:51,458 --> 01:04:53,958
+occupati del resto.
+
+887
+01:04:54,541 --> 01:04:58,666
+Fino a questo momento tutto
+è andato secondo il copione della Seele.
+
+888
+01:05:04,333 --> 01:05:05,791
+Vai avanti, Shinji!
+
+889
+01:05:07,125 --> 01:05:08,416
+Fallo per te stesso!
+
+890
+01:05:09,791 --> 01:05:11,916
+Fallo per esaudire
+il tuo stesso desiderio!
+
+891
+01:05:20,166 --> 01:05:21,916
+<span>Comandante, ho delle bad news.</span>
+
+892
+01:05:22,000 --> 01:05:24,458
+<span>Il quartier generale della Nerv</span>
+<span>è a destinazione.</span>
+
+893
+01:05:24,541 --> 01:05:27,166
+<span>Crediamo</span>
+<span>che vogliano avviare l'Unità Tredici.</span>
+
+894
+01:05:27,750 --> 01:05:29,916
+Questo significa
+che non abbiamo molto tempo,
+
+895
+01:05:30,000 --> 01:05:31,125
+giusto qualche ora.
+
+896
+01:05:31,708 --> 01:05:34,083
+<span>Sì, ma ci sono good news.</span>
+
+897
+01:05:34,166 --> 01:05:36,208
+<span>I Plug del segnale di arresto</span>
+<span>sono montati.</span>
+
+898
+01:05:36,291 --> 01:05:38,208
+<span>Almeno sappiamo</span>
+<span>che entrambi gli Eva sono pronti.</span>
+
+899
+01:05:38,666 --> 01:05:41,083
+Ricevuto. Prepararsi al lancio.
+
+900
+01:05:41,625 --> 01:05:45,583
+<span>Interrompere le operazioni tra 25 minuti.</span>
+<span>Si parte tra 30 minuti.</span>
+
+901
+01:05:45,666 --> 01:05:47,208
+Come sempre pretendi l'impossibile.
+
+902
+01:05:47,666 --> 01:05:50,833
+Attenzione. Prepararsi
+all'assetto da combattimento Tipo Uno.
+
+903
+01:05:50,916 --> 01:05:52,041
+Salpiamo tra 25 minuti.
+
+904
+01:05:52,541 --> 01:05:54,625
+Ciascuno concluda i propri compiti
+in 20 minuti.
+
+905
+01:05:55,083 --> 01:05:58,583
+<span>Ripeto: attenzione prepararsi</span>
+<span>all'assetto da combattimento Tipo Uno.</span>
+
+906
+01:05:59,083 --> 01:06:01,791
+<span>Flotta senza equipaggio,</span>
+<span>regolare la posizione di decollo.</span>
+
+907
+01:06:01,875 --> 01:06:05,000
+<span>Rifornimento carburante</span>
+<span>nel Razzo Uno, completato.</span>
+
+908
+01:06:05,083 --> 01:06:06,291
+<span>Passare all'alimentazione interna.</span>
+
+909
+01:06:06,375 --> 01:06:10,500
+<span>Controllo finale, tutto nella norma.</span>
+<span>Gli operatori sono pregati di rientrare.</span>
+
+910
+01:06:20,041 --> 01:06:22,250
+Sono davvero tante, Capo Ingegnere Takao.
+
+911
+01:06:22,333 --> 01:06:26,083
+Già. Una per ogni compagno morto
+combattendo la Nerv.
+
+912
+01:06:26,166 --> 01:06:29,083
+Erano le bandane che venivano utilizzate
+
+913
+01:06:29,166 --> 01:06:30,875
+per identificare gli alleati
+nella ribellione?
+
+914
+01:06:30,958 --> 01:06:32,166
+Esatto.
+
+915
+01:06:32,250 --> 01:06:37,041
+Volevamo riportare il mare e la terra
+dal rosso al proprio colore originario.
+
+916
+01:06:37,125 --> 01:06:38,250
+lo stesso delle bandane.
+
+917
+01:06:40,125 --> 01:06:41,666
+Ti ringrazio.
+
+918
+01:06:41,750 --> 01:06:44,625
+Queste bandane
+sono il ricordo di Ryo-Chan.
+
+919
+01:07:03,333 --> 01:07:06,166
+Katsuragi, fa' attenzione.
+
+920
+01:07:09,666 --> 01:07:11,583
+In quel momento...
+
+921
+01:07:11,666 --> 01:07:13,750
+in realtà io sarei voluta rimanere
+con Kaji.
+
+922
+01:07:14,583 --> 01:07:16,000
+Ne sono certa.
+
+923
+01:07:16,083 --> 01:07:19,416
+Se tu non fossi stata incinta,
+lo avresti fatto, Misato.
+
+924
+01:07:22,208 --> 01:07:25,291
+Come da disposizioni,
+ora mi muovo verso il blocco medico.
+
+925
+01:07:25,708 --> 01:07:28,458
+<span>Vi pregherei di trasferire lì Ikari.</span>
+
+926
+01:07:28,541 --> 01:07:31,083
+<span>Usate il bottone rosso</span>
+<span>per qualsiasi necessità.</span>
+
+927
+01:07:32,000 --> 01:07:34,208
+Bene, allora io vado.
+
+928
+01:07:41,041 --> 01:07:43,833
+Un prototipo di Plug Suit
+per le immersioni,
+
+929
+01:07:43,916 --> 01:07:44,916
+resistente alla pressione.
+
+930
+01:07:45,000 --> 01:07:47,583
+Sembra essere nuovo di zecca.
+
+931
+01:07:47,666 --> 01:07:51,333
+Hanno utilizzato un nuovo tipo di tessuto.
+Lo metteremo al nostro funerale.
+
+932
+01:07:56,750 --> 01:07:59,083
+<span>Unità Zero-Due, reattore JA avviato.</span>
+
+933
+01:07:59,500 --> 01:08:01,750
+<span>Output stabile,</span>
+<span>inizio circolazione energia.</span>
+
+934
+01:08:02,166 --> 01:08:03,291
+<span>Unità Zero-Otto,</span>
+
+935
+01:08:03,375 --> 01:08:05,416
+<span>collegamento al Dragon Carrier,</span>
+<span>nessuna anomalia.</span>
+
+936
+01:08:06,000 --> 01:08:08,541
+<span>Test sganciamento inutile.</span>
+<span>Partenza senza collaudo!</span>
+
+937
+01:08:08,625 --> 01:08:11,250
+<span>Rilascio dei blocchi</span>
+<span>dalle Gabbie temporanee.</span>
+
+938
+01:08:11,333 --> 01:08:14,375
+<span>Le unità Eva sono pronte</span>
+<span>e in posizione per il lancio.</span>
+
+939
+01:08:25,458 --> 01:08:28,750
+Quattrocchi,
+facciamo una piccola deviazione.
+
+940
+01:08:30,958 --> 01:08:32,083
+Ricevuto.
+
+941
+01:08:32,541 --> 01:08:36,583
+<span>Entry Plug della Nuova Zero-Due</span>
+<span>e dell'Unità Zero-Otto...</span>
+
+942
+01:08:36,666 --> 01:08:38,416
+Ehi, indovina chi sono?
+
+943
+01:08:38,500 --> 01:08:41,041
+Io non ne ho idea.
+
+944
+01:08:41,125 --> 01:08:47,875
+Indizio: Tetto. Occhiali.
+Seno importante, una bella ragazza.
+
+945
+01:08:47,958 --> 01:08:49,625
+La ragazza con il paracadute?
+
+946
+01:08:50,041 --> 01:08:51,041
+Sì! Esatto!
+
+947
+01:08:51,625 --> 01:08:53,583
+Non mi sono ancora presentata.
+
+948
+01:08:53,666 --> 01:08:56,500
+Io sono Mari. Mari Makinami Illustrious.
+
+949
+01:08:57,041 --> 01:09:00,250
+Piacere di rivederti.
+Cagnolino della Wille.
+
+950
+01:09:03,458 --> 01:09:06,583
+Sei cambiato un bel po'.
+È odore di adulto che sento?
+
+951
+01:09:07,000 --> 01:09:09,916
+Questo bamboccio
+non può cambiare tanto facilmente.
+
+952
+01:09:11,208 --> 01:09:13,666
+Voglio chiederti un'ultima cosa.
+
+953
+01:09:13,750 --> 01:09:17,083
+Il motivo per cui volevo picchiarti,
+l'hai capito?
+
+954
+01:09:20,458 --> 01:09:27,416
+Perché quando eri a bordo della Zero-Tre,
+io non ho preso una decisione.
+
+955
+01:09:27,500 --> 01:09:29,625
+Non sapevo se ucciderti o aiutarti.
+
+956
+01:09:31,166 --> 01:09:33,500
+Non mi sono preso quella responsabilità.
+
+957
+01:09:35,083 --> 01:09:36,875
+Allora un pochino sei davvero cresciuto.
+
+958
+01:09:38,708 --> 01:09:41,250
+Lascia che ti dica una cosa,
+
+959
+01:09:41,333 --> 01:09:45,125
+quel pranzo che mi avevi preparato
+era buonissimo.
+
+960
+01:09:45,208 --> 01:09:49,125
+Ammetto che in quel momento
+tu mi piacevi, Shinji.
+
+961
+01:09:49,208 --> 01:09:52,875
+Però ora sono un'adulta,
+al contrario di te.
+
+962
+01:09:54,208 --> 01:09:55,333
+Ciao.
+
+963
+01:09:56,416 --> 01:09:57,541
+Bene.
+
+964
+01:09:57,625 --> 01:10:02,333
+Sei andato alla grande,
+ben fatto, Shinji Ikari.
+
+965
+01:10:03,416 --> 01:10:04,500
+<span>Zaijian!</span>
+
+966
+01:10:07,458 --> 01:10:10,875
+Principessa, ti senti meglio adesso?
+
+967
+01:10:10,958 --> 01:10:12,875
+Direi di sì. Più leggera.
+
+968
+01:10:15,333 --> 01:10:18,708
+<span>A entrambi i piloti degli Eva, procedere</span>
+<span>all'inserimento nell'Entry Plug.</span>
+
+969
+01:10:19,291 --> 01:10:22,666
+Shinji, forse un giorno troverai
+la serenità e un luogo a cui appartenere.
+
+970
+01:10:24,125 --> 01:10:25,833
+I tuoi affetti ti mostreranno la via.
+
+971
+01:10:28,333 --> 01:10:29,375
+Ci rivedremo.
+
+972
+01:10:33,333 --> 01:10:35,750
+Avevi ragione, Kaworu.
+
+973
+01:10:38,000 --> 01:10:39,291
+Uscite ausiliari stabili.
+
+974
+01:10:39,375 --> 01:10:41,625
+Punto critico del motore principale.
+
+975
+01:10:41,708 --> 01:10:44,166
+Spinta aumentata
+di 11,6 milioni di tonnellate.
+
+976
+01:10:44,500 --> 01:10:45,750
+Bussola giroscopica attiva.
+
+977
+01:10:46,166 --> 01:10:48,416
+Timone e controllo gravità,
+tutto regolare.
+
+978
+01:10:48,500 --> 01:10:52,333
+Entrambi gli Eva sono ora in posizione
+di lancio. Iniziare la sequenza.
+
+979
+01:10:52,416 --> 01:10:55,708
+Potenza ai cannoni trasmessa.
+Flusso energetico funzionante.
+
+980
+01:10:55,791 --> 01:10:58,875
+Flotta senza pilota,
+tutte le navi in posizione di lancio.
+
+981
+01:10:58,958 --> 01:11:01,625
+Attenzione,
+sospendere operazioni fuoribordo.
+
+982
+01:11:01,708 --> 01:11:02,916
+I non combattenti restino in attesa.
+
+983
+01:11:03,000 --> 01:11:05,958
+Assetto da combattimento
+di Tipo Uno operativo.
+
+984
+01:11:06,541 --> 01:11:08,875
+Comandante,
+tutte le navi sono pronte a partire.
+
+985
+01:11:09,416 --> 01:11:11,375
+Raggiungeremo
+il quartier generale della Nerv.
+
+986
+01:11:11,458 --> 01:11:12,458
+Ricevuto.
+
+987
+01:11:12,541 --> 01:11:13,500
+EMERGENZA
+
+988
+01:11:13,583 --> 01:11:14,666
+È il comandante che vi parla:
+
+989
+01:11:15,083 --> 01:11:18,750
+<span>il nostro intento è di arrestare</span>
+<span>in modo permanente il Fourth Impact.</span>
+
+990
+01:11:18,833 --> 01:11:21,416
+<span>Questa nave assalterà</span>
+<span>il quartier generale</span>
+
+991
+01:11:21,500 --> 01:11:22,916
+<span>della Nerv nell'ipocentro in Antartide.</span>
+
+992
+01:11:23,416 --> 01:11:25,333
+<span>La Wunder eseguirà l'operazione Yamato</span>
+
+993
+01:11:25,416 --> 01:11:27,458
+<span>allo scopo di disabilitare</span>
+<span>l'Unità Tredici,</span>
+
+994
+01:11:27,541 --> 01:11:29,166
+<span>che ha la funzione</span>
+<span>di Trigger del rituale.</span>
+
+995
+01:11:29,833 --> 01:11:32,833
+Faremo cessare tutto questo caos
+una volta per tutte.
+
+996
+01:11:33,708 --> 01:11:35,916
+Flotta, salpiamo!
+
+997
+01:12:12,708 --> 01:12:14,083
+Avvio completato.
+
+998
+01:12:14,166 --> 01:12:17,083
+Catena di controllo,
+trasferimento al Ponte di Comando.
+
+999
+01:12:17,166 --> 01:12:18,541
+Unità deposito dei semi,
+
+1000
+01:12:18,625 --> 01:12:20,666
+- al punto di emissione.
+- Ricevuto.
+
+1001
+01:12:20,750 --> 01:12:21,625
+COCOMERO
+
+1002
+01:12:21,708 --> 01:12:23,416
+<span>Chiudere il collegamento con la Wunder.</span>
+
+1003
+01:12:23,500 --> 01:12:27,208
+<span>Passare l'alimentazione e i controlli</span>
+<span>a un circuito interno indipendente.</span>
+
+1004
+01:12:27,291 --> 01:12:29,500
+<span>Rilascio unità di deposito dei semi.</span>
+
+1005
+01:13:00,500 --> 01:13:03,083
+<span>A tutte le unità,</span>
+<span>immissione nel blocco L5.</span>
+
+1006
+01:13:03,166 --> 01:13:04,708
+<span>Nessuna anomalia riscontrata.</span>
+
+1007
+01:13:06,333 --> 01:13:10,000
+Iniziare discesa verso la destinazione.
+Irrompere nell'atmosfera.
+
+1008
+01:13:10,083 --> 01:13:12,500
+Ricevuto. Ingresso nell'atmosfera.
+
+1009
+01:13:28,833 --> 01:13:31,083
+Monitoraggio di nuovo in funzione.
+
+1010
+01:13:32,916 --> 01:13:35,083
+<span>Epicentro esplosione</span>
+<span>in Antartide raggiunto.</span>
+
+1011
+01:13:35,166 --> 01:13:37,041
+Contatto con la superficie
+della Barriera-L.
+
+1012
+01:13:48,041 --> 01:13:51,208
+<span>Navigazione sulla superficie</span>
+<span>della Barriera-L. Tutto nella norma.</span>
+
+1013
+01:13:51,666 --> 01:13:56,000
+Qui non è ammessa nessuna forma di vita
+macchiata dal Peccato Originale.
+
+1014
+01:13:58,208 --> 01:14:00,625
+<span>E adesso gli esseri umani,</span>
+<span>senza essere assolti,</span>
+
+1015
+01:14:00,708 --> 01:14:02,458
+<span>sono comunque in grado di attraversarla.</span>
+
+1016
+01:14:02,958 --> 01:14:05,541
+Grazie alle ricerche di Kaji,
+che ha creato il sistema Anti-L.
+
+1017
+01:14:05,625 --> 01:14:08,500
+<span>Immersione nella Barriera-L,</span>
+<span>distanza Zero-zero.</span>
+
+1018
+01:14:08,583 --> 01:14:10,958
+Ricevuto. Prepararsi all'immersione.
+
+1019
+01:14:15,291 --> 01:14:17,708
+Scafo secondario colpito a dritta.
+Danni sconosciuti!
+
+1020
+01:14:17,791 --> 01:14:19,541
+Nave nemica localizzata a ore tre!
+
+1021
+01:14:23,125 --> 01:14:25,833
+La Seconda nave
+con equipaggiamento Opfer, la Erlösung.
+
+1022
+01:14:26,458 --> 01:14:27,958
+Alla fine, l'hanno ultimata!
+
+1023
+01:14:28,833 --> 01:14:30,041
+Desolato.
+
+1024
+01:14:30,125 --> 01:14:32,875
+Credo che prima dovrete fare i conti
+con l'egocentrismo di Ikari.
+
+1025
+01:14:36,833 --> 01:14:39,541
+Stanno guadagnando tempo
+per riattivare l'Unità Tredici.
+
+1026
+01:14:39,958 --> 01:14:42,375
+Quella nave è in grado di uccidere un Dio.
+
+1027
+01:14:42,458 --> 01:14:43,750
+- Non sarà facile.
+- Ce la giochiamo alla pari.
+
+1028
+01:14:44,166 --> 01:14:45,333
+Artiglieria prepararsi al fuoco!
+
+1029
+01:14:45,416 --> 01:14:48,875
+<span>Mentre la teniamo a bada,</span>
+<span>continuiamo verso la nostra rotta.</span>
+
+1030
+01:14:49,291 --> 01:14:51,250
+Fuoco!
+
+1031
+01:15:10,750 --> 01:15:13,958
+Continuano a colpirci!
+La loro potenza di fuoco è impressionante!
+
+1032
+01:15:14,041 --> 01:15:16,375
+Accidenti.
+Eppure dovremmo essere alla pari!
+
+1033
+01:15:16,458 --> 01:15:19,000
+Noi abbiamo un modello ancora incompleto,
+
+1034
+01:15:19,083 --> 01:15:22,375
+ma il nostro motore principale
+è superiore!
+
+1035
+01:15:29,083 --> 01:15:31,458
+Raggiunto il punto di immersione
+nella Barriera-L.
+
+1036
+01:15:31,541 --> 01:15:33,250
+- Immersione rapida!
+- Ricevuto!
+
+1037
+01:15:46,083 --> 01:15:48,125
+Attraversiamo
+il primo strato della barriera!
+
+1038
+01:15:50,500 --> 01:15:53,791
+<span>Ingresso nel secondo strato.</span>
+<span>Densità della Barriera-L a Più-tre-zero.</span>
+
+1039
+01:15:53,875 --> 01:15:57,000
+Nemico a ore dodici!
+È uno stormo di Eva Infinity!
+
+1040
+01:15:57,083 --> 01:15:59,250
+Non importa. Ci passeremo attraverso!
+
+1041
+01:16:05,083 --> 01:16:07,791
+Rilevata anche una nave nemica
+sempre a ore dodici!
+
+1042
+01:16:07,875 --> 01:16:09,666
+È un'imboscata?
+
+1043
+01:16:12,458 --> 01:16:16,166
+La Terza Nave, la Erbsunde!
+È una manovra a tenaglia.
+
+1044
+01:16:21,500 --> 01:16:24,666
+Si mette male! Ancora qualche colpo
+e non potremo più navigare!
+
+1045
+01:16:25,125 --> 01:16:29,000
+La Terza nave ha un rivestimento
+molto leggero, concentriamoci su di lei!
+
+1046
+01:16:29,083 --> 01:16:31,458
+- Massima velocità!
+- Ricevuto!
+
+1047
+01:16:42,166 --> 01:16:44,833
+<span>Terza nave in manovra evasiva!</span>
+
+1048
+01:16:46,000 --> 01:16:47,833
+Non deve scappare! Colpitela in velocità!
+
+1049
+01:16:55,375 --> 01:16:56,916
+Questa è una vera follia!
+
+1050
+01:17:00,583 --> 01:17:03,500
+Giriamo su noi stessi!
+Virata di 180 gradi!
+
+1051
+01:17:03,916 --> 01:17:07,000
+- Scambio di posizione con il nemico!
+- Ricevuto, comandante!
+
+1052
+01:17:23,416 --> 01:17:25,750
+Sta usando la Terza nave come uno scudo.
+
+1053
+01:17:26,708 --> 01:17:28,458
+Davvero audace come sempre.
+
+1054
+01:17:34,625 --> 01:17:36,750
+Siamo fuori dallo stormo
+degli Eva Infinity!
+
+1055
+01:17:36,833 --> 01:17:38,958
+Ingresso nel terzo strato della barriera!
+
+1056
+01:17:39,041 --> 01:17:42,833
+<span>Avvistato quartier generale Nerv.</span>
+<span>Sono posizionati sotto la Luna Nera.</span>
+
+1057
+01:17:44,583 --> 01:17:47,041
+Sono in procinto di riattivare
+l'Unità Tredici.
+
+1058
+01:17:47,125 --> 01:17:50,208
+Seconda e terza nave nemica
+in avvicinamento da poppa.
+
+1059
+01:17:50,625 --> 01:17:53,000
+Non c'è tempo.
+Usare la Luna Nera come copertura
+
+1060
+01:17:53,083 --> 01:17:55,416
+<span>per puntare al Quartier Generale Nerv.</span>
+
+1061
+01:17:55,500 --> 01:17:56,666
+<span>Preparare proiettili guidati.</span>
+
+1062
+01:17:56,750 --> 01:17:59,666
+<span>Puntare alla zona di riattivazione</span>
+<span>dell'Unità Tredici.</span>
+
+1063
+01:17:59,750 --> 01:18:03,458
+Le navi della Nerv
+si avvicinano da poppa, a ore sei!
+
+1064
+01:18:04,750 --> 01:18:07,458
+Incliniamoci
+per ridurre al minimo le aree d'impatto.
+
+1065
+01:18:07,541 --> 01:18:09,083
+Ricevuto. comandante.
+
+1066
+01:18:09,500 --> 01:18:12,583
+Sganciare le zavorre gravitazionali!
+Meno Due-Zero.
+
+1067
+01:18:12,666 --> 01:18:14,750
+Protezione ali principali,
+priorità massima.
+
+1068
+01:18:14,833 --> 01:18:17,083
+<span>Concentrare lì l'AT-Field!</span>
+
+1069
+01:18:25,083 --> 01:18:27,708
+Il cannone di poppa è distrutto!
+Ci stanno facendo a pezzi!
+
+1070
+01:18:27,791 --> 01:18:30,708
+Niente panico!
+Resistiamo fino al punto di tiro!
+
+1071
+01:18:36,750 --> 01:18:39,791
+Uno-Zero al migliore punto di tiro
+dei proiettili guidati.
+
+1072
+01:18:41,250 --> 01:18:42,125
+OBBIETTIVO
+
+1073
+01:18:42,208 --> 01:18:43,250
+Siamo in traiettoria.
+
+1074
+01:18:43,333 --> 01:18:44,708
+Fare fuoco con i proiettili guidati!
+
+1075
+01:18:44,791 --> 01:18:47,166
+Lancio immediato proiettili guidati.
+
+1076
+01:19:09,416 --> 01:19:12,458
+<span>L'Unità Tredici,</span>
+<span>confermo visuale dell'obiettivo finale!</span>
+
+1077
+01:19:13,041 --> 01:19:16,250
+Come previsto, prima della riattivazione
+l'Unità Tredici non può muoversi.
+
+1078
+01:19:20,333 --> 01:19:23,166
+<span>Avvistati Eva serie Sette</span>
+<span>in avvicinamento!</span>
+
+1079
+01:19:23,250 --> 01:19:24,708
+<span>Quantità non rilevabile!</span>
+
+1080
+01:19:24,791 --> 01:19:25,916
+Sono veramente troppi!
+
+1081
+01:19:26,000 --> 01:19:28,875
+Ignoriamoli per ora.
+Lancio delle due Unità Eva!
+
+1082
+01:19:28,958 --> 01:19:31,083
+Maya! Prepararsi al lancio Unità Due
+e Otto!
+
+1083
+01:19:31,166 --> 01:19:33,833
+Ricevuto.
+Zero-Due e Otto. Pronti a partire!
+
+1084
+01:19:33,916 --> 01:19:35,416
+Lanciare!
+
+1085
+01:19:39,958 --> 01:19:42,000
+Conto su di voi. Mari! Asuka!
+
+1086
+01:19:59,875 --> 01:20:01,166
+Miao!
+
+1087
+01:20:06,791 --> 01:20:09,458
+Levati di mezzo!
+
+1088
+01:20:17,791 --> 01:20:19,208
+Ehi!
+
+1089
+01:20:28,958 --> 01:20:31,541
+Scusatemi tanto.
+
+1090
+01:20:42,125 --> 01:20:43,791
+Cambio di arma! Quattrocchi raccomandata!
+
+1091
+01:20:43,875 --> 01:20:45,708
+Arriva!
+
+1092
+01:20:57,083 --> 01:20:58,708
+Un'altra!
+
+1093
+01:21:12,333 --> 01:21:14,083
+Principessa!
+
+1094
+01:21:29,500 --> 01:21:31,250
+Accidenti a voi!
+
+1095
+01:21:45,208 --> 01:21:48,500
+Quei falsi Eva
+hanno deciso di fermarci tutti insieme.
+
+1096
+01:21:55,166 --> 01:21:57,708
+- Devi darmi una mano, quattrocchi!
+- Sto arrivando!
+
+1097
+01:22:27,041 --> 01:22:29,375
+Le unità Eva
+sono nel quartier generale Nerv!
+
+1098
+01:22:32,708 --> 01:22:34,791
+Il punto indicato
+dev'essere sotto quel cratere.
+
+1099
+01:22:56,541 --> 01:23:00,833
+Maledizione!
+Sono davvero molto insistenti!
+
+1100
+01:23:09,375 --> 01:23:13,208
+- Principessa, vai avanti tu!
+- Ti ringrazio, quattrocchi!
+
+1101
+01:23:37,583 --> 01:23:40,833
+Eccoti, Eva Unità Tredici...
+ci rincontriamo.
+
+1102
+01:23:47,916 --> 01:23:51,125
+Anche se la chiamano "Unità di Dio"
+rimane pur sempre
+
+1103
+01:23:51,208 --> 01:23:53,958
+la tredicesima arma risolutiva
+multifunzione umanoide
+
+1104
+01:23:54,041 --> 01:23:56,041
+costruita dall'uomo.
+
+1105
+01:23:57,416 --> 01:24:01,375
+Il comando di arresto forzato
+va inserito nel nucleo.
+
+1106
+01:24:01,458 --> 01:24:05,541
+Non possiamo distruggerla,
+ma non potrà più muoversi.
+
+1107
+01:24:07,375 --> 01:24:10,625
+Sta per arrivare... la tua fine!
+
+1108
+01:24:17,458 --> 01:24:18,625
+Un AT- field?
+
+1109
+01:24:20,083 --> 01:24:23,541
+L'unità tredici
+non dovrebbe poter sviluppare un AT field.
+
+1110
+01:24:23,625 --> 01:24:25,000
+Perché?
+
+1111
+01:24:25,083 --> 01:24:28,375
+Aspetta, questo è l'AT-field
+del mio Eva Zero-Due?
+
+1112
+01:24:28,916 --> 01:24:31,708
+La nuova Unità Zero-Due
+ha paura dell'Unità Tredici?
+
+1113
+01:24:45,250 --> 01:24:48,916
+C'è qualcosa che non va.
+Dimmi, Gendoh, qual è il tuo piano?
+
+1114
+01:24:53,958 --> 01:24:56,875
+Che strano.
+Le navi della Nerv si ritirano.
+
+1115
+01:24:56,958 --> 01:24:59,208
+<span>Stanno scendendo.</span>
+
+1116
+01:25:12,541 --> 01:25:16,250
+Quello è l'ipocentro del Second Impact.
+I Piedi del Calvario!
+
+1117
+01:25:17,708 --> 01:25:19,833
+Le porte dell'inferno
+sono aperte di nuovo.
+
+1118
+01:25:20,375 --> 01:25:22,625
+Impossibile...
+
+1119
+01:25:26,041 --> 01:25:27,666
+sono le Ali di luce?
+
+1120
+01:25:27,750 --> 01:25:31,708
+Vogliono innescare il Fourth Impact
+con la stessa procedura del Second?
+
+1121
+01:25:31,791 --> 01:25:32,791
+No.
+
+1122
+01:25:32,875 --> 01:25:37,125
+Le navi costruite come i Guardiani del Guf
+non potrebbero fare da trigger.
+
+1123
+01:25:37,208 --> 01:25:40,708
+Ciò che sta accadendo alla Luna Nera...
+non fa parte del Piano.
+
+1124
+01:25:40,791 --> 01:25:44,666
+Questo è un rituale sconosciuto.
+Non è previsto dal copione della Seele.
+
+1125
+01:25:44,750 --> 01:25:48,041
+Un fuori programma.
+Una sorta di Another Impact.
+
+1126
+01:25:50,291 --> 01:25:51,333
+Ma non cambia nulla.
+
+1127
+01:25:51,416 --> 01:25:53,833
+Qualunque sia il loro piano,
+dobbiamo fermarli.
+
+1128
+01:25:53,916 --> 01:25:55,416
+Prepararsi a fare fuoco.
+
+1129
+01:25:55,500 --> 01:25:57,166
+Priorità all'abbattimento
+della Terza nave.
+
+1130
+01:25:57,250 --> 01:26:00,166
+Tutti i cannoni disponibili
+pronti a far fuoco sulla Terza!
+
+1131
+01:26:00,250 --> 01:26:02,708
+Caricare i colpi super elettromagnetici.
+
+1132
+01:26:02,791 --> 01:26:05,000
+Interblocco
+e calcolo di puntamento inutili,
+
+1133
+01:26:05,083 --> 01:26:06,291
+sparare appena possibile!
+
+1134
+01:26:06,375 --> 01:26:09,291
+Aspetta, i piani di costruzione
+prevedevano una quarta nave.
+
+1135
+01:26:09,375 --> 01:26:11,166
+Fuoco!
+
+1136
+01:26:14,750 --> 01:26:15,958
+- Fare rapporto.
+- Un colpo diretto!
+
+1137
+01:26:16,041 --> 01:26:19,083
+Qualcosa ha perforata lo scafo secondario
+da parte a parte.
+
+1138
+01:26:19,166 --> 01:26:21,833
+Prua danneggiata!
+I cannoni principali sono fuori uso.
+
+1139
+01:26:30,333 --> 01:26:34,291
+La quarta nave, la Gebet.
+Siamo caduti nella loro trappola.
+
+1140
+01:26:37,916 --> 01:26:41,708
+Ad ogni modo, per il Final Impact
+avranno bisogno di questo Eva.
+
+1141
+01:26:41,791 --> 01:26:44,958
+Perciò devo assolutamente sbarazzarmene
+subito.
+
+1142
+01:26:46,125 --> 01:26:48,791
+È davanti ai miei occhi,
+ma non posso fare niente.
+
+1143
+01:26:49,958 --> 01:26:54,833
+Non ho altra scelta. Perdonami, Nuovo-02.
+Devo maltrattarti un'altra volta.
+
+1144
+01:26:55,708 --> 01:26:59,333
+Rimozione di tutti i costrittori.
+Backdoor Code: Three Nine.
+
+1145
+01:27:19,833 --> 01:27:23,000
+Diagramma d'onda Blu!
+Nono Angelo nel Quartier Generale Nerv!
+
+1146
+01:27:25,958 --> 01:27:28,166
+Principessa!
+Vuoi usare il potere di un Angelo?
+
+1147
+01:27:37,083 --> 01:27:39,750
+Angel Blood...
+
+1148
+01:27:40,541 --> 01:27:42,208
+immissione completata!
+
+1149
+01:28:33,875 --> 01:28:36,291
+Principessa! Abbandoni la tua umanità?
+
+1150
+01:28:46,958 --> 01:28:49,208
+Distruggerò l'AT-Field della Nuova-02,
+
+1151
+01:28:49,291 --> 01:28:52,416
+e ho intenzione di farlo
+utilizzando il mio stesso AT-Field!
+
+1152
+01:29:31,625 --> 01:29:34,000
+Non è un Single Entry plug system?
+
+1153
+01:29:44,291 --> 01:29:47,750
+Accidenti! Gendoh voleva far diventare
+la principessa un Angelo!
+
+1154
+01:30:02,500 --> 01:30:04,083
+Shikinami Type?
+
+1155
+01:30:04,541 --> 01:30:06,041
+La me originale?
+
+1156
+01:30:11,791 --> 01:30:14,875
+L'ultimo Eva è esattamente come un Dio.
+
+1157
+01:30:14,958 --> 01:30:17,750
+Tu non devi fare altro
+che accettare me e il mio amore.
+
+1158
+01:30:18,500 --> 01:30:20,916
+Avanti, avvicinati.
+
+1159
+01:30:23,916 --> 01:30:24,958
+Ti è andata molto male!
+
+1160
+01:30:30,583 --> 01:30:32,791
+È inutile, sciocchina.
+
+1161
+01:30:55,500 --> 01:30:56,500
+Asuka!
+
+1162
+01:30:56,583 --> 01:30:58,750
+Nuova Zero-Due,
+non riceviamo nessun segnale!
+
+1163
+01:30:58,833 --> 01:31:00,041
+Stato del pilota sconosciuto!
+
+1164
+01:31:02,791 --> 01:31:04,791
+Motore ausiliario dell'N-Due a terra!
+
+1165
+01:31:05,125 --> 01:31:06,750
+Merda! Cosa c'è adesso?
+
+1166
+01:31:10,791 --> 01:31:14,166
+È simile a un Eva!
+Si è attaccato alla nave!
+
+1167
+01:31:17,166 --> 01:31:19,833
+Diagramma blu.
+Dev'essere un Eva Opfer Type.
+
+1168
+01:31:19,916 --> 01:31:22,041
+Hanno creato un nuovo Mark Nine
+con tanto di pilota?
+
+1169
+01:31:29,250 --> 01:31:30,416
+Si mette male!
+
+1170
+01:31:30,500 --> 01:31:32,791
+L'interno della nave
+verrà corroso fisicamente!
+
+1171
+01:31:32,875 --> 01:31:33,875
+Respingetelo, presto!
+
+1172
+01:31:33,958 --> 01:31:35,125
+Ci stiamo provando,
+
+1173
+01:31:35,208 --> 01:31:38,708
+ma la velocità di contaminazione
+è troppo elevata!
+
+1174
+01:31:40,000 --> 01:31:42,458
+SISTEMI SOVRASCRITTI
+AAA WUNDER REVERTED TO
+
+1175
+01:31:43,125 --> 01:31:45,458
+Il Mark Nine è nel firewall del VD!
+
+1176
+01:31:45,833 --> 01:31:49,125
+È inutile! Tutti i controlli
+sono già stati hackerati.
+
+1177
+01:31:53,208 --> 01:31:54,500
+ATTIVO
+
+1178
+01:32:01,500 --> 01:32:03,416
+Direi che ora siamo proprio nei guai.
+
+1179
+01:32:03,500 --> 01:32:06,541
+Dovevamo aspettarcelo da Fuyutsuki.
+Davvero impressionante.
+
+1180
+01:32:21,583 --> 01:32:24,166
+La riproduzione artificiale di Lilith.
+
+1181
+01:32:24,250 --> 01:32:27,125
+e la conversione forzata
+in Lancia della Luna Nera.
+
+1182
+01:32:27,916 --> 01:32:33,166
+E ora, chi è di scena, prego.
+Sarà una commedia o una tragedia, Ikari?
+
+1183
+01:32:35,875 --> 01:32:38,041
+Intruso sul ponte anteriore di poppa!
+
+1184
+01:32:38,125 --> 01:32:39,875
+SOGGETTO SCONOSCIUTO
+
+1185
+01:32:40,625 --> 01:32:42,708
+Il comandante Ikari...
+
+1186
+01:32:48,416 --> 01:32:49,500
+Perdonami, Principessa.
+
+1187
+01:32:50,291 --> 01:32:52,750
+Mi cospargo il capo di cenere,
+
+1188
+01:32:53,208 --> 01:32:56,750
+ma penso che sia il momento di ritirarmi.
+
+1189
+01:33:05,083 --> 01:33:07,333
+Ne è passato di tempo.
+
+1190
+01:33:09,500 --> 01:33:10,500
+Comandante Ikari.
+
+1191
+01:33:13,125 --> 01:33:16,166
+I miei complimenti, un ottimo lavoro,
+Colonnello Katsuragi.
+
+1192
+01:33:17,250 --> 01:33:21,458
+Ma adesso, questa nave verrà utilizzata
+per il suo scopo iniziale.
+
+1193
+01:33:23,250 --> 01:33:27,333
+Vedo che... non ti perdi in chiacchiere.
+
+1194
+01:33:27,416 --> 01:33:31,375
+Come al solito, non ti fai scrupoli,
+pur di portare a termine la missione.
+
+1195
+01:33:31,791 --> 01:33:34,000
+Esatto. E lo abbiamo imparato da te.
+
+1196
+01:33:47,166 --> 01:33:49,000
+Dio non conosce barriere.
+
+1197
+01:33:50,375 --> 01:33:53,083
+E noi dobbiamo accettare tutto quello
+che ci capita.
+
+1198
+01:33:53,833 --> 01:33:55,291
+Gendoh Ikari.
+
+1199
+01:33:55,375 --> 01:33:59,000
+Hai usato la chiave di Nabucodonosor
+per abbandonare la tua umanità?
+
+1200
+01:33:59,083 --> 01:34:02,375
+Informazioni che sconfinano
+le ragioni del nostro mondo
+
+1201
+01:34:02,458 --> 01:34:06,333
+e che io ho soltanto trascritto
+sul mio corpo. Non vedo il problema.
+
+1202
+01:34:11,250 --> 01:34:13,625
+Ucciderò Dio legando l'umano col divino,
+
+1203
+01:34:13,708 --> 01:34:18,208
+e con il sacrificio degli Angeli
+porterò a termine l'evoluzione,
+
+1204
+01:34:18,291 --> 01:34:21,041
+e infine ultimerò il progetto
+per il Perfezionamento dell'Uomo.
+
+1205
+01:34:21,583 --> 01:34:24,958
+E intendi sacrificare Asuka
+per questo scopo, Gendoh Ikari?
+
+1206
+01:34:25,041 --> 01:34:28,166
+Entrambe le serie di piloti Ayanami
+e Shikinami
+
+1207
+01:34:28,250 --> 01:34:31,083
+sono state create esattamente
+con questo unico scopo.
+
+1208
+01:34:31,958 --> 01:34:34,958
+Non vedo il problema.
+
+1209
+01:35:02,625 --> 01:35:04,875
+La chiave è l'essere umano.
+
+1210
+01:35:04,958 --> 01:35:09,333
+No, la mercificazione dell'antica forma
+di vita su questo pianeta.
+
+1211
+01:35:09,416 --> 01:35:12,125
+Una volta trasformate
+tutte le anime in dei Core
+
+1212
+01:35:12,208 --> 01:35:16,083
+e assimilate dagli Eva Infinity,
+verrà innescato il Fourth Impact?
+
+1213
+01:35:19,083 --> 01:35:20,250
+Sì, esatto.
+
+1214
+01:35:20,708 --> 01:35:23,958
+<span>Il Second Impact</span>
+<span>ha purificato tutti i mari.</span>
+
+1215
+01:35:24,041 --> 01:35:26,750
+<span>Il Third Impact ha purificato la terra.</span>
+
+1216
+01:35:26,833 --> 01:35:29,875
+<span>Mentre il Fourth Impact,</span>
+<span>purificherà le anime.</span>
+
+1217
+01:35:29,958 --> 01:35:33,375
+<span>I Core degli Eva Infinity</span>
+<span>sono la loro materializzazione.</span>
+
+1218
+01:35:33,458 --> 01:35:37,375
+<span>Sbarazzandoci di questo vaso inseminato</span>
+<span>chiamato umanità,</span>
+
+1219
+01:35:37,458 --> 01:35:41,333
+<span>e conducendo la nostra coscienza</span>
+<span>in un Paradiso incontaminato,</span>
+
+1220
+01:35:41,416 --> 01:35:43,375
+<span>avverrà l'ultimo rituale.</span>
+
+1221
+01:35:43,458 --> 01:35:47,708
+<span>E tutto questo era già stato determinato</span>
+<span>dal Second Impact.</span>
+
+1222
+01:35:47,791 --> 01:35:51,708
+<span>È la realizzazione della proposta</span>
+<span>di tuo padre, il Dottor Katsuragi,</span>
+
+1223
+01:35:51,791 --> 01:35:53,958
+<span>che ha potuto dimostrare la sua teoria.</span>
+
+1224
+01:35:54,041 --> 01:35:56,166
+Il Piano per il Perfezionamento dell'Uomo.
+
+1225
+01:35:57,000 --> 01:35:59,875
+Non importa,
+fermerò io il delirio di mio padre.
+
+1226
+01:36:00,291 --> 01:36:03,125
+L'umanità
+ha mangiato il frutto della conoscenza.
+
+1227
+01:36:03,208 --> 01:36:05,708
+Quindi Dio le ha assegnato
+due sorti parallele.
+
+1228
+01:36:05,791 --> 01:36:09,708
+<span>Essere annientata dagli Angeli,</span>
+<span>che hanno ricevuto il frutto della vita,</span>
+
+1229
+01:36:09,791 --> 01:36:12,875
+<span>o di annientare gli Angeli,</span>
+<span>per insediarsi al loro posto</span>
+
+1230
+01:36:12,958 --> 01:36:14,375
+<span>alla destra del Padre,</span>
+
+1231
+01:36:14,458 --> 01:36:18,250
+<span>rinunciando alla conoscenza,</span>
+<span>in cambio della vita eterna.</span>
+
+1232
+01:36:18,333 --> 01:36:21,666
+<span>Noi non possiamo fare altro</span>
+<span>che sceglierne una.</span>
+
+1233
+01:36:21,750 --> 01:36:24,583
+<span>Il Piano Nerv</span>
+<span>per il Perfezionamento dell'Uomo</span>
+
+1234
+01:36:24,666 --> 01:36:28,166
+<span>non è che una resistenza a Dio</span>
+<span>poiché la Seele, tramite gli Adams</span>
+
+1235
+01:36:28,250 --> 01:36:30,750
+<span>ha scelto di percorrere</span>
+<span>quest'ultima strada.</span>
+
+1236
+01:36:31,208 --> 01:36:33,500
+È una causa che valeva la pena perseguire.
+
+1237
+01:36:34,291 --> 01:36:35,583
+Per quanto ci riguarda,
+
+1238
+01:36:35,666 --> 01:36:39,791
+se il Piano per il Perfezionamento
+consiste nell'essere soggiogati da un Dio,
+
+1239
+01:36:39,875 --> 01:36:41,875
+noi scegliamo la via della speranza.
+
+1240
+01:36:41,958 --> 01:36:45,125
+Io credo che l'aspirazione
+e la saggezza dell'umanità,
+
+1241
+01:36:45,208 --> 01:36:47,458
+possano sopraffare anche il potere di Dio.
+
+1242
+01:36:48,000 --> 01:36:51,000
+È tutta una questione di punti di vista.
+
+1243
+01:36:51,083 --> 01:36:53,625
+Colonnello,
+tu non vedi come funziona il mondo.
+
+1244
+01:36:53,708 --> 01:36:56,791
+Come la Dottoressa Akagi
+non può comprendere la felicità.
+
+1245
+01:36:57,333 --> 01:37:00,708
+I sentimenti umani
+non possono cambiare nulla.
+
+1246
+01:37:02,125 --> 01:37:06,666
+Ora tutti i cavalieri
+sono finalmente ai loro posti.
+
+1247
+01:37:14,458 --> 01:37:16,625
+Adesso, è giunto il momento
+
+1248
+01:37:16,708 --> 01:37:19,041
+di riconsegnare l'Eva Zero-Uno
+che vi ho prestato.
+
+1249
+01:37:21,791 --> 01:37:23,000
+Papà!
+
+1250
+01:38:34,666 --> 01:38:36,541
+Siamo già sopravvissuti al Near Third.
+
+1251
+01:38:37,291 --> 01:38:41,208
+Ho fiducia nella fortuna
+e nella Wille della signorina Misato.
+
+1252
+01:38:44,291 --> 01:38:46,750
+Oltre le Porte del Guf
+c'è l'Anti-Universo,
+
+1253
+01:38:46,833 --> 01:38:49,125
+in cui la Wunder
+non può entrare, purtroppo.
+
+1254
+01:38:49,958 --> 01:38:55,333
+La Wille non può più interrompere
+il Piano per il Perfezionamento dell'uomo.
+
+1255
+01:38:55,416 --> 01:38:57,875
+Abbiamo le mani legate.
+
+1256
+01:38:57,958 --> 01:39:02,750
+Signorina Misato.
+Salirò a bordo dell'Eva Zero-Uno.
+
+1257
+01:39:22,500 --> 01:39:25,375
+Dopo che Ayanami si è dissolta,
+
+1258
+01:39:25,458 --> 01:39:28,166
+ho assaporato l'odore della terra,
+come diceva il signor Kaji.
+
+1259
+01:39:31,250 --> 01:39:34,208
+Signorina Misato, condividi con me
+il peso che ti porti dentro.
+
+1260
+01:39:35,208 --> 01:39:36,958
+Farlo significherebbe
+
+1261
+01:39:37,041 --> 01:39:39,166
+che anche tu dovresti combattere
+contro Gendoh Ikari.
+
+1262
+01:39:43,666 --> 01:39:46,208
+Anche io voglio dare il mio contributo.
+
+1263
+01:39:58,083 --> 01:39:59,333
+Aspettate un attimo!
+
+1264
+01:40:00,291 --> 01:40:01,916
+È uno scherzo, vero?
+
+1265
+01:40:02,000 --> 01:40:04,125
+Non avrà intenzione
+di farlo salire sull'Eva?
+
+1266
+01:40:07,083 --> 01:40:09,166
+Pensavo che non sarebbe mai più successo.
+
+1267
+01:40:10,000 --> 01:40:14,166
+Comandante! In questo caso
+ci è permesso di sparare per uccidere?
+
+1268
+01:40:15,208 --> 01:40:16,583
+Sei un Angelo della Peste!
+
+1269
+01:40:16,666 --> 01:40:21,375
+Da quando hai scatenato il Near Third,
+hai solo incasinato le nostre vite!
+
+1270
+01:40:21,458 --> 01:40:23,291
+È tutta colpa vostra!
+
+1271
+01:40:23,375 --> 01:40:26,166
+Tua e di tuo padre! Non vi perdonerò mai.
+
+1272
+01:40:32,458 --> 01:40:33,458
+Sakura?
+
+1273
+01:40:33,541 --> 01:40:36,000
+Shinji Ikari
+non salirà più a bordo dell'Eva.
+
+1274
+01:40:36,833 --> 01:40:40,208
+Ikari, pilotando l'Eva,
+ha portato sventura a tutti noi,
+
+1275
+01:40:40,291 --> 01:40:42,750
+ma ancor di più l'ha portata a se stesso.
+
+1276
+01:40:42,833 --> 01:40:45,583
+Per questo
+non può più salire a bordo dell'Eva!
+
+1277
+01:40:46,833 --> 01:40:51,041
+Aspetta, Sakura!
+Ti prego, lasciamelo pilotare.
+
+1278
+01:40:51,125 --> 01:40:54,375
+Non ripetere questa assurdità, Ikari!
+
+1279
+01:40:54,458 --> 01:40:56,916
+Se ti ferisco ora,
+non ti sentirai in colpa.
+
+1280
+01:40:57,000 --> 01:40:59,750
+Sarà doloroso,
+ma è meglio che farti salire sull'Eva.
+
+1281
+01:40:59,833 --> 01:41:01,458
+Ti prego, sopporta il dolore!
+
+1282
+01:41:04,166 --> 01:41:06,416
+- Misato?
+- Comandante!
+
+1283
+01:41:07,000 --> 01:41:08,666
+Signorina Misato?
+
+1284
+01:41:09,291 --> 01:41:11,833
+Va tutto bene, Shinji.
+
+1285
+01:41:11,916 --> 01:41:15,375
+Se, 14 anni fa tu non fossi salito
+sull'Eva Zero-Uno,
+
+1286
+01:41:15,458 --> 01:41:18,625
+probabilmente ora saremmo tutti già morti.
+
+1287
+01:41:18,708 --> 01:41:20,625
+E per questo io ti ringrazio.
+
+1288
+01:41:20,708 --> 01:41:25,166
+E, anche se l'innesco del Near Third
+ne è stata la conseguenza,
+
+1289
+01:41:25,250 --> 01:41:28,416
+sono io l'unica responsabile
+di tutte le tue azioni, Shinji.
+
+1290
+01:41:28,875 --> 01:41:32,458
+Io, Misato Katsuragi, da ora
+sono la responsabile di Shinji Ikari.
+
+1291
+01:41:32,541 --> 01:41:35,916
+Da qui in avanti mi farò carico
+delle ripercussioni delle sue azioni.
+
+1292
+01:41:38,000 --> 01:41:41,750
+In questo momento, io desidero affidare
+completamente la mia fiducia a Shinji.
+
+1293
+01:41:45,250 --> 01:41:46,708
+Ha ragione!
+
+1294
+01:41:46,791 --> 01:41:50,750
+Noi siamo tutti in debito con Shinji,
+per averci salvati.
+
+1295
+01:41:50,833 --> 01:41:54,250
+Però, mio padre, insieme a tanti altri,
+è scomparso con il Near Third!
+
+1296
+01:41:54,708 --> 01:41:57,625
+Ikari, a fin di bene,
+ha fatto anche del male!
+
+1297
+01:41:58,041 --> 01:42:00,583
+Ma in questo momento,
+non abbiamo altra scelta!
+
+1298
+01:42:02,666 --> 01:42:05,416
+Sì, è vero! Hai ragione, Sakura.
+
+1299
+01:42:06,833 --> 01:42:08,916
+Pensiamo a come sopravvivere
+fino a domani.
+
+1300
+01:42:09,833 --> 01:42:12,916
+Già... proprio così...
+
+1301
+01:42:20,125 --> 01:42:22,250
+Scusatemi!
+
+1302
+01:42:24,416 --> 01:42:26,666
+Ci ho messo più del previsto
+per prepararmi.
+
+1303
+01:42:26,750 --> 01:42:29,166
+Forza, Cagnolino. Andiamo.
+
+1304
+01:42:31,708 --> 01:42:34,625
+Maya, avanti,
+adesso devi prendergli la Plug-Suit.
+
+1305
+01:42:37,833 --> 01:42:42,333
+Il proiettile si scioglierà velocemente.
+Intanto ho applicato un primo soccorso.
+
+1306
+01:42:42,416 --> 01:42:44,791
+Non preoccuparti, tenente.
+
+1307
+01:42:46,000 --> 01:42:47,125
+Shinji Ikari...
+
+1308
+01:42:48,291 --> 01:42:51,791
+l'unica cosa
+che può fare un padre per un figlio
+
+1309
+01:42:51,875 --> 01:42:55,750
+è dargli una pacca sulla spalla,
+oppure può ucciderlo.
+
+1310
+01:42:55,833 --> 01:42:56,958
+Me lo ha insegnato Kaji.
+
+1311
+01:42:58,333 --> 01:43:01,208
+Signorina Misato,
+io ho conosciuto Rioji Kaji.
+
+1312
+01:43:02,041 --> 01:43:05,208
+- Stava bene?
+- Sì.
+
+1313
+01:43:05,291 --> 01:43:07,166
+Che sollievo. Mi fa piacere.
+
+1314
+01:43:07,916 --> 01:43:10,166
+Lui è davvero un bravo ragazzo.
+
+1315
+01:43:10,250 --> 01:43:13,291
+Ci ho parlato solo per poco,
+ma è stato piacevole.
+
+1316
+01:43:14,083 --> 01:43:16,208
+Ti ringrazio.
+
+1317
+01:43:18,125 --> 01:43:22,416
+Ti sosterrò sempre. Mi raccomando, Shinji.
+
+1318
+01:43:23,750 --> 01:43:25,125
+Certo.
+
+1319
+01:43:26,208 --> 01:43:29,833
+- Signorina Misato, ora devo andare.
+- Abbi cura di te.
+
+1320
+01:43:49,416 --> 01:43:50,958
+Bene, adesso torniamo tutti al lavoro.
+
+1321
+01:43:51,458 --> 01:43:52,875
+La nave è a pezzi.
+
+1322
+01:43:52,958 --> 01:43:56,416
+I motori sono inutilizzabili.
+Sarebbe un miracolo non precipitare.
+
+1323
+01:43:56,833 --> 01:43:58,208
+Non fa differenza.
+
+1324
+01:43:58,291 --> 01:44:01,916
+Prima che si esaurisca l’energia,
+dovremo compierlo un altro miracolo.
+
+1325
+01:44:02,916 --> 01:44:05,583
+Dopo le modifiche,
+l'Unità Zero-Otto è eccezionale.
+
+1326
+01:44:05,666 --> 01:44:09,333
+Con il Vaso di Adams posso contare
+sullo stato Plus-Four-In-One
+
+1327
+01:44:09,416 --> 01:44:12,041
+e navigare in questo Anti-Universo
+senza problemi.
+
+1328
+01:44:12,125 --> 01:44:15,791
+Davvero niente male. Bene, Cagnolino.
+
+1329
+01:44:15,875 --> 01:44:19,625
+Tutto ciò che devi fare
+per cercare di migliorare la situazione
+
+1330
+01:44:19,708 --> 01:44:23,416
+è distruggere l'Unità Tredici
+prima che ceda il Sistema Anti- L.
+
+1331
+01:44:23,500 --> 01:44:27,458
+- Prima di essere contaminati dal Core.
+- Ho capito.
+
+1332
+01:44:27,541 --> 01:44:28,708
+Accidenti!
+
+1333
+01:44:28,791 --> 01:44:31,833
+Gendoh, a quanto pare,
+sfrutta l'Anti-Universo
+
+1334
+01:44:31,916 --> 01:44:33,958
+per eseguire
+continui teletrasporti quantici.
+
+1335
+01:44:34,041 --> 01:44:38,250
+Credo che non sarà
+per niente facile catturarlo, miao.
+
+1336
+01:44:38,333 --> 01:44:42,375
+Non preoccuparti, Mari. Me ne occupo io.
+
+1337
+01:44:42,458 --> 01:44:45,125
+Cagnolino. C'è la possibilità
+
+1338
+01:44:45,208 --> 01:44:47,750
+che l'anima della Principessa
+sia dentro l'Unità Tredici.
+
+1339
+01:44:47,833 --> 01:44:50,583
+Perciò, ti prego,
+salva la Principessa Asuka!
+
+1340
+01:44:51,625 --> 01:44:54,750
+Farò il possibile. Ayanami...
+
+1341
+01:45:02,458 --> 01:45:05,583
+Ovunque sarai sappi
+che verrò a prenderti!
+
+1342
+01:45:05,666 --> 01:45:09,000
+Perciò... dovrai soltanto aspettarmi,
+Shinji.
+
+1343
+01:45:10,916 --> 01:45:14,291
+Ti ringrazio. Ti aspetterò.
+
+1344
+01:45:17,500 --> 01:45:18,625
+<span>Good luck.</span>
+
+1345
+01:45:19,708 --> 01:45:21,500
+Va tutto bene, Rei?
+
+1346
+01:45:22,916 --> 01:45:24,416
+Ayanami.
+
+1347
+01:45:25,333 --> 01:45:28,541
+Ikari... perdonami.
+
+1348
+01:45:28,625 --> 01:45:33,458
+Non sono riuscita a evitare
+che tu salissi di nuovo a bordo di un Eva.
+
+1349
+01:45:33,541 --> 01:45:37,541
+Non importa. Ti ringrazio, Ayanami.
+Sarà l'ultima volta.
+
+1350
+01:45:39,416 --> 01:45:40,750
+Te ne prego.
+
+1351
+01:45:47,041 --> 01:45:49,750
+Quindi il pilota dell'Unità Zero-Uno
+si è risvegliato?
+
+1352
+01:45:49,833 --> 01:45:53,166
+L'Unità Zero-Otto sta ricevendo
+un segnale dall'Anti-Universo!
+
+1353
+01:45:53,250 --> 01:45:56,291
+- L'Unità Eva Zero-Uno si è riattivata!
+- Ma è una cosa impossibile!
+
+1354
+01:45:56,791 --> 01:45:59,208
+La sincronia dell'Angelo della Peste
+era zero!
+
+1355
+01:45:59,625 --> 01:46:02,541
+E se il vero tasso di sincronia di Shinji,
+non fosse zero,
+
+1356
+01:46:03,333 --> 01:46:04,916
+ma il numero più vicino allo zero?
+
+1357
+01:46:05,000 --> 01:46:08,208
+Giusto. Il valore di Shinji è infinito.
+
+1358
+01:46:22,333 --> 01:46:24,875
+Bene. L'hai trasformata in Cassius,
+la Lancia della Speranza.
+
+1359
+01:46:28,875 --> 01:46:31,041
+Devi fermarti, papà!
+
+1360
+01:46:32,125 --> 01:46:34,583
+Non posso. Io ho un compito
+
+1361
+01:46:35,250 --> 01:46:38,041
+e devo obbligatoriamente
+portarlo a termine.
+
+1362
+01:46:45,583 --> 01:46:46,750
+TRANSMESSO
+
+1363
+01:46:46,833 --> 01:46:51,416
+Forzando lo scatenarsi dell'Another Impact
+che cosa spera di ottenere?
+
+1364
+01:46:51,500 --> 01:46:54,708
+Solo uno scopo può spingerlo a provocare
+l'Another Impact.
+
+1365
+01:46:54,791 --> 01:46:57,625
+Aveva una nuova Lancia
+per il Fourth Impact,
+
+1366
+01:46:57,708 --> 01:47:00,166
+ma ha deciso di conservarle entrambe
+fino alla fine.
+
+1367
+01:47:00,708 --> 01:47:03,541
+Immagino che sia
+perché vuole esaudire un solo desiderio.
+
+1368
+01:47:04,333 --> 01:47:06,583
+Che stupidaggine. È solo un egocentrico.
+
+1369
+01:47:08,958 --> 01:47:11,250
+Ci rivedremo molto presto, Yui.
+
+1370
+01:47:12,375 --> 01:47:16,208
+Non riesco a muovermi!
+Lasciami andare, papà!
+
+1371
+01:47:20,041 --> 01:47:22,875
+- Che cos'è?
+- Quella è la Croce del Golgota.
+
+1372
+01:47:22,958 --> 01:47:28,041
+Una qualche entità non umana,
+ha allestito qui il Regno di Dio,
+
+1373
+01:47:28,125 --> 01:47:31,041
+riunendo sei Lance insieme agli Adams.
+
+1374
+01:47:31,125 --> 01:47:35,166
+Anche tua madre, mia moglie,
+ha risieduto qui.
+
+1375
+01:47:35,250 --> 01:47:38,750
+Questo è l'inizio di tutto,
+la Terra Promessa.
+
+1376
+01:47:38,833 --> 01:47:41,250
+Il potere dell'uomo è limitato,
+ma non qui.
+
+1377
+01:47:41,333 --> 01:47:45,875
+Questo è l'unico luogo
+in cui si può cambiare perfino il destino.
+
+1378
+01:47:52,500 --> 01:47:54,000
+Dove sono?
+
+1379
+01:47:55,041 --> 01:47:56,416
+La Gabbia dell'Eva?
+
+1380
+01:47:57,833 --> 01:48:01,166
+- Non capisco dove sono.
+- Questo è il mondo delle tue memorie.
+
+1381
+01:48:01,250 --> 01:48:02,666
+Papà?
+
+1382
+01:48:02,750 --> 01:48:07,166
+Le nostre normali funzioni sensoriali
+non hanno valore nell'Anti-Universo.
+
+1383
+01:48:07,666 --> 01:48:11,333
+<span>Pertanto, l'LCL serve per ricreare</span>
+<span>un mondo virtuale,</span>
+
+1384
+01:48:11,416 --> 01:48:12,666
+<span>ma che sia percettibile.</span>
+
+1385
+01:48:13,416 --> 01:48:15,541
+<span>Consegnami subito l'Unità Zero-Uno.</span>
+
+1386
+01:48:16,000 --> 01:48:19,875
+Se sceglierai di farlo, ti sarà concesso
+di vedere di nuovo tua madre.
+
+1387
+01:48:30,208 --> 01:48:35,000
+Cerchi davvero di oppormi resistenza?
+Ecco perché i bambini sono inutili.
+
+1388
+01:48:49,625 --> 01:48:52,916
+<span>Non ho altra scelta.</span>
+<span>Ti dovrò raccontare tutto.</span>
+
+1389
+01:50:41,125 --> 01:50:43,875
+Non capisco. Fa i miei stessi movimenti.
+
+1390
+01:50:45,208 --> 01:50:46,333
+È impossibile!
+
+1391
+01:50:46,416 --> 01:50:48,666
+Due facce della stessa medaglia.
+
+1392
+01:50:48,750 --> 01:50:53,250
+L'unità Zero-Uno è la Speranza,
+la 13 è la Disperazione.
+
+1393
+01:50:53,333 --> 01:50:56,666
+Sono sincronizzate
+e sintonizzate tra loro.
+
+1394
+01:50:56,750 --> 01:51:00,333
+Anche questo
+è parte fondamentale del rituale.
+
+1395
+01:51:00,416 --> 01:51:02,208
+Ti prego, devi fermarti, papà!
+
+1396
+01:51:05,708 --> 01:51:06,958
+È inutile.
+
+1397
+01:51:07,041 --> 01:51:09,166
+Con un potere debole come il tuo,
+
+1398
+01:51:09,250 --> 01:51:11,125
+non potrai mai essere in grado
+di fermarmi.
+
+1399
+01:51:36,208 --> 01:51:38,833
+Sul serio non riesci ancora a capirlo?
+
+1400
+01:51:48,458 --> 01:51:51,125
+È inutile usare la forza.
+
+1401
+01:51:55,083 --> 01:51:57,458
+La violenza
+e la paura non sono il criterio
+
+1402
+01:51:57,541 --> 01:52:00,208
+con cui puoi portare a termine
+questo scontro.
+
+1403
+01:52:24,208 --> 01:52:25,208
+Proprio così.
+
+1404
+01:52:25,833 --> 01:52:28,375
+Non potrà mai essere
+una questione di forza.
+
+1405
+01:52:31,000 --> 01:52:32,916
+Papà, voglio parlarti.
+
+1406
+01:52:34,750 --> 01:52:38,625
+Papà... che cosa stai cercando di fare?
+
+1407
+01:52:39,250 --> 01:52:42,375
+Qualcosa che può essere fatto solo qui,
+alla Croce del Golgota.
+
+1408
+01:52:42,458 --> 01:52:44,125
+L'Additional Impact.
+
+1409
+01:52:44,833 --> 01:52:48,583
+Quello che renderà finalmente possibile
+realizzare il deicidio.
+
+1410
+01:52:49,500 --> 01:52:54,083
+Ecco perché ho preso la decisione
+di portare qui entrambe le Lance.
+
+1411
+01:52:55,083 --> 01:52:57,875
+Stando alla previsione del Magi-C,
+
+1412
+01:52:57,958 --> 01:53:01,541
+è possibile che Ikari
+voglia solo sbarazzarsi delle due Lance.
+
+1413
+01:53:01,625 --> 01:53:03,583
+Una volta tolte di mezzo le Lance
+
+1414
+01:53:03,666 --> 01:53:06,708
+Shinji non avrebbe più modo di fermare
+il rituale.
+
+1415
+01:53:06,791 --> 01:53:07,833
+Quindi cosa possiamo fare?
+
+1416
+01:53:07,916 --> 01:53:11,750
+Dobbiamo costruire una nuova Lancia
+e dobbiamo portarla a Shinji.
+
+1417
+01:53:11,833 --> 01:53:14,875
+Ma è impossibile! Come pensa di riuscirci?
+
+1418
+01:53:14,958 --> 01:53:17,500
+<span>Quando abbiamo requisito questa nave,</span>
+<span>si chiamava Buße,</span>
+
+1419
+01:53:17,583 --> 01:53:20,291
+<span>veniva utilizzata per creare</span>
+<span>particolari Lance</span>
+
+1420
+01:53:20,375 --> 01:53:21,875
+<span>con il materiale grezzo della Luna Nera.</span>
+
+1421
+01:53:22,333 --> 01:53:23,750
+<span>Con il potere di questa nave</span>
+
+1422
+01:53:23,833 --> 01:53:26,458
+<span>dovremmo essere in grado anche noi</span>
+<span>di costruirne una.</span>
+
+1423
+01:53:26,958 --> 01:53:30,333
+Se permeata dalla volontà dell'uomo,
+la Wunder può compiere un miracolo.
+
+1424
+01:53:30,750 --> 01:53:33,625
+Io credo nella Wunder, nella Wille
+e in ciò che significano.
+
+1425
+01:53:34,250 --> 01:53:37,375
+- E nella saggezza di Ritsuko.
+- Questo è assurdo.
+
+1426
+01:53:37,458 --> 01:53:39,958
+Abbiamo solo i dati
+delle vecchie programmazioni.
+
+1427
+01:53:40,041 --> 01:53:41,458
+Ritsuko a te bastano?
+
+1428
+01:53:43,458 --> 01:53:45,458
+Potrebbero. Ci posso provare.
+
+1429
+01:53:45,541 --> 01:53:46,625
+QUANDO UN ALTRO IMPACT È ATTIVATO
+
+1430
+01:53:46,708 --> 01:53:48,416
+In sostanza,
+è un sistema di collegamento spinale.
+
+1431
+01:53:48,958 --> 01:53:51,708
+Maya, mi dispiace,
+questa è l'unica possibilità.
+
+1432
+01:53:51,791 --> 01:53:55,583
+Nessun problema, vice-comandante.
+Ci ho fatto l'abitudine.
+
+1433
+01:53:56,750 --> 01:53:57,916
+Buone notizie!
+
+1434
+01:53:58,000 --> 01:53:58,875
+L'alimentazione
+
+1435
+01:53:58,958 --> 01:54:01,375
+e il blocco per la connessione spinale
+sono utilizzabili!
+
+1436
+01:54:01,458 --> 01:54:04,250
+Riusciremo a ricombinare qui
+le componenti!
+
+1437
+01:54:04,875 --> 01:54:07,625
+Assolutamente no!
+Dovete andarvene subito!
+
+1438
+01:54:07,708 --> 01:54:09,291
+È troppo pericoloso restare lì!
+
+1439
+01:54:09,750 --> 01:54:12,583
+- È un rischio necessario!
+- Faremo tutto il possibile!
+
+1440
+01:54:14,083 --> 01:54:17,166
+- Io davvero... non riesco a sopportarli.
+- Forza.
+
+1441
+01:54:17,625 --> 01:54:21,458
+Dobbiamo dare sostegno a Shinji,
+prima che Ikari faccia la sua mossa!
+
+1442
+01:54:21,541 --> 01:54:22,666
+Ricevuto!
+
+1443
+01:54:22,750 --> 01:54:27,625
+Pilota dell'Unità Zero-Uno.
+Ora, c'è una cosa che voglio mostrarti.
+
+1444
+01:54:31,625 --> 01:54:34,583
+Ma questa è... una Lilith Nera?
+
+1445
+01:54:34,666 --> 01:54:37,416
+Quindi la tua memoria
+te la fa vedere come tale.
+
+1446
+01:54:38,000 --> 01:54:40,250
+Ecco l'Evangelion Imaginary.
+
+1447
+01:54:40,333 --> 01:54:44,125
+Il Dottor Katsuragi aveva preventivato
+l'esistenza di questo Eva.
+
+1448
+01:54:44,208 --> 01:54:46,583
+Un'Unità irreale, o immaginaria.
+
+1449
+01:54:46,666 --> 01:54:50,291
+L'unica creatura vivente
+che può identificarla è l'essere umano,
+
+1450
+01:54:50,375 --> 01:54:52,250
+che crede tanto alla realtà
+quanto alla finzione.
+
+1451
+01:54:55,333 --> 01:54:57,416
+Solo così si può percepire questo Eva.
+
+1452
+01:54:57,500 --> 01:54:59,916
+Le Lance della Speranza
+e della Disperazione
+
+1453
+01:55:00,000 --> 01:55:02,250
+si innescano e si sacrificano a vicenda.
+
+1454
+01:55:02,333 --> 01:55:06,250
+Così che la realtà
+e la finzione si possano fondere...
+
+1455
+01:55:10,833 --> 01:55:13,041
+e ogni informazione diventi un tutt'uno.
+
+1456
+01:55:13,125 --> 01:55:15,625
+L'Additional Impact
+non riscriverà solo la mia coscienza,
+
+1457
+01:55:15,708 --> 01:55:19,041
+ma anche quella di tutto il mondo.
+
+1458
+01:55:27,541 --> 01:55:31,625
+Per far avverare il mio desiderio
+non può esistere un altro modo.
+
+1459
+01:55:53,916 --> 01:55:56,375
+Questo sarebbe l'Additional Impact?
+
+1460
+01:55:56,958 --> 01:56:00,625
+Esatto. O meglio... l'Eva Imaginary.
+
+1461
+01:56:01,083 --> 01:56:04,041
+- Non credevo che esistesse davvero.
+- È incredibile!
+
+1462
+01:56:08,750 --> 01:56:10,458
+È assurdo!
+
+1463
+01:56:58,208 --> 01:56:59,958
+Finalmente ha inizio.
+
+1464
+01:57:01,875 --> 01:57:02,875
+Ah, sei tu.
+
+1465
+01:57:03,541 --> 01:57:06,208
+Ne è passato di tempo,
+Professor Fuyutsuki.
+
+1466
+01:57:06,833 --> 01:57:11,291
+Lei non crede che la densità
+della Barriera-L sia alta su questa nave?
+
+1467
+01:57:11,375 --> 01:57:14,916
+Beh, non è stata progettata
+per avere un equipaggio.
+
+1468
+01:57:15,333 --> 01:57:16,541
+Ma non devi sorprenderti.
+
+1469
+01:57:17,333 --> 01:57:21,750
+L'umanità si abbevera dalla fonte di luce
+della "Speranza".
+
+1470
+01:57:21,833 --> 01:57:24,375
+Può succedere
+che la faccia diventare una malattia,
+
+1471
+01:57:24,458 --> 01:57:26,833
+affogando nella Speranza stessa.
+
+1472
+01:57:26,916 --> 01:57:30,833
+Ikari e io ci siamo ritrovati aggrappati
+a quella malattia per troppo tempo.
+
+1473
+01:57:31,333 --> 01:57:35,041
+Gendoh ha deciso di diventare il fulcro
+del Perfezionamento dell'uomo,
+
+1474
+01:57:35,125 --> 01:57:36,958
+pur di realizzare il suo desiderio.
+
+1475
+01:57:37,541 --> 01:57:40,291
+Io vorrei aiutarlo, anzi,
+
+1476
+01:57:40,375 --> 01:57:44,375
+suppongo che il desiderio di Gendoh
+coincida col suo, professore.
+
+1477
+01:57:44,458 --> 01:57:48,375
+Ma mi dispiacerebbe tanto
+dover coinvolgere l'intera umanità, miao.
+
+1478
+01:57:48,791 --> 01:57:51,958
+Come immaginavo.
+Il mio compito ora volge al termine.
+
+1479
+01:57:52,416 --> 01:57:54,625
+Ho seguito tutte le tue indicazioni.
+
+1480
+01:57:54,708 --> 01:58:00,250
+Ora agisci come meglio credi,
+Maria Iscariota.
+
+1481
+01:58:01,000 --> 01:58:03,833
+Era da tanto
+che non sentivo pronunciare quel nome.
+
+1482
+01:58:04,875 --> 01:58:09,000
+Ci siamo. Questo è un addio.
+
+1483
+01:58:15,916 --> 01:58:20,000
+Yui. È quello che volevi?
+
+1484
+01:58:53,291 --> 01:58:55,875
+È operativo! Ed è già in funzione!
+
+1485
+01:58:55,958 --> 01:58:58,458
+Comandante,
+il personale qui è più che sufficiente.
+
+1486
+01:58:59,166 --> 01:59:01,333
+Ricevuto. Abbandonare la nave!
+
+1487
+01:59:03,166 --> 01:59:06,708
+<span>Abbandonare la nave!</span>
+<span>Ripeto, abbandonare la nave!</span>
+
+1488
+01:59:06,791 --> 01:59:09,916
+<span>Massima priorità ai feriti!</span>
+<span>Alle capsule di salvataggio!</span>
+
+1489
+01:59:14,750 --> 01:59:18,666
+A quanto pare i Vasi di Adams
+e gli Eva Opfer Type sono in posizione.
+
+1490
+01:59:20,083 --> 01:59:24,666
+Come al solito, Professor Fuyutsuki.
+Un'esecuzione perfetta. Miao!
+
+1491
+01:59:25,208 --> 01:59:29,833
+Che peccato,
+dovranno diventare il nutrimento...
+
+1492
+01:59:33,666 --> 01:59:35,333
+per l'Overlapping del mio Eva.
+
+1493
+01:59:40,750 --> 01:59:43,333
+Adesso siamo a Più-Otto,
+Più-Nove Più-Dieci...
+
+1494
+01:59:55,833 --> 01:59:57,666
+Più... undici!
+
+1495
+02:00:05,958 --> 02:00:09,541
+Perfetto, adesso me ne manca solo uno!
+
+1496
+02:00:10,166 --> 02:00:12,291
+<span>Chiusura portelli fino a capsula 4.</span>
+
+1497
+02:00:12,375 --> 02:00:15,250
+<span>A tutto il personale a bordo</span>
+<span>dirigersi alla capsula 5!</span>
+
+1498
+02:00:17,916 --> 02:00:20,375
+Devo tornare subito al timone.
+
+1499
+02:00:20,458 --> 02:00:22,791
+La nostra unica preoccupazione ora
+è sopravvivere.
+
+1500
+02:00:24,083 --> 02:00:25,416
+Non importa a quale costo.
+
+1501
+02:00:31,500 --> 02:00:35,875
+Comandante, la ricombinazione è completa.
+Possiamo iniziare.
+
+1502
+02:00:36,333 --> 02:00:37,541
+Ricevuto.
+
+1503
+02:00:37,625 --> 02:00:40,375
+Tutti i comandi del timone
+alla mia postazione.
+
+1504
+02:00:40,458 --> 02:00:42,875
+- Per gli altri, evacuazione immediata.
+- Misato?
+
+1505
+02:00:43,291 --> 02:00:46,708
+<span>A qualcuno spetta il compito</span>
+<span>di accertarsi che tutto funzioni.</span>
+
+1506
+02:00:47,125 --> 02:00:49,750
+E il responsabile di questa nave sono io.
+
+1507
+02:00:50,791 --> 02:00:55,416
+<span>Chiedi ai ragazzi ancora in vita</span>
+<span>di sopravvivere, Ritsuko.</span>
+
+1508
+02:00:57,958 --> 02:01:01,291
+È tutto chiaro, Misato.
+Farò del mio meglio.
+
+1509
+02:01:03,041 --> 02:01:04,583
+Ti ringrazio.
+
+1510
+02:01:25,000 --> 02:01:27,666
+L'energia elettromagnetica rimasta
+è poca.
+
+1511
+02:01:27,750 --> 02:01:32,541
+Alla fine,
+mi toccherà farlo alla vecchia maniera,
+
+1512
+02:01:33,500 --> 02:01:35,291
+usando i motori con propulsione a getto.
+
+1513
+02:02:07,791 --> 02:02:10,208
+Adesso i Lilin
+non hanno più bisogno di voi.
+
+1514
+02:02:10,791 --> 02:02:13,083
+Riposate in pace. Buonanotte, Adams.
+
+1515
+02:02:14,291 --> 02:02:18,125
+La Wunder è in movimento.
+Devo darmi una mossa, miao.
+
+1516
+02:02:18,208 --> 02:02:19,625
+Oh cavolo...
+
+1517
+02:02:19,708 --> 02:02:23,791
+Quindi la tua intenzione
+è di innescare il Perfezionamento Fisico
+
+1518
+02:02:23,875 --> 02:02:28,208
+e quello mentale contemporaneamente?
+Dimmi, Gendoh ci credi davvero?
+
+1519
+02:02:28,791 --> 02:02:31,291
+Papà, ma tu che cosa desideri?
+
+1520
+02:02:31,791 --> 02:02:36,125
+Che tu scelga di vivere in un mondo
+dove non esista alcun tipo di AT-field,
+
+1521
+02:02:36,208 --> 02:02:38,500
+dove gli animi
+di tutti gli individui viventi
+
+1522
+02:02:38,583 --> 02:02:40,083
+possano diventare un tutt'uno.
+
+1523
+02:02:40,625 --> 02:02:42,708
+Non ci sarebbero più differenze.
+
+1524
+02:02:42,791 --> 02:02:43,958
+Né ricchi, né poveri,
+
+1525
+02:02:44,041 --> 02:02:47,791
+nessuna discriminazione, conflitto,
+violenza, dolore o tristezza.
+
+1526
+02:02:47,875 --> 02:02:50,208
+Un mondo di sole anime incontaminate.
+
+1527
+02:02:50,791 --> 02:02:55,875
+Un mondo pacifico dove Yui
+e io potremmo ricongiungerci nuovamente.
+
+1528
+02:02:56,583 --> 02:02:59,583
+Yui!
+
+1529
+02:02:59,666 --> 02:03:01,916
+Yui!
+
+1530
+02:03:02,375 --> 02:03:05,375
+Yui! Dove sei? Dove sei, Yui?
+
+1531
+02:03:06,041 --> 02:03:11,500
+Qui c'è solamente Rei!
+Dove sei? Dove sei? Yui!
+
+1532
+02:03:12,666 --> 02:03:15,333
+Oh, papà, devi fermarti subito.
+
+1533
+02:03:15,958 --> 02:03:18,833
+Perché? Shinji, tu che cosa ci fai qui?
+
+1534
+02:03:19,583 --> 02:03:21,416
+Sono qui
+perché voglio conoscere mio padre.
+
+1535
+02:03:22,458 --> 02:03:24,125
+Mi sentivo solo,
+
+1536
+02:03:24,208 --> 02:03:27,625
+ma nonostante questo
+ti sono stato lontano.
+
+1537
+02:03:27,708 --> 02:03:29,416
+Perché avevo paura
+
+1538
+02:03:29,500 --> 02:03:31,291
+che mi avresti detto chiaramente
+di odiarmi.
+
+1539
+02:03:32,416 --> 02:03:36,250
+Ma ora
+io voglio davvero conoscere mio padre.
+
+1540
+02:03:40,833 --> 02:03:43,041
+Un AT-Field?
+
+1541
+02:03:43,125 --> 02:03:45,000
+Non mi sono liberato della mia umanità!
+
+1542
+02:03:47,333 --> 02:03:52,958
+Possibile che io in realtà
+abbia paura di Shinji? È davvero così?
+
+1543
+02:03:53,041 --> 02:03:56,250
+Ecco una cosa
+di cui io non mi sono liberato
+
+1544
+02:03:56,916 --> 02:04:00,166
+e che intendevo restituirti. Tieni.
+
+1545
+02:04:06,750 --> 02:04:09,208
+Tu sei simile a me, vero?
+
+1546
+02:04:09,958 --> 02:04:12,208
+Sì, è così.
+
+1547
+02:04:12,291 --> 02:04:15,666
+Le mie cuffie mi tenevano lontano
+dal mondo esterno.
+
+1548
+02:04:16,833 --> 02:04:18,166
+Erano la mia armatura.
+
+1549
+02:04:18,833 --> 02:04:21,541
+Mi permettevano di ignorare
+il rumore degli altri.
+
+1550
+02:04:23,125 --> 02:04:25,708
+<span>Ma poi ho incontrato Yui,</span>
+
+1551
+02:04:25,791 --> 02:04:27,916
+<span>e da quel momento</span>
+<span>non ne avevo più bisogno.</span>
+
+1552
+02:04:29,500 --> 02:04:31,750
+Il nome, lo hai deciso?
+
+1553
+02:04:31,833 --> 02:04:35,250
+Se è un maschio, Shinji.
+Se è una femmina, Rei.
+
+1554
+02:04:36,083 --> 02:04:38,875
+Shinji... Rei...
+
+1555
+02:04:46,916 --> 02:04:50,208
+<span>Senza aver ricevuto l'amore dei miei</span>
+<span>mi sono ritrovato padre.</span>
+
+1556
+02:04:50,708 --> 02:04:52,625
+<span>Non c'è alcun dubbio al riguardo,</span>
+
+1557
+02:04:52,708 --> 02:04:54,708
+<span>è un mondo imperfetto,</span>
+<span>instabile e irragionevole.</span>
+
+1558
+02:04:55,291 --> 02:04:58,625
+<span>Una società che, a prescindere</span>
+<span>da quello che dice la gente,</span>
+
+1559
+02:04:58,708 --> 02:04:59,750
+<span>non funziona.</span>
+
+1560
+02:04:59,833 --> 02:05:03,041
+<span>Le persone cambiano opinione</span>
+<span>continuamente.</span>
+
+1561
+02:05:03,791 --> 02:05:05,625
+<span>Qual è la verità?</span>
+
+1562
+02:05:05,708 --> 02:05:08,166
+<span>E che cosa invece non è attendibile?</span>
+
+1563
+02:05:08,250 --> 02:05:11,791
+<span>È probabile che tutto si rispecchi</span>
+<span>in entrambe le definizioni.</span>
+
+1564
+02:05:11,875 --> 02:05:13,666
+<span>E la verità dipenda</span>
+<span>dal proprio stato d'animo.</span>
+
+1565
+02:05:14,583 --> 02:05:17,458
+<span>Mi spaventava dover creare dei legami</span>
+<span>con gli altri.</span>
+
+1566
+02:05:18,083 --> 02:05:20,041
+<span>Odiavo quel mondo</span>
+<span>ricolmo di esseri umani.</span>
+
+1567
+02:05:20,833 --> 02:05:23,333
+<span>Fin da piccolo,</span>
+<span>la solitudine era la normalità.</span>
+
+1568
+02:05:23,416 --> 02:05:26,000
+<span>Quindi io non soffrivo quella solitudine.</span>
+
+1569
+02:05:26,666 --> 02:05:30,375
+<span>Però esistono persone</span>
+<span>a cui non piace sentirsi sole.</span>
+
+1570
+02:05:31,083 --> 02:05:33,500
+<span>Ma io non ero a mio agio</span>
+<span>nelle case altrui.</span>
+
+1571
+02:05:33,583 --> 02:05:37,250
+<span>Andare da un compagno di classe</span>
+<span>non era una cosa che poteva interessarmi.</span>
+
+1572
+02:05:37,333 --> 02:05:39,250
+<span>Né andare a trovare un parente.</span>
+
+1573
+02:05:39,333 --> 02:05:41,958
+<span>Odiavo dover seguire i costumi</span>
+<span>di quella vita.</span>
+
+1574
+02:05:42,750 --> 02:05:45,375
+<span>Stare in compagnia era frustrante per me.</span>
+
+1575
+02:05:45,458 --> 02:05:47,625
+<span>Volevo semplicemente</span>
+<span>restare sempre da solo.</span>
+
+1576
+02:05:48,625 --> 02:05:52,166
+<span>Quando ero bambino</span>
+<span>mi interessavano solo due cose.</span>
+
+1577
+02:05:52,250 --> 02:05:53,500
+<span>Una era la conoscenza.</span>
+
+1578
+02:05:54,000 --> 02:05:56,208
+<span>Il sapere fine a se stesso</span>
+
+1579
+02:05:56,291 --> 02:05:59,041
+<span>bastava a saziare interamente</span>
+<span>l'appetito del mio animo.</span>
+
+1580
+02:05:59,125 --> 02:06:00,958
+<span>Non mi serviva ostentare il mio sapere</span>
+
+1581
+02:06:01,416 --> 02:06:05,166
+<span>se avevo la possibilità di dedicare</span>
+<span>tutto il tempo a mia disposizione</span>
+
+1582
+02:06:05,250 --> 02:06:06,375
+<span>all'apprendimento.</span>
+
+1583
+02:06:07,333 --> 02:06:09,250
+<span>L'altra, era il pianoforte.</span>
+
+1584
+02:06:09,333 --> 02:06:13,333
+<span>Se accordato, ogni tasto restituisce</span>
+<span>esattamente il suono desiderato.</span>
+
+1585
+02:06:15,666 --> 02:06:19,208
+<span>Non ti può mentire.</span>
+<span>Né tradirti, o deluderti.</span>
+
+1586
+02:06:19,666 --> 02:06:23,208
+<span>E senza accorgertene</span>
+<span>ti trasformi in un flusso di suoni.</span>
+
+1587
+02:06:23,291 --> 02:06:27,208
+<span>Mi piaceva quel meccanismo.</span>
+<span>Perché era soltanto mio.</span>
+
+1588
+02:06:27,791 --> 02:06:30,916
+<span>Perché non ferivo nessuno</span>
+<span>e non venivo ferito da nessuno.</span>
+
+1589
+02:06:31,333 --> 02:06:32,708
+<span>Stavo bene con me stesso.</span>
+
+1590
+02:06:34,625 --> 02:06:36,500
+<span>Finché non ho incontrato Yui.</span>
+
+1591
+02:06:36,583 --> 02:06:41,208
+<span>Da allora ho iniziato a scoprire</span>
+<span>quanto la vita potesse essere appagante.</span>
+
+1592
+02:06:41,291 --> 02:06:45,541
+<span>Soltanto Yui è riuscita ad accettarmi</span>
+<span>per quello che ero davvero.</span>
+
+1593
+02:06:48,625 --> 02:06:50,458
+<span>Ma dopo aver perso lei</span>
+
+1594
+02:06:50,541 --> 02:06:55,041
+<span>ho smarrito anche</span>
+<span>la mia innata capacità di vivere da solo.</span>
+
+1595
+02:06:56,333 --> 02:06:58,708
+<span>Per la prima volta</span>
+<span>io ho sofferto la solitudine.</span>
+
+1596
+02:07:00,291 --> 02:07:03,750
+<span>Non riuscivo in nessun modo</span>
+<span>a sopportare l'idea di aver perso Yui.</span>
+
+1597
+02:07:05,333 --> 02:07:08,625
+<span>Avrei voluto solamente piangere</span>
+<span>tra le sue braccia.</span>
+
+1598
+02:07:09,833 --> 02:07:12,833
+<span>Avrei voluto la possibilità</span>
+<span>di cambiare le cose</span>
+
+1599
+02:07:12,916 --> 02:07:14,250
+e di prendere posto al suo fianco.
+
+1600
+02:07:15,500 --> 02:07:19,125
+<span>Avrei voluto solamente realizzare</span>
+<span>questo desiderio.</span>
+
+1601
+02:07:20,333 --> 02:07:26,208
+<span>Ma forse non posso ricongiungermi a Yui,</span>
+<span>perché io sono troppo debole?</span>
+
+1602
+02:07:27,708 --> 02:07:29,166
+Shinji...
+
+1603
+02:07:29,916 --> 02:07:32,458
+Penso che sia perché
+non ammetti questa tua debolezza.
+
+1604
+02:07:34,541 --> 02:07:37,958
+Ma in fondo lo hai sempre saputo, papà.
+
+1605
+02:07:41,375 --> 02:07:44,291
+- Che succede?
+- Eccola, la signorina Misato.
+
+1606
+02:07:57,958 --> 02:07:59,375
+Non è ancora finita!
+
+1607
+02:08:20,666 --> 02:08:22,500
+Questo è assurdo!
+
+1608
+02:08:22,583 --> 02:08:24,875
+Entrambe le lance sacre
+sono andate perdute.
+
+1609
+02:08:25,500 --> 02:08:28,875
+Non può esistere una terza lancia
+che riscriva il mondo!
+
+1610
+02:08:28,958 --> 02:08:31,708
+Dio ci ha donato
+la Lancia della Speranza, Cassius
+
+1611
+02:08:31,791 --> 02:08:33,375
+e la Lancia della Disperazione,
+chiamata Longinus.
+
+1612
+02:08:33,916 --> 02:08:38,000
+Sono andate perdute, ma la volontà
+del mondo di tornare a com'era
+
+1613
+02:08:38,083 --> 02:08:42,666
+ha creato un'altra lancia, Gaius.
+Anzi, la Lancia della Wille.
+
+1614
+02:08:43,375 --> 02:08:47,458
+L'umanità con la propria volontà
+e saggezza è arrivata a tanto,
+
+1615
+02:08:47,541 --> 02:08:49,875
+e senza l'aiuto di Dio. Signorina Yui!
+
+1616
+02:09:05,458 --> 02:09:06,625
+Ce l'ho fatta!
+
+1617
+02:09:11,875 --> 02:09:13,500
+Mari, va' da Shinji!
+
+1618
+02:09:13,583 --> 02:09:16,250
+Ci puoi scommettere!
+Io lo riporterò indietro!
+
+1619
+02:09:16,333 --> 02:09:18,208
+Mi fido di te!
+
+1620
+02:09:38,791 --> 02:09:41,833
+A quanto pare
+c'è davvero una nuova Lancia
+
+1621
+02:09:41,916 --> 02:09:43,083
+che mi divide da Yui.
+
+1622
+02:09:44,291 --> 02:09:45,666
+Una vera seccatura.
+
+1623
+02:09:48,875 --> 02:09:52,208
+Come madre questa è l'unica cosa
+che posso fare per te.
+
+1624
+02:09:52,291 --> 02:09:54,625
+Perdonami, Ryoji.
+
+1625
+02:10:06,250 --> 02:10:08,625
+Ti ringrazio, signorina Misato.
+
+1626
+02:10:09,666 --> 02:10:12,541
+Hai imparato ad ascoltare gli altri
+e ad accettare la morte.
+
+1627
+02:10:13,083 --> 02:10:15,708
+Sei diventato un adulto, Shinji.
+
+1628
+02:10:17,500 --> 02:10:19,458
+<span>Ho dovuto attendere fino alla fine</span>
+<span>per comprendere</span>
+
+1629
+02:10:19,541 --> 02:10:23,958
+<span>se Shinji fosse un pezzo necessario</span>
+<span>per ricomporre Yui.</span>
+
+1630
+02:10:24,625 --> 02:10:30,625
+<span>Riuscire a realizzare un desiderio</span>
+<span>ovviamente necessita di un sacrificio.</span>
+
+1631
+02:10:31,291 --> 02:10:34,083
+<span>E io ho pensato</span>
+<span>che quel ragazzo fosse la mia condanna.</span>
+
+1632
+02:10:34,958 --> 02:10:37,958
+<span>Non incontrare mio figlio,</span>
+<span>non essergli accanto,</span>
+
+1633
+02:10:38,375 --> 02:10:40,791
+<span>pensavo che facesse parte</span>
+<span>della mia espiazione.</span>
+
+1634
+02:10:41,875 --> 02:10:42,875
+<span>Una redenzione.</span>
+
+1635
+02:10:42,958 --> 02:10:45,791
+<span>Credevo di agire soltanto</span>
+<span>per il bene di mio figlio.</span>
+
+1636
+02:11:07,666 --> 02:11:11,250
+<span>Mi dispiace tanto, Shinji.</span>
+
+1637
+02:11:12,416 --> 02:11:17,625
+Ma certo. Quindi eri proprio tu... Yui!
+
+1638
+02:11:30,875 --> 02:11:32,125
+Gendoh Ikari,
+
+1639
+02:11:32,208 --> 02:11:36,208
+tu eri il fulcro del Perfezionamento,
+l'inizio del Cerchio.
+
+1640
+02:11:36,291 --> 02:11:37,916
+Da adesso in poi, ci penserò io.
+
+1641
+02:11:38,666 --> 02:11:41,791
+Allora, Shinji, su, dimmi,
+qual è il tuo desiderio?
+
+1642
+02:11:42,250 --> 02:11:45,208
+Io non ne ho.
+Riesco a sopportare il dolore.
+
+1643
+02:11:45,916 --> 02:11:48,708
+Mi preoccupo più per Asuka
+e per gli altri.
+
+1644
+02:11:50,291 --> 02:11:53,666
+Certo, è chiaro.
+Pur arrivando dall'immaginario
+
+1645
+02:11:53,750 --> 02:11:57,000
+hai già riacquistato il tuo equilibrio
+tra realtà e immaginazione.
+
+1646
+02:11:59,166 --> 02:12:03,291
+Io devo rimediare a quello
+che ha fatto mio padre. Asuka.
+
+1647
+02:12:05,708 --> 02:12:08,625
+Non conosco mio padre.
+E mia madre non è qui.
+
+1648
+02:12:11,125 --> 02:12:13,416
+Non hai bisogno di nessuno, Asuka.
+
+1649
+02:12:16,500 --> 02:12:18,416
+<span>Non devo aver bisogno di nessuno.</span>
+
+1650
+02:12:20,041 --> 02:12:21,541
+<span>Altrimenti poi soffrirò.</span>
+
+1651
+02:12:23,166 --> 02:12:25,083
+<span>La vita è piena di dolore.</span>
+
+1652
+02:12:25,166 --> 02:12:26,250
+Il candidato non ha soddisfatto
+i requisiti prestazionali stabiliti.
+
+1653
+02:12:30,791 --> 02:12:33,166
+<span>Per questo piloto l'Eva.</span>
+
+1654
+02:12:54,041 --> 02:12:57,375
+<span>Anche se gli altri mi odiano</span>
+<span>o alle spalle mi disprezzano,</span>
+
+1655
+02:12:57,958 --> 02:13:01,875
+<span>finché io potrò pilotare l'Eva</span>
+<span>riuscirò a farmi scivolare tutto addosso.</span>
+
+1656
+02:13:01,958 --> 02:13:03,750
+PROPRIETÀ DELLA NERV
+NON ENTRARE
+
+1657
+02:13:03,833 --> 02:13:05,125
+<span>Perché non ho altri scopi.</span>
+
+1658
+02:13:06,000 --> 02:13:08,166
+<span>Io rafforzerò il mio corpo</span>
+<span>e il mio animo.</span>
+
+1659
+02:13:08,250 --> 02:13:11,000
+<span>Però... vi prego, lodatemi.</span>
+
+1660
+02:13:11,541 --> 02:13:12,875
+<span>Vi prego, guardatemi.</span>
+
+1661
+02:13:13,416 --> 02:13:15,500
+<span>Datemi un posto dove stare.</span>
+
+1662
+02:13:16,875 --> 02:13:18,000
+<span>Mi sento così sola.</span>
+
+1663
+02:13:26,625 --> 02:13:31,041
+<span>Voglio soltanto qualcuno</span>
+<span>che mi accarezzi la testa.</span>
+
+1664
+02:13:44,375 --> 02:13:47,041
+Va tutto bene. Asuka è Asuka.
+
+1665
+02:13:47,458 --> 02:13:48,875
+E questo ti è sufficiente.
+
+1666
+02:13:58,791 --> 02:14:01,916
+Io stavo... dormendo?
+
+1667
+02:14:02,791 --> 02:14:03,916
+Stupi-Shinji?
+
+1668
+02:14:04,541 --> 02:14:07,541
+È stato bello vederti di nuovo.
+
+1669
+02:14:07,625 --> 02:14:09,333
+Volevo dirti solamente una cosa,
+
+1670
+02:14:10,375 --> 02:14:13,250
+ti ringrazio per avermi detto
+che ti piacevo.
+
+1671
+02:14:14,458 --> 02:14:17,166
+Ammetto che anche tu mi piacevi.
+
+1672
+02:14:22,375 --> 02:14:25,166
+Arrivederci, Asuka. Salutami Kensuke.
+
+1673
+02:14:25,250 --> 02:14:27,083
+Principessa, abbi cura di te.
+
+1674
+02:14:34,125 --> 02:14:35,458
+Ecco, se n'è andata.
+
+1675
+02:14:35,541 --> 02:14:37,666
+Shinji, ora non ti sentirai solo?
+
+1676
+02:14:37,750 --> 02:14:40,375
+No. Starò bene.
+
+1677
+02:14:40,458 --> 02:14:42,916
+Adesso però è il tuo turno, Kaworu.
+
+1678
+02:14:44,666 --> 02:14:49,583
+Ora ricordo,
+ci siamo incontrati qui moltissime volte.
+
+1679
+02:14:49,666 --> 02:14:52,583
+Esattamente come è stato scritto
+nel <span>Libro della Vita.</span>
+
+1680
+02:14:52,666 --> 02:14:53,833
+E succederà ancora.
+
+1681
+02:14:54,583 --> 02:14:57,666
+Io sono te. E tu sei proprio come me.
+
+1682
+02:14:58,250 --> 02:14:59,875
+Per questo ero attratto da te.
+
+1683
+02:15:00,625 --> 02:15:02,500
+Io sentivo il bisogno di renderti felice.
+
+1684
+02:15:03,000 --> 02:15:07,125
+Già. Kaworu, tu assomigli a mio padre.
+
+1685
+02:15:07,208 --> 02:15:09,458
+Ecco perché avete pilotato lo stesso Eva.
+
+1686
+02:15:10,208 --> 02:15:12,750
+In qualche modo,
+adesso sei diverso, Shinji.
+
+1687
+02:15:13,416 --> 02:15:15,916
+- Hai voglia di piangere?
+- No.
+
+1688
+02:15:16,666 --> 02:15:18,750
+Piangere dà conforto soltanto a se stessi.
+
+1689
+02:15:19,583 --> 02:15:22,500
+Piangendo e basta
+non potrei aiutare nessuno.
+
+1690
+02:15:23,541 --> 02:15:26,083
+Per questo io non piangerò più.
+
+1691
+02:15:26,166 --> 02:15:29,416
+Capisco.
+Sei maturato tantissimo, lo sai, Shinji?
+
+1692
+02:15:29,833 --> 02:15:32,166
+E questo mi rattrista un po',
+ma va bene così.
+
+1693
+02:15:32,791 --> 02:15:35,541
+Kaworu, credo che dovrò sbarazzarmi
+
+1694
+02:15:36,250 --> 02:15:38,041
+anche del tuo Eva, l'Unità Tredici.
+
+1695
+02:15:39,791 --> 02:15:41,958
+Distruggerai gli Eva, quindi?
+
+1696
+02:15:42,041 --> 02:15:45,708
+Mi dispiace. Devo aver frainteso
+che cosa possa renderti felice.
+
+1697
+02:15:46,208 --> 02:15:50,541
+Esatto. Tu hai confuso la tua felicità
+con la sua, Comandante Nagisa.
+
+1698
+02:15:51,625 --> 02:15:54,500
+<span>Tu non vuoi fare in modo</span>
+<span>che Shinji sia felice.</span>
+
+1699
+02:15:54,583 --> 02:15:58,000
+<span>Al contrario,</span>
+<span>hai perseguito solamente la tua felicità.</span>
+
+1700
+02:16:00,458 --> 02:16:03,500
+<span>Ciò che pone fine alla mia esistenza</span>
+<span>è il decadimento nel vuoto.</span>
+
+1701
+02:16:03,958 --> 02:16:07,583
+<span>Poiché io sono intrappolato</span>
+<span>all'interno di un loop infinito,</span>
+
+1702
+02:16:07,666 --> 02:16:10,958
+<span>condannato a interpretare</span>
+<span>lo stesso ruolo per l'eternità.</span>
+
+1703
+02:16:22,375 --> 02:16:24,166
+Si fa quando si sta bene insieme.
+
+1704
+02:16:28,458 --> 02:16:31,333
+Tu desideri ancora un mondo
+che sia complementare.
+
+1705
+02:16:31,416 --> 02:16:33,458
+Non cambierai proprio mai, Shinji.
+
+1706
+02:16:33,958 --> 02:16:36,708
+È il motivo per cui hai scelto lui
+
+1707
+02:16:36,791 --> 02:16:39,000
+scrivendo il suo nome
+nel <span>Libro della Vita.</span>
+
+1708
+02:16:39,083 --> 02:16:41,958
+Ti ringrazio. Mi hai salvato, Ryo-chan.
+
+1709
+02:16:42,416 --> 02:16:44,375
+È un onore. Comandante Nagisa.
+
+1710
+02:16:44,458 --> 02:16:48,125
+Oh, andiamo, Ryo-chan.
+Puoi chiamarmi Kaworu a questo punto.
+
+1711
+02:16:49,208 --> 02:16:51,708
+No, è ancora presto, Comandante Nagisa.
+
+1712
+02:16:52,416 --> 02:16:55,333
+Nagisa significa spiaggia,
+che unisce la terra e il mare,
+
+1713
+02:16:55,416 --> 02:16:58,875
+è come se il tuo nome
+facesse da congiunzione
+
+1714
+02:16:58,958 --> 02:17:02,291
+tra il Primo e il Tredicesimo Angelo
+che sono l'umanità stessa.
+
+1715
+02:17:03,208 --> 02:17:05,708
+Hai svolto la tua missione a sufficienza.
+
+1716
+02:17:05,791 --> 02:17:08,833
+Direi che ora può cavarsela benissimo
+da solo.
+
+1717
+02:17:12,666 --> 02:17:14,083
+Potresti mollare tutto
+
+1718
+02:17:14,166 --> 02:17:16,833
+e lavorare insieme a Katsuragi,
+che ne dici?
+
+1719
+02:17:18,916 --> 02:17:20,958
+Che hai ragione.
+
+1720
+02:17:21,708 --> 02:17:23,916
+È una buona idea.
+
+1721
+02:17:28,708 --> 02:17:32,000
+Adesso rimani solamente tu, Ayanami.
+
+1722
+02:17:33,166 --> 02:17:34,500
+Io sto benissimo qui.
+
+1723
+02:17:34,583 --> 02:17:38,500
+Per stare bene, un'altra te
+ha dovuto trovare un altro posto.
+
+1724
+02:17:39,125 --> 02:17:42,750
+Penso che anche Asuka
+troverà un nuovo posto dove stare bene.
+
+1725
+02:17:43,500 --> 02:17:48,250
+Senza dover salire a bordo dell'Eva.
+Ikari è quello che speravo per te.
+
+1726
+02:17:50,041 --> 02:17:53,458
+Anche tu puoi avere una vita simile
+fuori di qui.
+
+1727
+02:17:54,333 --> 02:17:55,708
+- Davvero?
+- Davvero.
+
+1728
+02:17:56,750 --> 02:18:00,583
+Anche io sceglierò di vivere
+senza pilotare l'Eva.
+
+1729
+02:18:01,166 --> 02:18:03,541
+Non sono in grado di riavvolgere il tempo.
+
+1730
+02:18:03,625 --> 02:18:07,208
+Però ho la possibilità di riscrivere
+un mondo senza gli Eva.
+
+1731
+02:18:08,458 --> 02:18:11,500
+Uno nuovo.
+Un mondo dove la gente possa vivere.
+
+1732
+02:18:12,541 --> 02:18:16,458
+Una nuova nascita del mondo,
+Neon Genesis.
+
+1733
+02:18:18,750 --> 02:18:21,291
+E poi, la signorina Mari
+mi verrà a prendere,
+
+1734
+02:18:21,833 --> 02:18:23,208
+perciò non preoccuparti.
+
+1735
+02:18:23,958 --> 02:18:26,708
+D'accordo. Ho capito.
+
+1736
+02:18:27,750 --> 02:18:31,708
+Ikari... ti ringrazio.
+
+1737
+02:18:36,208 --> 02:18:38,333
+Posso cominciare, Ayanami.
+
+1738
+02:18:39,208 --> 02:18:41,250
+Neon Genesis.
+
+1739
+02:18:56,083 --> 02:19:02,666
+<span>Pur dovendo lasciare gli amici feriti</span>
+
+1740
+02:19:02,916 --> 02:19:08,916
+<span>Sai prendere decisioni difficili</span>
+<span>In qualità di soldato</span>
+
+1741
+02:19:09,875 --> 02:19:10,958
+Chi sei?
+
+1742
+02:19:11,041 --> 02:19:15,208
+<span>Voglio che tu condivida</span>
+<span>Il dolore che tieni nascosto</span>
+
+1743
+02:19:15,291 --> 02:19:16,750
+Ayanami?
+
+1744
+02:19:17,416 --> 02:19:18,541
+No, non lo sei.
+
+1745
+02:19:19,625 --> 02:19:23,416
+Oh, ma certo. Questa volta sei tu.
+
+1746
+02:19:24,541 --> 02:19:28,333
+Mi accorgo
+che sei sempre stata dentro di me. Mamma.
+
+1747
+02:19:28,416 --> 02:19:32,458
+<span>Non dimenticherò mai</span>
+
+1748
+02:19:32,541 --> 02:19:35,500
+<span>Te adorato</span>
+<span>Che dovrai vivere con il rimorso...</span>
+
+1749
+02:19:35,583 --> 02:19:36,833
+Ho finalmente capito.
+
+1750
+02:19:38,708 --> 02:19:42,208
+Papà ha sempre voluto ricongiungersi
+a mamma.
+
+1751
+02:19:43,416 --> 02:19:48,166
+E per farlo,
+era anche disposto al deicidio.
+
+1752
+02:19:50,041 --> 02:19:57,000
+<span>Il solo fatto di aver avuto la fortuna</span>
+<span>Di averti incontrato</span>
+
+1753
+02:19:57,083 --> 02:20:03,000
+<span>Voglio sentirmi orgogliosa</span>
+<span>Delle benedizioni</span>
+
+1754
+02:20:03,083 --> 02:20:05,708
+<span>Fino alla fine dei giorni</span>
+
+1755
+02:20:33,875 --> 02:20:38,708
+<span>Sali a bordo di un sogno di acciaio</span>
+
+1756
+02:20:38,791 --> 02:20:42,333
+Addio a tutti gli Evangelion.
+
+1757
+02:20:42,416 --> 02:20:46,708
+<span>E il viaggiatore scompare</span>
+<span>Nell'universo blu</span>
+
+1758
+02:20:46,791 --> 02:20:51,083
+<span>Sembra essere un qualcosa</span>
+
+1759
+02:20:51,166 --> 02:20:55,375
+<span>Che cambia le persone</span>
+
+1760
+02:20:55,458 --> 02:21:01,291
+<span>Resta inosservato</span>
+
+1761
+02:21:01,375 --> 02:21:05,958
+<span>Quanto lontano</span>
+
+1762
+02:21:06,041 --> 02:21:10,833
+<span>Dovrai andare?</span>
+
+1763
+02:21:10,916 --> 02:21:15,666
+<span>Non potrai tornare</span>
+
+1764
+02:21:15,750 --> 02:21:18,583
+<span>Mai più?</span>
+
+1765
+02:21:20,041 --> 02:21:23,500
+<span>Il solo fatto di aver avuto la fortuna</span>
+
+1766
+02:21:23,583 --> 02:21:27,208
+<span>Di averti incontrato</span>
+
+1767
+02:21:27,291 --> 02:21:31,000
+<span>Il solo fatto</span>
+
+1768
+02:21:31,083 --> 02:21:34,500
+<span>Di averti amato</span>
+
+1769
+02:21:34,583 --> 02:21:38,500
+<span>Voglio sentirmi orgogliosa</span>
+<span>Delle benedizioni</span>
+
+1770
+02:21:38,583 --> 02:21:43,500
+<span>Fino alla fine dei giorni</span>
+
+1771
+02:21:57,041 --> 02:22:00,666
+<span>Il solo fatto di aver avuto la fortuna</span>
+
+1772
+02:22:00,750 --> 02:22:04,541
+<span>Di averti incontrato</span>
+
+1773
+02:22:04,625 --> 02:22:11,458
+<span>Il solo fatto di averti amato</span>
+
+1774
+02:22:11,541 --> 02:22:15,541
+<span>Voglio sentirmi orgogliosa</span>
+<span>Delle benedizioni</span>
+
+1775
+02:22:15,625 --> 02:22:19,125
+<span>Fino alla fine dei giorni</span>
+
+1776
+02:22:19,208 --> 02:22:22,833
+<span>Il solo fatto di aver avuto la fortuna</span>
+
+1777
+02:22:22,916 --> 02:22:26,541
+<span>Di averti incontrato</span>
+
+1778
+02:22:26,625 --> 02:22:33,333
+<span>Il solo fatto di averti amato</span>
+
+1779
+02:22:33,416 --> 02:22:40,208
+<span>Il solo fatto di aver avuto la fortuna</span> ...
+
+1780
+02:22:40,291 --> 02:22:43,208
+Eccomi! Ce l'ho fatta!
+
+1781
+02:22:44,583 --> 02:22:45,916
+Appena, appena in tempo!
+
+1782
+02:22:47,000 --> 02:22:48,708
+Ehi, Mari!
+
+1783
+02:23:01,083 --> 02:23:02,583
+Ti ringrazio,
+
+1784
+02:23:02,666 --> 02:23:06,500
+Unità Otto, Più-Nove, Più-Dieci,
+Più-Undici, Più-Dodici.
+
+1785
+02:23:07,333 --> 02:23:10,666
+Ottimo lavoro, ultimo degli Evangelion.
+
+1786
+02:23:20,416 --> 02:23:21,916
+Mari!
+
+1787
+02:23:24,208 --> 02:23:26,416
+Scusa il ritardo, Shinji!
+
+1788
+02:23:35,458 --> 02:23:38,375
+<span>Attenzione, treno in arrivo.</span>
+
+1789
+02:23:38,458 --> 02:23:39,875
+<span>Per la vostra sicurezza</span>
+
+1790
+02:23:39,958 --> 02:23:43,791
+<span>siete pregati di allontanarvi</span>
+<span>dalla linea gialla.</span>
+
+1791
+02:24:06,750 --> 02:24:07,750
+Indovina chi sono?
+
+1792
+02:24:08,708 --> 02:24:10,708
+Seno importante, una bella ragazza...
+
+1793
+02:24:11,875 --> 02:24:13,166
+Bravo, risposta esatta.
+
+1794
+02:24:18,458 --> 02:24:22,166
+Hai proprio un buon profumo, come sempre.
+È quello di un adulto, vero?
+
+1795
+02:24:25,875 --> 02:24:28,166
+E tu, invece,
+sei davvero carina, come sempre.
+
+1796
+02:24:30,083 --> 02:24:32,416
+E adesso stai anche parlando
+come un adulto.
+
+1797
+02:24:38,375 --> 02:24:40,750
+Forza, adesso andiamo. Avanti, Shinji!
+
+1798
+02:24:46,083 --> 02:24:47,916
+Andiamo!
+
+1799
+02:24:53,625 --> 02:24:57,833
+<span>La mia prima volta al Louvre</span>
+<span>Non è stata un granché</span>
+
+1800
+02:24:57,958 --> 02:25:02,125
+<span>Perché avevo già incontrato</span>
+<span>La mia Monna Lisa</span>
+
+1801
+02:25:02,250 --> 02:25:06,416
+<span>La prima volta che ti ho visto</span>
+<span>La ruota ha cominciato a girare</span>
+
+1802
+02:25:06,541 --> 02:25:10,666
+<span>Un'inarrestabile premonizione di perdita</span>
+
+1803
+02:25:10,791 --> 02:25:16,041
+<span>Ce ne sono già state tante</span>
+
+1804
+02:25:16,625 --> 02:25:20,083
+<span>Ma aggiungiamone un'altra</span>
+
+1805
+02:25:20,916 --> 02:25:24,958
+<span>(Puoi darmi un ultimo bacio?)</span>
+
+1806
+02:25:25,208 --> 02:25:27,750
+<span>Qualcosa che non voglio dimenticare</span>
+
+1807
+02:25:27,916 --> 02:25:33,625
+<span>Oh oh oh oh oh...</span>
+
+1808
+02:25:33,791 --> 02:25:36,375
+<span>Qualcosa che non voglio dimenticare</span>
+
+1809
+02:25:36,500 --> 02:25:42,125
+<span>Oh oh oh oh oh...</span>
+
+1810
+02:25:42,375 --> 02:25:44,958
+<span>Ti amo più di quanto tu possa immaginare</span>
+
+1811
+02:25:53,541 --> 02:25:55,208
+<span>“Non mi piace essere fotografato”</span>
+
+1812
+02:25:55,500 --> 02:25:57,666
+<span>Ma non mi servono queste cose</span>
+
+1813
+02:25:57,833 --> 02:25:59,625
+<span>La tua immagine è impressa per sempre</span>
+
+1814
+02:25:59,833 --> 02:26:01,916
+<span>Sullo schermo da proiezione del mio cuore</span>
+
+1815
+02:26:02,041 --> 02:26:03,958
+<span>Fingevo di non sentirmi sola</span>
+
+1816
+02:26:04,125 --> 02:26:06,083
+<span>Beh, allora siamo in due</span>
+
+1817
+02:26:06,375 --> 02:26:08,083
+<span>A desiderare qualcuno</span>
+
+1818
+02:26:08,416 --> 02:26:10,583
+<span>Ad andare mano nella mano</span>
+<span>Con lo struggimento</span>
+
+1819
+02:26:10,875 --> 02:26:15,833
+<span>Oh, puoi darmi un ultimo bacio?</span>
+
+1820
+02:26:16,625 --> 02:26:20,083
+<span>Un bacio caldo come il fuoco</span>
+
+1821
+02:26:20,833 --> 02:26:25,083
+<span>Così appassionato che anche se volessi</span>
+
+1822
+02:26:25,208 --> 02:26:27,791
+<span>Non potrei dimenticarlo</span>
+
+1823
+02:26:27,916 --> 02:26:33,666
+<span>Oh oh oh oh oh...</span>
+
+1824
+02:26:33,791 --> 02:26:36,458
+<span>Ti amo più di quanto tu possa immaginare</span>
+
+1825
+02:26:36,583 --> 02:26:42,250
+<span>Oh oh oh oh oh...</span>
+
+1826
+02:26:42,375 --> 02:26:45,333
+<span>Ti amo più di quanto tu possa immaginare</span>
+
+1827
+02:27:03,791 --> 02:27:07,250
+<span>Già so</span>
+
+1828
+02:27:08,083 --> 02:27:11,958
+<span>Se questa è la fine del mondo</span>
+
+1829
+02:27:12,333 --> 02:27:17,166
+<span>O se diventerò vecchia</span>
+
+1830
+02:27:18,833 --> 02:27:21,416
+<span>C'è qualcuno</span>
+<span>Che non riuscirò a dimenticare</span>
+
+1831
+02:27:21,541 --> 02:27:23,041
+<span>Oh oh oh oh oh...</span>
+
+1832
+02:27:23,166 --> 02:27:25,625
+<span>Qualcuno che non riuscirò a dimenticare</span>
+
+1833
+02:27:30,125 --> 02:27:31,583
+<span>Oh oh oh oh oh...</span>
+
+1834
+02:27:33,833 --> 02:27:36,291
+<span>Ti amo più di quanto tu possa immaginare</span>
+
+1835
+02:27:36,541 --> 02:27:42,291
+<span>Oh oh oh oh oh...</span>
+
+1836
+02:27:42,416 --> 02:27:44,875
+<span>Qualcuno che non riuscirò a dimenticare</span>
+
+1837
+02:27:53,291 --> 02:27:56,750
+<span>Non riuscirò a dimenticare</span>
+
+1838
+02:27:57,416 --> 02:28:00,875
+<span>Non riuscirò a dimenticare</span>
+
+1839
+02:28:01,666 --> 02:28:05,125
+<span>Non riuscirò a dimenticare</span>
+
+1840
+02:28:05,958 --> 02:28:09,708
+<span>Qualcuno che non riuscirò a dimenticare</span>
+
+1841
+02:28:18,958 --> 02:28:25,041
+<span>Rincorrere una brezza che mi accarezza</span>
+
+1842
+02:28:25,375 --> 02:28:28,333
+<span>Un pomeriggio abbagliante</span>
+
+1843
+02:30:17,541 --> 02:30:25,666
+<span>Se potessi realizzare un desiderio</span>
+
+1844
+02:30:26,041 --> 02:30:30,958
+<span>Vorrei essere seppellita accanto a te</span>
+
+1845
+02:30:31,125 --> 02:30:34,416
+<span>Non importa dove</span>
+
+1846
+02:30:34,541 --> 02:30:37,750
+<span>Bellissimo mondo</span>
+
+1847
+02:30:42,833 --> 02:30:46,541
+<span>Bellissimo ragazzo</span>
+
+1848
+02:30:51,250 --> 02:30:59,416
+<span>Se potessi realizzare un desiderio</span>
+
+1849
+02:30:59,750 --> 02:31:04,375
+<span>Vorrei essere seppellita accanto a te</span>
+
+1850
+02:31:04,833 --> 02:31:08,083
+<span>Non importa dove</span>
+
+1851
+02:31:08,208 --> 02:31:11,166
+<span>Bellissimo mondo</span>
+
+1852
+02:31:11,333 --> 02:31:16,458
+<span>Ho occhi solo per te, senza dubbio</span>
+
+1853
+02:31:16,583 --> 02:31:19,541
+<span>Bellissimo ragazzo</span>
+
+1854
+02:31:19,750 --> 02:31:27,375
+<span>Inconsapevole della sua bellezza</span>
+
+1855
+02:31:27,625 --> 02:31:31,583
+<span>È solo amore</span>
+
+1856
+02:31:33,416 --> 02:31:37,375
+<span>Giorno dopo giorno</span>
+
+1857
+02:31:37,625 --> 02:31:41,583
+<span>Fumetti e sogni a occhi aperti</span>
+
+1858
+02:31:42,333 --> 02:31:49,750
+<span>Non sa chi sia</span>
+
+1859
+02:31:50,291 --> 02:31:56,083
+<span>Non sa cosa vuole</span>
+
+1860
+02:31:56,333 --> 02:31:58,791
+<span>Vuole e basta</span>
+
+1861
+02:31:59,166 --> 02:32:06,875
+<span>Una lacrima tiepida gli riga la guancia</span>
+
+1862
+02:32:07,083 --> 02:32:09,041
+<span>Non c'è niente che io voglia dire</span>
+
+1863
+02:32:09,208 --> 02:32:13,166
+<span>Voglio solo vederti un'ultima volta</span>
+
+1864
+02:32:15,500 --> 02:32:17,458
+<span>Forse sono una codarda</span>
+
+1865
+02:32:17,625 --> 02:32:21,583
+<span>Che non dice ciò che pensa</span>
+
+1866
+02:32:22,083 --> 02:32:23,916
+<span>Oh, beh, ma...</span>
+
+1867
+02:32:24,041 --> 02:32:31,958
+<span>Se non posso vederti</span>
+<span>Prima che il mio mondo sparisca</span>
+
+1868
+02:32:32,416 --> 02:32:37,291
+<span>Lasciami riposare accanto a te</span>
+
+1869
+02:32:37,416 --> 02:32:40,375
+<span>Non importa dove</span>
+
+1870
+02:32:40,791 --> 02:32:43,750
+<span>Bellissimo mondo</span>
+
+1871
+02:32:43,875 --> 02:32:49,166
+<span>Nei giorni così fugaci</span>
+
+1872
+02:32:49,291 --> 02:32:52,250
+<span>Bellissimo ragazzo</span>
+
+1873
+02:32:52,375 --> 02:32:57,541
+<span>È normale essere capricciosi</span>
+
+1874
+02:32:57,666 --> 02:33:00,125
+<span>Bellissimo mondo</span>
+
+1875
+02:33:06,041 --> 02:33:08,500
+<span>Bellissimo ragazzo</span>
+
+1876
+02:33:08,708 --> 02:33:13,666
+<span>È solo amore</span>
+
+1877
+02:33:14,416 --> 02:33:22,375
+<span>Se potessi realizzare un desiderio</span>
+
+1878
+02:33:22,833 --> 02:33:29,291
+<span>Vorrei essere seppellita accanto a te</span>
+
+1879
+02:33:34,041 --> 02:33:37,958
+<span>È solo amore</span>
+

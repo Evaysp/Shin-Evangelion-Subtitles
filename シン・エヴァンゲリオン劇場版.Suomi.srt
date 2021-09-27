@@ -1,0 +1,6074 @@
+﻿1
+00:00:01,541 --> 00:00:03,791
+Aiemmin Evangelion-elokuvissa
+tapahtunutta:
+
+2
+00:00:04,375 --> 00:00:05,666
+EVANGELION:1.11
+YOU ARE (NOT) ALONE.
+
+3
+00:00:05,750 --> 00:00:09,375
+Ihmiskunnan äärimmäinen
+monitoimihumanoidiase.
+
+4
+00:00:09,458 --> 00:00:13,583
+Keinotekoinen ihminen, Evangelion.
+Shinji Ikari, olet pilotti.
+
+5
+00:00:13,666 --> 00:00:16,083
+-Lähettäkää EVA.
+-En pysty siihen!
+
+6
+00:00:16,166 --> 00:00:19,333
+Älä tuhlaa aikaa.
+Hyppää EVAan tai häivy täältä!
+
+7
+00:00:19,416 --> 00:00:21,791
+Älä pakene.
+
+8
+00:00:22,583 --> 00:00:24,916
+-Älä pakene.
+-Suostun pilotiksi.
+
+9
+00:00:25,000 --> 00:00:26,333
+EVAmme voi kukistaa Enkelin.
+
+10
+00:00:26,416 --> 00:00:29,250
+Tulevaisuutemme riippuu
+Enkelien kukistamisesta.
+
+11
+00:00:29,333 --> 00:00:32,958
+15 vuotta sitten puolet ihmiskunnasta
+kuoli Toisessa iskussa.
+
+12
+00:00:33,041 --> 00:00:37,375
+Ihmiskunta kuolee,
+jos Enkelit tekevät Kolmannen iskun.
+
+13
+00:00:37,458 --> 00:00:39,000
+Miksi olen täällä?
+
+14
+00:00:39,083 --> 00:00:43,250
+-Etkö usko häneen ja hänen työhönsä?
+-Minulla ei ole muuta kuin EVA.
+
+15
+00:00:43,333 --> 00:00:47,000
+Siksihän isä kutsui minut tänne.
+Siksi minun pitää olla pilotti.
+
+16
+00:00:47,083 --> 00:00:50,000
+Sinun on päätettävä,
+haluatko olla EVA-pilotti.
+
+17
+00:00:50,083 --> 00:00:52,250
+Teen sen... Ohjaan EVAani.
+
+18
+00:00:52,333 --> 00:00:55,291
+Et kuole. Suojelen sinua.
+
+19
+00:00:55,375 --> 00:01:00,708
+Hän ei paennut. Hänen pitää antaa jatkaa
+niin kauan kuin hän haluaa!
+
+20
+00:01:00,791 --> 00:01:03,000
+-Luotan sinuun.
+-Hyvästi.
+
+21
+00:01:03,083 --> 00:01:05,916
+-Minulla ei vain ole mitään muuta.
+-Ayanami!
+
+22
+00:01:06,000 --> 00:01:09,166
+En tiedä,
+miten näissä tilanteissa pitäisi toimia.
+
+23
+00:01:09,250 --> 00:01:10,375
+Hymy olisi hyvä alku.
+
+24
+00:01:10,458 --> 00:01:12,875
+Ennalta määrätyn kohtalon lapset.
+
+25
+00:01:12,958 --> 00:01:14,291
+EVANGELION:2.22
+YOU CAN (NOT) ADVANCE.
+
+26
+00:01:14,375 --> 00:01:18,625
+-Asuka Langley-Shikinami, EVA-02-pilotti.
+-Oletko täysi idiootti?
+
+27
+00:01:18,708 --> 00:01:20,833
+Jotkut taitavat tykätä EVAn ohjaamisesta.
+
+28
+00:01:20,916 --> 00:01:23,333
+-Jännittääkö isäsi tapaaminen?
+-Hän kehui minua.
+
+29
+00:01:23,416 --> 00:01:26,583
+-Hienoa työtä, Shinji.
+-Siitä tuli todella hyvä olo.
+
+30
+00:01:26,666 --> 00:01:29,583
+Ihmisten instrumentaaliprojekti...
+Mitä NERV oikein puuhaa?
+
+31
+00:01:29,666 --> 00:01:30,833
+Suojele Katsuragia.
+
+32
+00:01:30,916 --> 00:01:34,458
+-Shinjin seurassa on lämmin ja mukava olo.
+-Olet rakastunut.
+
+33
+00:01:34,541 --> 00:01:35,708
+Olet mielenkiintoinen.
+
+34
+00:01:35,791 --> 00:01:37,833
+Voit olla onnellinen ilman sellaista.
+
+35
+00:01:37,916 --> 00:01:40,708
+Asuka on tuon EVAn sisällä, isä!
+
+36
+00:01:40,791 --> 00:01:43,583
+-Tuo on Enkeli, vihollisemme.
+-Ei!
+
+37
+00:01:43,666 --> 00:01:45,750
+-Se on isäni vika!
+-Pakenetko taas?
+
+38
+00:01:45,833 --> 00:01:48,333
+Miksen saisi paeta tuskaa?
+
+39
+00:01:48,416 --> 00:01:50,041
+En enää koskaan halua ohjata EVAa.
+
+40
+00:01:50,125 --> 00:01:53,166
+Tuollaisten asioiden miettiminen
+tekee elämästä tylsempää.
+
+41
+00:01:53,250 --> 00:01:55,458
+Varmistan, ettei Shinjin
+pidä ohjata enää EVAa!
+
+42
+00:01:55,541 --> 00:01:59,083
+Tulin, koska olen Shinji Ikari!
+Evangelion-yksikkö 01:n pilotti!
+
+43
+00:01:59,166 --> 00:02:01,708
+Anna minulle Ayanami takaisin.
+
+44
+00:02:01,791 --> 00:02:04,666
+Tee se toteuttaaksesi toiveesi, Shinji!
+
+45
+00:02:04,750 --> 00:02:08,250
+-Muut voivat korvata minut.
+-Ayanami! Tule tänne!
+
+46
+00:02:08,333 --> 00:02:13,416
+-Anteeksi, etten voinut tehdä mitään.
+-Se ei haittaa.
+
+47
+00:02:13,500 --> 00:02:16,708
+Tämä on jatkoa Toiselle iskulle.
+Kolmas isku alkaa!
+
+48
+00:02:16,791 --> 00:02:19,375
+-Aika on koittanut.
+-Maailmanloppu on käsillä.
+
+49
+00:02:19,458 --> 00:02:20,916
+EVANGELION:3.33
+YOU CAN (NOT) REDO.
+
+50
+00:02:21,000 --> 00:02:23,666
+Shinji Ikari. Älä tee mitään.
+
+51
+00:02:23,750 --> 00:02:26,916
+-Eikö minun pitäisi ohjata yksikkö 01:tä?
+-Tämä on hullua!
+
+52
+00:02:27,000 --> 00:02:31,083
+-Miten voisin oppia yhtäkkiä kaiken?
+-Koska siitä on 14 vuotta...
+
+53
+00:02:31,166 --> 00:02:34,833
+Tämä on WILLE,
+jonka tehtävä on tuhota NERV.
+
+54
+00:02:34,916 --> 00:02:39,750
+Olen Kaworu Nagisa.
+Olen kohtalon lapsi, kuten sinäkin.
+
+55
+00:02:39,833 --> 00:02:41,791
+Evangelion-yksikkö 13.
+
+56
+00:02:41,875 --> 00:02:44,791
+Kun aika koittaa,
+sinä ohjaat EVAa hänen kanssaan.
+
+57
+00:02:44,875 --> 00:02:46,458
+Älä ohjaa enää EVA-yksiköitä!
+
+58
+00:02:46,541 --> 00:02:49,041
+-Rei Ayanamia ei ole enää olemassa.
+-Valehtelet!
+
+59
+00:02:49,125 --> 00:02:52,500
+Herännyt EVA-01 avasi Gufin portit
+
+60
+00:02:52,583 --> 00:02:55,291
+ja toimi Kolmannen iskun laukaisimena.
+
+61
+00:02:55,375 --> 00:02:57,458
+Sinä olit avain siihen kaikkeen.
+
+62
+00:02:57,541 --> 00:02:59,416
+-Oletko se, jonka pelastin?
+-En tiedä.
+
+63
+00:02:59,500 --> 00:03:01,041
+Aloitetaan, Fuyutsuki.
+
+64
+00:03:01,125 --> 00:03:03,708
+Pentu Shinji! Haluatko aiheuttaa
+uuden Kolmannen iskun?
+
+65
+00:03:03,791 --> 00:03:09,625
+Otan nuo keihäät sinun ja kaikkien vuoksi.
+Sitten maailma voi palata ennalleen.
+
+66
+00:03:09,708 --> 00:03:11,750
+Sitten jopa Misaton on pakko...
+
+67
+00:03:11,833 --> 00:03:14,291
+-Misato! Aktivoi DSS-panta!
+-Älä tee tätä.
+
+68
+00:03:14,375 --> 00:03:17,500
+-Lopeta, tyhmä pentu!
+-Mitä helvettiä tämä on?
+
+69
+00:03:17,583 --> 00:03:22,750
+-Neljäs isku. Tämä on sen alkuriitti.
+-Onko tämä minun vikani?
+
+70
+00:03:23,375 --> 00:03:24,833
+Koska vedin keihäät ulos?
+
+71
+00:03:24,916 --> 00:03:27,833
+-Se oli käskyni.
+-Älä näytä noin surulliselta.
+
+72
+00:03:27,916 --> 00:03:29,750
+Tapaamme jälleen, Shinji-kun.
+
+73
+00:03:29,833 --> 00:03:32,500
+Kaworu! Mistään ei koidu mitään hyvää!
+
+74
+00:03:32,583 --> 00:03:35,833
+-Olet naiivi pentu.
+-Kaikki synnit voi hyvittää.
+
+75
+00:03:37,333 --> 00:03:40,666
+Aina on toivoa. Aina.
+
+76
+00:03:46,250 --> 00:03:52,208
+<span style="s0">Eläminen tässä maailmassa
+On kuin pitkä vaellus kukkulalla</span>
+
+77
+00:03:53,958 --> 00:03:59,916
+Mutta tärkeintä ei ole kuinka pitkään elät
+
+78
+00:04:01,750 --> 00:04:07,708
+Kunhan et eksynyt totuuden polulta
+
+79
+00:04:11,541 --> 00:04:15,750
+<span style="s0">Pariisin hyökkäyslaivue toiminnassa.
+Laskeudutaan entiseen nollapisteeseen.</span>
+
+80
+00:04:15,833 --> 00:04:18,791
+<span style="s0">Kaikki alukset puolustusasemiin.
+Hitaasti taaksepäin.</span>
+
+81
+00:04:18,875 --> 00:04:22,500
+<span style="s0">Painovoiman hallinta, autonominen liike
+ja kauko-ohjaus toiminnassa.</span>
+
+82
+00:04:23,125 --> 00:04:27,833
+<span style="s0">Taivas Pariisin yllä täysin kirkas.
+Pinta kuutoskategorian ydintilassa.</span>
+
+83
+00:04:27,916 --> 00:04:32,125
+<span style="s0">Aluksen koordinaatit
+ovat operaation aloituspisteessä.</span>
+
+84
+00:04:32,208 --> 00:04:35,125
+Selvä. Kaikki alukset valmiustilaan.
+
+85
+00:04:42,708 --> 00:04:45,708
+<span style="s0">Kaikki alukset,
+siirtykää tarkastusasemiin.</span>
+
+86
+00:04:45,791 --> 00:04:49,750
+<span style="s0">EVA-08 ja DSRV-alus,
+laskeutukaa kohti kohdetta.</span>
+
+87
+00:04:58,750 --> 00:05:02,625
+<span style="s0">-Laskeutumistuet ankkuroitu.
+-DSRV lukitusasennossa.</span>
+
+88
+00:05:02,708 --> 00:05:04,000
+DSRV on laskeutunut.
+
+89
+00:05:04,666 --> 00:05:08,583
+<span style="s0">Analysoidaan ilmakehän koostumusta.
+Hapen tiheys -3.</span>
+
+90
+00:05:08,666 --> 00:05:12,125
+<span style="s0">Hiilidioksidi sallituissa rajoissa.
+Valtaus mahdollinen.</span>
+
+91
+00:05:12,208 --> 00:05:13,583
+Selvä. Aloittakaa operaatio.
+
+92
+00:05:15,833 --> 00:05:19,625
+Rakas, sinä ja minä yhdessä
+
+93
+00:05:19,708 --> 00:05:22,875
+Unelmoin meistä yhdessä
+
+94
+00:05:22,958 --> 00:05:24,541
+Siitä on 16 vuotta.
+
+95
+00:05:25,166 --> 00:05:30,416
+Kuuluisan Kukkaiskaupungin näkeminen
+tässä tilassa särkee sydämeni.
+
+96
+00:05:32,083 --> 00:05:34,500
+L-kentän tiheys on melko suuri.
+
+97
+00:05:35,125 --> 00:05:39,458
+Euro NERVin tiivistyspilari
+numero yhden kunnostus
+
+98
+00:05:39,541 --> 00:05:41,500
+saa kestää 720 sekuntia.
+
+99
+00:05:44,458 --> 00:05:47,583
+Mitä? Se on 180 sekuntia
+vähemmän kuin suunniteltu.
+
+100
+00:05:47,666 --> 00:05:49,500
+Entä tarvittava aika paluuseen?
+
+101
+00:05:49,583 --> 00:05:53,875
+Olisi kiva, jos vain pilottien
+täytyisi pitää näitä törkeitä pukuja.
+
+102
+00:05:54,500 --> 00:05:56,791
+Suu kiinni ja töihin siitä.
+
+103
+00:05:59,291 --> 00:06:02,166
+Voimmeko aktivoida L-vastajärjestelmän?
+
+104
+00:06:02,250 --> 00:06:05,750
+Nelosvaiheen uusinnan pitäisi riittää.
+Se on edeltäjiemme ansiota.
+
+105
+00:06:05,833 --> 00:06:06,833
+Jätän tämän teille
+
+106
+00:06:07,500 --> 00:06:10,625
+<span style="s0">Noudatamme toiveitanne
+säilyttää tämä kaupunki.</span>
+
+107
+00:06:11,125 --> 00:06:12,541
+Ryhdytään sitten hommiin.
+
+108
+00:06:17,041 --> 00:06:22,250
+He tulevat! EVA-44A:t, kustomoidut
+ilma-alukset lähestyvät kello neljästä!
+
+109
+00:06:23,166 --> 00:06:25,041
+Upea linjamuodostelma edessä.
+
+110
+00:06:25,125 --> 00:06:28,875
+<span style="s0">He ovat muodostaneet oman siirtokunnan.
+Se on kuin uusi olento.</span>
+
+111
+00:06:28,958 --> 00:06:32,541
+Mari, pysäytä heidät.
+Anna meille vielä 560 sekuntia.
+
+112
+00:06:32,625 --> 00:06:37,291
+Selvä pyy!
+On kunnia hoidella kaikki nuo 44A:t!
+
+113
+00:06:37,375 --> 00:06:41,000
+No niin, Nagara.
+Sinä saat hoitaa kaapelijuttuni!
+
+114
+00:06:41,083 --> 00:06:43,750
+Katsotaanpa...
+
+115
+00:06:48,208 --> 00:06:51,541
+Kierretään poikittain,
+pystyyn ja pituussuuntaan...
+
+116
+00:06:51,625 --> 00:06:55,333
+Mielenkiintoinen systeemi,
+mutta tuntuu vähän tukalalta.
+
+117
+00:06:55,958 --> 00:07:00,541
+Olisivat voineet säilyttää
+humanoidien nivelkohdat.
+
+118
+00:07:06,416 --> 00:07:09,083
+Yksikkö 08,
+ensimmäinen 44A-aalto työn alla.
+
+119
+00:07:09,833 --> 00:07:14,833
+Toinen aalto havaittu. Kaikki 44A:t
+vedetään yksikköön 08 suunnitelman mukaan.
+
+120
+00:07:14,916 --> 00:07:17,583
+Toiminta-aikaa jäljellä 420 sekuntia.
+
+121
+00:07:20,708 --> 00:07:24,083
+Päällikkö, tämä on hidas
+kuin kahdeksanbittinen kone.
+
+122
+00:07:24,166 --> 00:07:27,500
+Se on arvoituksellinen järjestelmä,
+kuten EVAt.
+
+123
+00:07:27,583 --> 00:07:29,875
+Hallinta ihmiskielellä ei ole helppoa.
+
+124
+00:07:29,958 --> 00:07:33,291
+Nelosvaihe on suoritettu.
+Olemme aika pahasti jäljessä.
+
+125
+00:07:33,916 --> 00:07:36,041
+-Rauhoitu ja pidä kiirettä.
+-Selvä!
+
+126
+00:07:39,000 --> 00:07:44,291
+Säilyttäkää nopeus, ohjaus plus 20.
+Säilyttäkää kaltevuus! Vakaasti.
+
+127
+00:07:46,916 --> 00:07:48,083
+Et pääse karkuun!
+
+128
+00:08:05,958 --> 00:08:06,958
+Hupsista.
+
+129
+00:08:15,166 --> 00:08:18,500
+Vai että neljäs aalto. Yksi vastaan monet.
+
+130
+00:08:19,166 --> 00:08:22,750
+Monet pikkulinnut karkottavat haukan, vai?
+
+131
+00:08:23,500 --> 00:08:25,666
+Aikaa jäljellä 360 sekuntia.
+
+132
+00:08:25,750 --> 00:08:28,833
+En keksi,
+miten voi siirtyä suoraan vitosvaiheeseen.
+
+133
+00:08:28,916 --> 00:08:34,500
+-Kaikki on mahdollista. Jatka yrittämistä.
+-Aika ei riitä datan korvaamiseen!
+
+134
+00:08:34,583 --> 00:08:38,833
+-Se ei ole mahdotonta! Lisää ohituksia!
+-Aikaa ei ole tarpeeksi!
+
+135
+00:08:40,166 --> 00:08:43,291
+Älä valita!
+Aina sama ongelma nuorten miesten kanssa.
+
+136
+00:09:22,708 --> 00:09:25,083
+Alkakaahan kipittää, senkin pummit!
+
+137
+00:09:30,583 --> 00:09:32,541
+Sehän oli helppo nakki.
+
+138
+00:09:33,750 --> 00:09:35,208
+NAAMIOITU KOTELO MATERIALISOITUU
+
+139
+00:09:35,291 --> 00:09:39,166
+Kappas... Vale-enkelit käyttävät
+houkutuslintuja. Koppavat mäntit.
+
+140
+00:09:46,458 --> 00:09:47,875
+Varokaa Päävihollista!
+
+141
+00:09:48,916 --> 00:09:52,708
+<span style="s0">Vatikaanin sopimuksella kielletty
+EVA-yksiköiden sotilassovellus.</span>
+
+142
+00:09:52,791 --> 00:09:55,541
+Mikä yhdistelmä vastassa.
+
+143
+00:09:55,625 --> 00:09:59,416
+<span style="s0">Positronitykillä varustettu
+4444C-maataisteluvariantti ja 44B:itä.</span>
+
+144
+00:10:00,125 --> 00:10:02,875
+Varakomentaja Fuyutsuki kai testaa meitä.
+
+145
+00:10:08,625 --> 00:10:11,208
+44B:iden korkeat energialukemat kasvavat!
+
+146
+00:10:11,291 --> 00:10:13,375
+Valmistelkaa puolustustoimenpiteet.
+
+147
+00:10:13,458 --> 00:10:16,291
+Valmistautukaa törmäykseen
+ja EM-räjähdykseen.
+
+148
+00:10:27,875 --> 00:10:30,125
+4444C on nyt laukaisuvalmiudessa.
+
+149
+00:10:30,208 --> 00:10:35,750
+<span style="s0">44B:t luovat valtavan virtapiikin. Energia
+reititetään korkeajännitejärjestelmään!</span>
+
+150
+00:10:36,375 --> 00:10:39,958
+<span style="s0">Kaikki 4444C:n virtalähdejärjestelmät
+ovat nyt aktiivisia.</span>
+
+151
+00:10:40,041 --> 00:10:44,416
+<span style="s0">Positronikiihtyminen loppuvaiheessa!
+Perä suljettu ja lukittu!</span>
+
+152
+00:10:48,166 --> 00:10:49,458
+Laukaiskaa nyt!
+
+153
+00:11:22,541 --> 00:11:25,083
+Onnistuimme viime tipassa!
+
+154
+00:11:26,416 --> 00:11:29,375
+Jos se ampuu uudestaan, herttinen...
+
+155
+00:11:29,458 --> 00:11:32,375
+44B:istä jälleen korkeita energialukemia.
+
+156
+00:11:32,458 --> 00:11:35,208
+<span style="s0">Se varastoi energiaa
+suuritehoiseen päästöjärjestelmään.</span>
+
+157
+00:11:39,250 --> 00:11:43,708
+<span style="s0">Nyt jo? 4444C, kiihtyminen aloitettu.
+Laukaisuvalmiuteen!</span>
+
+158
+00:11:43,791 --> 00:11:49,291
+Olemme pulassa! Toinen laukaus tulossa!
+Tämä on tosi, tosi paha!
+
+159
+00:11:54,208 --> 00:11:57,833
+-Nagara, luo harhautus!
+-Selvä.
+
+160
+00:12:14,208 --> 00:12:15,875
+Tuo ei pysäytä minua!
+
+161
+00:12:21,916 --> 00:12:23,583
+Excusez-moi, Eiffel!
+
+162
+00:12:40,208 --> 00:12:44,791
+-4444C on nyt täysin hiljainen.
+-Toiminta-aikaa jäljellä 30 sekuntia!
+
+163
+00:12:45,625 --> 00:12:50,541
+Algoritmianalyysi, siirrytään C:hen.
+L-vastajärjestelmän vitosvaihe suoritettu!
+
+164
+00:12:50,625 --> 00:12:52,708
+Se aktivoituu, yliluutnantti!
+
+165
+00:13:02,666 --> 00:13:08,291
+Entisöidään Pariisin vanha kaupunkialue.
+Euro NERV -järjestelmät käynnistyvät.
+
+166
+00:13:38,291 --> 00:13:42,166
+Hienoa työtä, Maya. Se oli täpärä paikka.
+
+167
+00:13:43,583 --> 00:13:47,375
+Hyökkäys onnistui.
+Misato, tule hakemaan matkalaukut, kiitos.
+
+168
+00:13:47,458 --> 00:13:50,291
+<span style="s0">Selvä. Laskeudumme
+uudelleenvarustelupisteeseen.</span>
+
+169
+00:13:50,375 --> 00:13:54,916
+<span style="s0">Valmistautukaa varusteluun. EVAn varaosat
+ja ammukset ovat ykkösprioriteetti.</span>
+
+170
+00:13:55,000 --> 00:13:58,500
+<span style="s0">Laskekaa kaikki logistiset tukialukset.
+Lentotukialukset ensin. Äkkiä!</span>
+
+171
+00:13:58,583 --> 00:14:02,291
+<span style="s0">Kerätkää kaikki tarvittavat osat
+uuteen yksikkö 02:een!</span>
+
+172
+00:14:02,375 --> 00:14:04,083
+Lopussa kiitos seisoo.
+
+173
+00:14:04,750 --> 00:14:07,708
+Nyt osiksi purettu yksikkö 02
+voidaan rakentaa uudelleen
+
+174
+00:14:07,791 --> 00:14:11,125
+ja yksikkö 08 voidaan muokata sopivaksi.
+
+175
+00:14:12,541 --> 00:14:15,375
+Missä ikinä olet, tulen hakemaan sinut.
+
+176
+00:14:16,208 --> 00:14:18,583
+Odota vaan, pentu.
+
+177
+00:14:18,708 --> 00:14:24,416
+EVANGELION:3.0+1.01 THRICE UPON A TIME
+
+178
+00:16:00,916 --> 00:16:03,791
+Mikä selkärangaton luuseri.
+
+179
+00:16:14,250 --> 00:16:17,916
+Anteeksi, että olen myöhässä.
+Kaikki hyvin, Ikari?
+
+180
+00:16:21,208 --> 00:16:24,416
+Koira ei saa tulla tänne!
+
+181
+00:16:27,958 --> 00:16:29,916
+Heippa. Olet hereillä.
+
+182
+00:16:30,625 --> 00:16:36,583
+Etkö tunnista minua?
+Minä tässä, Tohji Suzuhara.
+
+183
+00:16:36,666 --> 00:16:41,958
+Pitkästä aikaa, Shinji.
+Ällistyin, kun sinut tuotiin tänne.
+
+184
+00:16:42,041 --> 00:16:45,750
+Kuulin, mitä sinulle tapahtui,
+mutten oikein ymmärtänyt.
+
+185
+00:16:45,833 --> 00:16:49,916
+Mutta kiva nähdä, että olet kunnossa.
+Pääsetkö ylös?
+
+186
+00:16:56,041 --> 00:16:59,875
+Mennään meille. Sinulla on varmasti nälkä.
+
+187
+00:17:01,875 --> 00:17:03,958
+Ulkona on vähän kylmä.
+
+188
+00:17:04,458 --> 00:17:07,541
+Tohtori, tyttö ei halua vaihtaa vaatteita.
+
+189
+00:17:08,041 --> 00:17:11,833
+-Eipä kai se haittaa.
+-Tamiflu on lopussa.
+
+190
+00:17:11,916 --> 00:17:14,166
+Selvä. Puhun annosteluvastaavalle.
+
+191
+00:17:14,250 --> 00:17:18,833
+Sori, lopetan tältä päivältä. Mennään.
+
+192
+00:17:38,916 --> 00:17:43,833
+-Miten outo paikka, niin paljon ihmisiä.
+-Etkö ole koskaan nähnyt ihmisjoukkoa?
+
+193
+00:17:43,916 --> 00:17:48,583
+Tämä on Kolmoskylä, yksi paikoista, jonne
+eloonjääneet kerääntyivät ja asettuivat.
+
+194
+00:17:48,666 --> 00:17:50,333
+Täällä asuu noin tuhat ihmistä.
+
+195
+00:17:50,416 --> 00:17:54,875
+Tuo on ruoanjakelukeskus.
+Ruokaa jaetaan kolme kertaa viikossa.
+
+196
+00:17:55,541 --> 00:17:57,291
+Päivää, tohtori.
+
+197
+00:17:57,375 --> 00:18:00,708
+Rouva Matsukata.
+Pian on aika, muistakaa levätä.
+
+198
+00:18:00,791 --> 00:18:04,500
+Ovatko nämä ne lapset,
+joista Kredit pyysi pitämään huolta?
+
+199
+00:18:04,583 --> 00:18:08,541
+Sinne päin. Kohdelkaa heitä hyvin.
+
+200
+00:18:09,291 --> 00:18:11,125
+Näkemiin.
+
+201
+00:18:13,708 --> 00:18:19,458
+-Mikä on Kredit?
+-Se on WILLEn luoma tukijärjestö.
+
+202
+00:18:19,541 --> 00:18:24,375
+Tarvikeavun lisäksi he tukevat
+kylien välistä kaupankäyntiä.
+
+203
+00:18:24,458 --> 00:18:27,250
+Kylämme ei pärjää omillaan.
+
+204
+00:18:28,583 --> 00:18:31,583
+Mikä tuo on?
+Se ei ole samanmuotoinen kuin koira.
+
+205
+00:18:32,541 --> 00:18:35,041
+-Se on kissa.
+-Kissa?
+
+206
+00:18:35,125 --> 00:18:39,833
+Etkö ole koskaan nähnyt kissaa?
+Niitä elää kymmenen tämän junavaunun alla.
+
+207
+00:18:39,916 --> 00:18:42,791
+Täällä on kissoja ja koiria.
+Se on hauskaa.
+
+208
+00:18:42,875 --> 00:18:44,791
+SOITA KELLOA HÄTÄTAPAUKSESSA
+
+209
+00:18:44,875 --> 00:18:49,625
+Tämä on vanha, mutta onnellinen kotini.
+Iso talo vain meille.
+
+210
+00:18:50,833 --> 00:18:53,458
+Kotona ollaan! Laitetaan teille ruokaa.
+
+211
+00:18:58,916 --> 00:19:02,916
+Olkaa hyvät. Älkää antako sen jäähtyä.
+
+212
+00:19:03,000 --> 00:19:07,000
+Shinji, sinulla on varmasti nälkä.
+Söisit nyt.
+
+213
+00:19:08,541 --> 00:19:12,333
+Hyvä on. Liity seuraamme,
+kun tekee mieli syödä.
+
+214
+00:19:12,416 --> 00:19:14,708
+Syödään sitten.
+
+215
+00:19:16,708 --> 00:19:18,666
+Herkullista, vai mitä?
+
+216
+00:19:18,750 --> 00:19:21,500
+Se tuntuu oudolta suussa,
+lämpimältä ja pehmeältä.
+
+217
+00:19:21,583 --> 00:19:23,500
+Sitä herkullinen tarkoittaa.
+
+218
+00:19:23,583 --> 00:19:26,791
+Tyttäreni osaa tehdä ruoasta
+juuri sopivaa.
+
+219
+00:19:26,875 --> 00:19:32,000
+Hän on maailman paras vaimo.
+Yllätytte, kun näette hänet.
+
+220
+00:19:32,083 --> 00:19:34,750
+Kotona ollaan.
+Anteeksi, että olemme myöhässä.
+
+221
+00:19:34,833 --> 00:19:40,750
+Odotin sinua.
+Hän on vaimoni. Tunnistatko hänet, Shinji?
+
+222
+00:19:40,833 --> 00:19:42,541
+Luokan edustaja.
+
+223
+00:19:42,625 --> 00:19:47,291
+En ollut uskoa korviani, kun kuulin.
+Tuntuu ihmeelliseltä nähdä teidät.
+
+224
+00:19:47,375 --> 00:19:50,250
+Siitä on niin pitkä aika, Shinji.
+Ayanami myös.
+
+225
+00:19:50,333 --> 00:19:52,708
+Minä en ole Ayanami.
+
+226
+00:19:52,791 --> 00:19:57,250
+Mitä? Etkö?
+No sitten... neiti Kaksoisolento!
+
+227
+00:20:01,416 --> 00:20:06,291
+-Mikä tämä on?
+-Tyttäremme Tsubame. Eikö olekin söpö?
+
+228
+00:20:06,375 --> 00:20:09,583
+Se on ihminen, mutta pieni.
+Miksi kutistitte hänet?
+
+229
+00:20:09,666 --> 00:20:14,458
+-Etkö ole nähnyt vauvaakaan?
+-Hän oli vielä pienempi syntyessään.
+
+230
+00:20:14,541 --> 00:20:16,875
+Vauvat kasvavat tosi nopeasti.
+
+231
+00:20:25,625 --> 00:20:27,583
+Onko se... söpö?
+
+232
+00:20:27,666 --> 00:20:32,666
+Totta ihmeessä! Eikö hän olekin söpöin?
+Hän on sentään tyttäreni.
+
+233
+00:20:34,208 --> 00:20:38,208
+Anteeksi. Pelästyitkö,
+koska puhuimme kovaan ääneen?
+
+234
+00:20:38,291 --> 00:20:41,916
+Anteeksi, Tsubame. Sainko sinut itkemään?
+
+235
+00:20:44,291 --> 00:20:45,708
+Pomo tuli!
+
+236
+00:20:46,583 --> 00:20:48,416
+Anteeksi, että olen myöhässä.
+
+237
+00:20:52,750 --> 00:20:55,541
+Se on kuin ihme.
+
+238
+00:20:55,625 --> 00:21:00,000
+-Mitä sinä teet?
+-Vauvat kasvavat juomalla äidin maitoa.
+
+239
+00:21:06,583 --> 00:21:09,625
+On liian aikaista sinulle,
+neiti Kaksoisolento.
+
+240
+00:21:10,625 --> 00:21:13,791
+En tiedä. Mitä Rei Ayanami tekisi?
+
+241
+00:21:14,541 --> 00:21:20,250
+Sinähän et ole Rei Ayanami?
+Tee siis, mitä haluat.
+
+242
+00:21:23,500 --> 00:21:25,375
+Voinko olla erilainen?
+
+243
+00:21:29,250 --> 00:21:33,625
+Hei, Ikari. Pitkästä aikaa.
+Minä tässä, Kensuke Aida.
+
+244
+00:21:37,125 --> 00:21:40,875
+Kensuke pelasti nahkasi.
+
+245
+00:21:40,958 --> 00:21:44,875
+En edes tiedä, montako kertaa
+tämä survivalistinörtti pelasti meidät.
+
+246
+00:21:44,958 --> 00:21:48,541
+Ilman häntä olisimme kuolleet
+kauan sitten.
+
+247
+00:21:54,291 --> 00:21:59,000
+Shinji. Sinun ei tarvitse puhua,
+mutta syö ruoka, joka sinulle annetaan!
+
+248
+00:21:59,083 --> 00:22:04,625
+Se on minun syytäni, Horaki-san.
+Minä vain raahasin hänet tänne.
+
+249
+00:22:04,708 --> 00:22:08,208
+-Annetaan hänen olla tänään.
+-Tohji!
+
+250
+00:22:08,291 --> 00:22:12,750
+Tällainen ruoka on luksusta täällä.
+On kamalan töykeää olla syömättä!
+
+251
+00:22:12,833 --> 00:22:14,250
+Puhun sinulle, Shinji!
+
+252
+00:22:15,375 --> 00:22:20,833
+Isä, herätät Tsubamen.
+Raivataan pöytä ja sijataan sängyt.
+
+253
+00:22:20,916 --> 00:22:23,708
+Ikarille ja neiti Kaksoisolennolle myös.
+
+254
+00:22:23,791 --> 00:22:28,458
+Ei, Ikari tulee mukaani. Niin on parempi.
+
+255
+00:22:35,041 --> 00:22:39,041
+Yllätyit varmaan,
+että ne kaksi menivät naimisiin.
+
+256
+00:22:39,125 --> 00:22:41,833
+He tappelivat aina koulussa.
+
+257
+00:22:42,708 --> 00:22:48,041
+Vaikeudet Lähes kolmannen iskun
+jälkeen saattoivat heidät yhteen.
+
+258
+00:22:49,750 --> 00:22:54,083
+Katsos, Ikari...
+L3I:stä syntyi jotain hyvääkin.
+
+259
+00:23:11,250 --> 00:23:14,333
+Olemme melkein perillä.
+Se on tämän mäen päällä.
+
+260
+00:23:19,666 --> 00:23:20,875
+Perillä ollaan.
+
+261
+00:23:20,958 --> 00:23:25,916
+Täällä oli ennen asema,
+nyt se on mökki. Käytä sitä, miten haluat.
+
+262
+00:23:26,000 --> 00:23:31,000
+Vessa on tuon vaunun perällä.
+Haen polttoainetta, mene sinä sisälle.
+
+263
+00:23:39,125 --> 00:23:43,041
+Olen alasti.
+Mikset punastu ja ole hämilläsi?
+
+264
+00:23:45,208 --> 00:23:49,333
+En voi uskoa,
+että otit tämän mäntin mukaasi, Ken-Ken.
+
+265
+00:23:49,416 --> 00:23:55,166
+Täällä ollaan. Hän on toinen vieraani.
+Hän asuu täällä jonkin aikaa.
+
+266
+00:23:55,250 --> 00:23:58,583
+Monestakin syystä
+Shikinami ei voi näyttäytyä kylässä.
+
+267
+00:23:58,666 --> 00:24:01,750
+Se on ärsyttävää.
+Liian monta Liliniä ympäriinsä.
+
+268
+00:24:09,916 --> 00:24:12,541
+Reagoit vain DSS-pantaan.
+
+269
+00:24:16,208 --> 00:24:20,333
+Ken-Ken, olet liian pehmeä.
+Anna hänen siivota oma sotkunsa.
+
+270
+00:24:20,416 --> 00:24:23,916
+Hän ei syö
+eikä pysty tekemään mitään itse.
+
+271
+00:24:24,000 --> 00:24:28,041
+-Hän on kai kokenut jotain traumaattista.
+-Hän on aina ollut tuollainen.
+
+272
+00:24:28,125 --> 00:24:32,291
+Hän sulkeutuu kuoreensa
+eikä välitä muista. Aina sama juttu.
+
+273
+00:24:32,916 --> 00:24:37,541
+Anna hänen olla.
+Hän ei halua elää, muttei voi kuollakaan.
+
+274
+00:24:39,041 --> 00:24:41,291
+Kaikki on nyt hyvin.
+
+275
+00:24:41,875 --> 00:24:45,458
+Kohtalo saattoi meidät taas yhteen.
+Voit luottaa minuun.
+
+276
+00:24:46,333 --> 00:24:50,958
+Mehän olemme ystäviä.
+Olen iloinen, että olet elossa, Ikari.
+
+277
+00:24:55,833 --> 00:25:00,458
+Annosteluvastaava, älähän hermostu.
+
+278
+00:25:01,541 --> 00:25:05,000
+Kiitos kovasta työstäsi.
+Hyvää yötä, kultaseni.
+
+279
+00:25:06,208 --> 00:25:08,416
+Mitä "hyvää yötä" on?
+
+280
+00:25:09,041 --> 00:25:12,750
+Niin sanotaan,
+jotta muut nukkuisivat hyvin.
+
+281
+00:25:13,500 --> 00:25:15,416
+Hyvää yötä, neiti Kaksoisolento.
+
+282
+00:25:40,625 --> 00:25:45,875
+En jaksa teeskennellä nukkuvani.
+Pystynkö enää koskaan nukkumaan?
+
+283
+00:26:14,583 --> 00:26:17,833
+-Hyvää huomenta.
+-Mitä "hyvää huomenta" on?
+
+284
+00:26:17,916 --> 00:26:22,041
+Niin toivotetaan toisille kivaa päivää.
+
+285
+00:26:22,625 --> 00:26:24,625
+Hyvää huomenta, neiti Kaksoisolento.
+
+286
+00:26:30,416 --> 00:26:33,875
+Ken-Ken herää joka aamu kuudelta.
+Hän lähti jo töihin.
+
+287
+00:26:34,500 --> 00:26:37,041
+Siinä on aamiaisesi. Ala syödä.
+
+288
+00:26:39,833 --> 00:26:43,500
+Onpa sinulla vartalonmyötäiset vaatteet.
+
+289
+00:26:43,583 --> 00:26:47,041
+Tämä on neiti Kaksoisolento.
+Tohtorin vaimo lähetti hänet töihin.
+
+290
+00:26:47,125 --> 00:26:50,625
+Neiti Kaksoisolento?
+Siihen liittyy varmasti pitkä tarina.
+
+291
+00:26:50,708 --> 00:26:54,250
+-Sopiiko hänen tulla seuraamme?
+-Jos hän haluaa tehdä töitä.
+
+292
+00:26:54,875 --> 00:27:00,375
+-Töitä? Jos se on käsky, noudatan sitä.
+-Ei se ole käsky, se on työtä.
+
+293
+00:27:01,041 --> 00:27:04,375
+-Mitä "työ" on?
+-Hyvä kysymys.
+
+294
+00:27:04,458 --> 00:27:09,041
+-En olekaan ajatellut sitä.
+-No, hikoilua yhdessä kai.
+
+295
+00:27:10,041 --> 00:27:11,458
+Hikoilua.
+
+296
+00:27:12,208 --> 00:27:17,583
+Käytä kolmea sormea, kevyesti.
+Hyvä. Työnnä se suoraan alas ja syvälle.
+
+297
+00:27:20,875 --> 00:27:25,750
+Älä purista sitä. Pidä sitä hellästi.
+Pian se luonnistuu.
+
+298
+00:27:33,500 --> 00:27:37,291
+Pysy perässä, kuhnuri.
+
+299
+00:27:42,958 --> 00:27:44,291
+Onko tämä hikoilua?
+
+300
+00:27:53,333 --> 00:27:54,333
+Onko tämä työtä?
+
+301
+00:27:55,833 --> 00:28:01,291
+-Herttinen. Taimet, jotka istutimme.
+-Anna kätesi.
+
+302
+00:28:07,625 --> 00:28:11,416
+Hienoa työtä.
+Saavutimme päivän tavoitteen.
+
+303
+00:28:12,125 --> 00:28:15,333
+Kas tässä, lahja kovasta työstäsi
+ensimmäisenä päivänä.
+
+304
+00:28:17,333 --> 00:28:20,791
+-Mitä tässä tilanteessa kuuluu sanoa?
+-Kiitos.
+
+305
+00:28:22,291 --> 00:28:23,708
+Kiitos.
+
+306
+00:28:24,708 --> 00:28:28,625
+-Nyt mennään kylpyyn!
+-Mikä on "kylpy"?
+
+307
+00:28:28,708 --> 00:28:31,125
+MUISTOKYLPYLÄ
+
+308
+00:28:32,583 --> 00:28:33,666
+Tämä on kylpy.
+
+309
+00:28:37,583 --> 00:28:39,958
+Sinun täytyy riisua vaatteet.
+
+310
+00:28:46,833 --> 00:28:51,291
+Kylpy on outo. Se on erilainen kuin LCL.
+Se on lämmin ja samea.
+
+311
+00:28:55,416 --> 00:29:00,333
+Olen elossa ilman käskyjä. Miksi?
+
+312
+00:29:03,416 --> 00:29:07,958
+Haluat vain esittää uhria,
+makaat vain nurkassa vaiti.
+
+313
+00:29:08,666 --> 00:29:11,458
+Häivy tieltäni, ärsyttävä mäntti.
+
+314
+00:29:14,375 --> 00:29:16,458
+Se ei ole äiti.
+
+315
+00:29:16,541 --> 00:29:20,208
+Tervetuloa kotiin, neiti Kaksoisolento.
+Kiitos kovasta työstäsi.
+
+316
+00:29:21,500 --> 00:29:25,666
+-Anteeksi, että olen myöhässä.
+-Äiti!
+
+317
+00:29:26,791 --> 00:29:28,916
+-Oletko ollut kiltisti?
+-Joo!
+
+318
+00:29:31,375 --> 00:29:35,625
+-Kiitos, Hikari, kuten aina.
+-Eipä kestä. Autamme toisiamme.
+
+319
+00:29:36,333 --> 00:29:39,750
+-Mennään sitten kotiin.
+-Näkemiin!
+
+320
+00:29:39,833 --> 00:29:43,583
+-Näkemiin.
+-Mitä "näkemiin" on?
+
+321
+00:29:43,666 --> 00:29:46,750
+Niin sanotaan, kun toivoo
+näkevänsä toisen uudestaan.
+
+322
+00:29:47,916 --> 00:29:50,333
+-Mennään!
+-Hyvä on.
+
+323
+00:29:50,416 --> 00:29:52,416
+Leikitään yhdessä kotona.
+
+324
+00:29:52,500 --> 00:29:57,500
+-Mitä tuo on?
+-Niin tehdään, kun haluaa olla lähellä.
+
+325
+00:30:12,833 --> 00:30:14,500
+En jaksa tätä enää.
+
+326
+00:30:17,333 --> 00:30:19,833
+Sinäkin aiheutat meille vaikeuksia.
+
+327
+00:30:27,125 --> 00:30:28,666
+Ja taas oksennetaan.
+
+328
+00:30:30,875 --> 00:30:35,625
+Hemmetin kakara!
+Olisit kiitollinen, että sinua ruokitaan!
+
+329
+00:30:36,500 --> 00:30:40,916
+Olet yhä vale-Lilin.
+Et selviä, jollet syö. Niele se!
+
+330
+00:30:41,000 --> 00:30:46,083
+Olen elänyt vedellä. Nauti surkeasta
+ruoasta ennen kuin kehosi ei enää kasva!
+
+331
+00:30:46,166 --> 00:30:47,291
+Tyhmä kakara!
+
+332
+00:30:48,333 --> 00:30:53,083
+Istut siinä tyhjän panttina,
+koska pelkäät satuttavasi itsesi!
+
+333
+00:30:53,166 --> 00:30:59,125
+Nyt kun sinulla on näin paljon aikaa,
+mietipä, miksi yritin motata sinua!
+
+334
+00:31:03,625 --> 00:31:05,791
+Olet niin heikko henkisesti.
+
+335
+00:31:07,041 --> 00:31:11,000
+Epäonnistut kaikessa,
+eikä sitä voi korjata.
+
+336
+00:31:11,083 --> 00:31:14,458
+Se on omaa syytäsi,
+joten et halua tehdä enää mitään.
+
+337
+00:31:15,083 --> 00:31:18,916
+Isäsi käski tehdä sen,
+mutta olet sen verran heikko,
+
+338
+00:31:19,416 --> 00:31:21,291
+ettet saisi ohjata EVAa.
+
+339
+00:31:44,916 --> 00:31:46,916
+Senkun murjotat ja häivyt täältä.
+
+340
+00:33:00,333 --> 00:33:05,000
+-Kotona ollaan. Missä Ikari on?
+-Hän häipyi.
+
+341
+00:33:05,541 --> 00:33:10,458
+Vai niin. Ehkä on paras
+jättää hänet toistaiseksi yksin.
+
+342
+00:33:10,541 --> 00:33:13,750
+-Minne hän meni?
+-Järven rannan raunioille, pohjoiseen.
+
+343
+00:33:14,250 --> 00:33:18,875
+Missä NERVin päämaja oli ennen.
+Ehkä sekin on kohtalo. Söikö hän?
+
+344
+00:33:18,958 --> 00:33:22,166
+Syötin hänet väkisin.
+Eiköhän hän pärjää hetken.
+
+345
+00:33:22,250 --> 00:33:26,541
+-Kiitos, Shikinami.
+-En tee sitä hänen vuokseen.
+
+346
+00:33:26,625 --> 00:33:30,416
+En antaisi hänen kuolla itsekkäästi,
+kun hän on vielä noin tyhmä.
+
+347
+00:33:43,916 --> 00:33:45,250
+Nimeni?
+
+348
+00:33:45,333 --> 00:33:49,458
+Emme voi kutsua sinua
+neiti Kaksoisolennoksi.
+
+349
+00:33:49,541 --> 00:33:53,208
+Tohtori sanoi, että unohdit nimesi.
+
+350
+00:33:53,291 --> 00:33:55,791
+Voisit antaa itsellesi uuden nimen.
+
+351
+00:33:56,875 --> 00:33:59,708
+Voinko tehdä niin?
+
+352
+00:34:11,500 --> 00:34:14,666
+KIRJASTO
+
+353
+00:34:17,500 --> 00:34:21,291
+Kirjoja... Shinji puhui niistä.
+
+354
+00:34:32,458 --> 00:34:36,500
+-Löysin sen, joten palautan sen.
+-Kiitos.
+
+355
+00:34:37,791 --> 00:34:38,791
+Haluatko lukea?
+
+356
+00:34:39,291 --> 00:34:40,791
+OCHIBI JA PIIKKISIKA
+
+357
+00:34:40,875 --> 00:34:42,250
+Kiitos.
+
+358
+00:34:52,750 --> 00:34:58,250
+Olen yksin.
+Olen aina ollut ja tulen aina olemaan.
+
+359
+00:34:59,583 --> 00:35:02,000
+Niin se vain on, Asuka.
+
+360
+00:35:07,500 --> 00:35:10,750
+-Kuka siellä?
+-Minä.
+
+361
+00:35:11,500 --> 00:35:12,500
+Alkuperäisiä?
+
+362
+00:35:13,958 --> 00:35:15,250
+Avaan oven.
+
+363
+00:35:17,583 --> 00:35:22,833
+-Kuulin, että Shinji on täällä.
+-Hän ei ole täällä nyt. Hän häipyi.
+
+364
+00:35:23,333 --> 00:35:27,208
+-Menen sitten etsimään häntä.
+-Minäpä kerron sinulle jotain.
+
+365
+00:35:27,291 --> 00:35:29,833
+Jotta me EVA-pilotit
+emme ylittäisi ihmisten rajoja,
+
+366
+00:35:29,916 --> 00:35:32,666
+meille laitettiin rajoittimia,
+kuten EVA-yksiköille.
+
+367
+00:35:33,541 --> 00:35:35,791
+Siksi tunteemme ovat vaimeita.
+
+368
+00:35:35,875 --> 00:35:39,166
+Meidät on suunniteltu ihmisten
+kognitiivisen käytöksen mukaisesti.
+
+369
+00:35:39,250 --> 00:35:43,416
+Ayanami-sarjasi on muokattu
+pitämään Kolmannesta pojasta.
+
+370
+00:35:44,416 --> 00:35:47,625
+NERV peukaloi tunteitanne alusta asti.
+
+371
+00:35:48,875 --> 00:35:52,625
+Vai niin. Ei minua haittaa.
+Olen onnellinen näin.
+
+372
+00:35:52,708 --> 00:35:55,166
+Vai niin. Tee kuten haluat sitten.
+
+373
+00:35:56,041 --> 00:36:00,583
+Kiintymyksesi kohde on N109-tornissa
+NERVin toisen haaran raunioilla.
+
+374
+00:36:01,125 --> 00:36:02,125
+Kiitos.
+
+375
+00:36:03,000 --> 00:36:07,000
+Ota hänen annoksensa mukaan.
+Häneltä on varmasti polttoaine lopussa.
+
+376
+00:36:07,875 --> 00:36:10,833
+Mikset olet kylässä tekemässä töitä?
+
+377
+00:36:10,916 --> 00:36:15,958
+Oletko idiootti? Minun ei kuulu
+asua täällä. Suojelen tätä paikkaa.
+
+378
+00:36:28,041 --> 00:36:29,458
+Shinji.
+
+379
+00:36:33,791 --> 00:36:37,500
+Minulle opetettiin,
+että se pitää palauttaa, minkä löytää.
+
+380
+00:37:06,708 --> 00:37:07,750
+Tulen uudestaan.
+
+381
+00:39:48,125 --> 00:39:52,791
+Voiko Shinjin jättää yksin?
+Eikö se ole vaarallista?
+
+382
+00:39:52,875 --> 00:39:57,291
+Annetaan hänen vielä olla.
+Hän tarvitsee omaa aikaa.
+
+383
+00:39:57,375 --> 00:40:02,625
+Mutta Kensuke...
+Eikö tuo ole vähän kylmää?
+
+384
+00:40:02,708 --> 00:40:08,666
+Murehtimisesta ei ole apua kummallekaan.
+Hän tulee takaisin. Uskotaan häneen.
+
+385
+00:40:08,750 --> 00:40:14,666
+Olet oikeassa.
+Toivottavasti hän sopeutuu kylään pian.
+
+386
+00:40:21,541 --> 00:40:23,958
+Mikset tule takaisin kylään?
+
+387
+00:40:27,958 --> 00:40:33,333
+Sinäkään et tee mitään.
+Suojeletko sinäkin kylää?
+
+388
+00:40:35,375 --> 00:40:40,250
+En suojele mitään. Tuhosin kaiken!
+
+389
+00:40:41,333 --> 00:40:45,250
+En halua tehdä enää mitään!
+En halua puhua enkä nähdä ketään!
+
+390
+00:40:45,333 --> 00:40:49,250
+Haluan, että minut jätetään rauhaan.
+
+391
+00:40:51,416 --> 00:40:55,125
+Miksi te kaikki olette
+niin ystävällisiä minulle?
+
+392
+00:40:57,416 --> 00:40:58,875
+Koska pidämme sinusta.
+
+393
+00:41:01,666 --> 00:41:03,750
+Kiitos, että puhuit minulle.
+
+394
+00:41:06,375 --> 00:41:09,625
+Näin tehdään, kun haluaa olla lähellä.
+
+395
+00:41:27,833 --> 00:41:30,708
+Pakomatka sitten loppui.
+Alkuperäisen ansiota?
+
+396
+00:41:32,166 --> 00:41:33,250
+Kyllä.
+
+397
+00:41:34,083 --> 00:41:36,875
+Loppuivatko kyyneleet ja helpotuit?
+
+398
+00:41:38,458 --> 00:41:39,541
+Kyllä.
+
+399
+00:41:40,083 --> 00:41:45,250
+Selvä. Jos voit liikkua,
+mene auttamaan Ken-Keniä.
+
+400
+00:41:54,625 --> 00:41:58,166
+Mennään ajelulle. Saat muuta ajateltavaa.
+
+401
+00:41:58,833 --> 00:42:04,333
+Olen yleismies, joten
+minun ei tarvitse tehdä maataloustöitä.
+
+402
+00:42:04,416 --> 00:42:08,250
+Menemme katsomaan tänään
+ulompaa infrastruktuuria ja ympäristöä.
+
+403
+00:42:08,333 --> 00:42:09,666
+Kiireinen päivä.
+
+404
+00:42:10,541 --> 00:42:15,041
+Infrastruktuuri on liian vanha
+eikä toimi enää.
+
+405
+00:42:15,125 --> 00:42:17,333
+Korjaus oli hankalaa, joten se hylättiin.
+
+406
+00:42:28,083 --> 00:42:31,958
+Keräämme vain pudonneita oksia
+tai karsimme alempia haaroja.
+
+407
+00:42:32,041 --> 00:42:34,708
+Haluamme pitää hyvää huolta
+säilyneestä metsästä.
+
+408
+00:42:39,583 --> 00:42:45,208
+Kolmoskylä on riippuvainen tästä vedestä.
+Pinnan tason tarkistaminen on tärkeää.
+
+409
+00:42:45,291 --> 00:42:49,958
+Kylän selviytyminen on kiinni siitä.
+Se on elinehtomme.
+
+410
+00:42:52,041 --> 00:42:57,208
+Menen katsomaan lähdettä. Taival on liian
+jyrkkä sinulle. Tee sillä välin töitä.
+
+411
+00:42:57,291 --> 00:42:59,750
+Hanki vähän ruokaa.
+
+412
+00:43:00,916 --> 00:43:06,875
+-En ole koskaan tehnyt sitä. En osaa.
+-Kokeile ensin, kerro sitten.
+
+413
+00:43:10,708 --> 00:43:15,333
+Älä murehdi. Kiintiömme on kala viikossa.
+Saat toisen tilaisuuden.
+
+414
+00:43:18,625 --> 00:43:20,791
+Tuo oli WILLEn läksiäislahja.
+
+415
+00:43:21,416 --> 00:43:25,833
+Täydentävä L-hallintakentän
+puhdistusprosessin mitätöimisyksikkö.
+
+416
+00:43:25,916 --> 00:43:31,125
+Sen ansiosta Kolmoskylä on säästynyt
+ydintilalta. Se on Misaton ryhmän ansiota.
+
+417
+00:43:36,083 --> 00:43:40,083
+Nuo ilmestyivät hiljattain.
+Kutsumme niitä Vaeltajiksi.
+
+418
+00:43:40,166 --> 00:43:45,875
+Päättöminä haudatut EVAt alkoivat yhtäkkiä
+liikkua. Tarkkailemme niitä tänään.
+
+419
+00:43:47,041 --> 00:43:50,541
+Hallintapilarit pitävät ne loitolla.
+
+420
+00:43:50,625 --> 00:43:53,458
+Tiivisteet toimivat myös
+Vaeltajia vastaan.
+
+421
+00:43:53,541 --> 00:43:58,083
+On töitä, joihin yleismieskään ei pysty.
+Jos tuo lakkaa toimimasta, kuolemme.
+
+422
+00:44:01,416 --> 00:44:05,666
+Kuten näet, emme tiedä,
+kuinka kauan tämä paikka pysyy pystyssä.
+
+423
+00:44:06,166 --> 00:44:10,125
+Mutta taistelemme ja elämme loppuun asti.
+
+424
+00:44:11,458 --> 00:44:15,958
+Ne ovat säilöttyjä luumuja. Tohji odottaa
+joka vuosi, että saa syödä niitä.
+
+425
+00:44:17,083 --> 00:44:20,666
+Elämä on vaikeiden ja hyvien aikojen
+jatkuvaa kiertokulkua.
+
+426
+00:44:21,166 --> 00:44:24,750
+Siinä ei ole mitään pahaa,
+jos joka päivä tuntuu samalta.
+
+427
+00:44:25,500 --> 00:44:31,375
+Olet juuri nyt nuorimmillasi. Haluan
+elää täysillä juuri nyt. Tsubame myös.
+
+428
+00:44:34,041 --> 00:44:36,708
+Hän on kiintyneempi sinuun kuin minuun.
+
+429
+00:44:37,416 --> 00:44:40,750
+Sinun pitäisi jäädä tänne pysyvästi,
+neiti Kaksoisolento.
+
+430
+00:44:42,875 --> 00:44:46,333
+-Nimeni?
+-Niin. Valitsitko jo sen?
+
+431
+00:44:46,416 --> 00:44:50,750
+-En vielä.
+-Pyydä sitten jotain toista valitsemaan.
+
+432
+00:44:51,833 --> 00:44:55,958
+-Nimesi?
+-Niin. Haluan, että annat minulle nimen.
+
+433
+00:44:57,000 --> 00:45:00,416
+Haluan jäädä tänne.
+Tarvitsen sitä varten nimen.
+
+434
+00:45:01,125 --> 00:45:05,166
+-Haluan, että sinä annat sen.
+-Nimi sinulle...
+
+435
+00:45:06,041 --> 00:45:10,541
+-Mutta et ole Ayanami...
+-Mikä tahansa nimi käy.
+
+436
+00:45:11,458 --> 00:45:13,875
+Haluan nimen, jonka sinä annat.
+
+437
+00:45:18,916 --> 00:45:21,041
+Toimiiko alkuperäinen kunnolla?
+
+438
+00:45:22,500 --> 00:45:28,083
+-Kyllä. Hän kävi luonani tänään. Miksi?
+-Vai niin. Hyvä sitten.
+
+439
+00:45:59,375 --> 00:46:03,250
+Voin siis elää vain NERVin sisällä.
+
+440
+00:46:13,916 --> 00:46:19,166
+-Shinji, oletko jo tottunut kyläelämään?
+-Joo, vähän.
+
+441
+00:46:19,250 --> 00:46:20,291
+Hyvä kuulla.
+
+442
+00:46:20,916 --> 00:46:26,375
+Kylä oli ennen
+vain sekalainen joukko muukalaisia.
+
+443
+00:46:26,458 --> 00:46:30,041
+-Oliko alussa vaikeaa?
+-No jaa...
+
+444
+00:46:30,875 --> 00:46:36,833
+Tapahtui kaikkea. Se ei ollut maailma,
+jossa kokemattomat lapset selviävät.
+
+445
+00:46:36,916 --> 00:46:41,125
+Meidän piti aikuistua nopeasti
+ja oppia tekemään kaikki yksin.
+
+446
+00:46:41,875 --> 00:46:45,875
+Tein perheeni takia myös asioita,
+joita häpeän.
+
+447
+00:46:46,458 --> 00:46:49,583
+Minun piti unohtaa naiiviuteni,
+jotta selviäisimme.
+
+448
+00:46:49,666 --> 00:46:53,375
+En ole oikeasti lääkäri
+tai mitenkään arvovaltainen.
+
+449
+00:46:53,958 --> 00:46:56,333
+Olen vain itseoppinut apulainen.
+
+450
+00:46:56,416 --> 00:47:00,750
+Selviän vain Kreditin
+hoitovälineiden ja -tilojen ansiosta.
+
+451
+00:47:00,833 --> 00:47:04,458
+Tohji, sinun pitäisi olla ylpeä itsestäsi.
+Autat ihmisiä.
+
+452
+00:47:04,541 --> 00:47:08,541
+En voi pelastaa kaikkia,
+mutta jatkan eteenpäin.
+
+453
+00:47:08,625 --> 00:47:12,750
+Omaisten surun ja vihan kantaminen
+on mielestäni osa työtä.
+
+454
+00:47:13,416 --> 00:47:17,958
+Minun täytyy maksaa virheistäni,
+ottaa vastuu.
+
+455
+00:47:18,500 --> 00:47:20,000
+Niin minä uskon.
+
+456
+00:47:21,125 --> 00:47:25,625
+Shinji, olet jo taistellut tarpeeksi
+suojellaksesi meitä kaikkia.
+
+457
+00:47:26,166 --> 00:47:31,208
+Sinun pitäisi jäädä nyt tänne
+ja elää kanssamme.
+
+458
+00:47:40,416 --> 00:47:43,416
+Kiitos, että tulitte kanssani
+näin aikaisin aamulla.
+
+459
+00:47:44,083 --> 00:47:46,250
+En olisi ikinä uskonut, että isäni,
+
+460
+00:47:46,333 --> 00:47:50,375
+joka selvisi Lähes kolmannesta iskusta,
+kuolisi onnettomuudessa.
+
+461
+00:47:51,166 --> 00:47:56,666
+Olisi pitänyt puhua enemmän, juoda jotain
+yhdessä ja kuunnella hänen huoliaan.
+
+462
+00:47:57,625 --> 00:47:59,750
+Sinun isäsihän on yhä elossa?
+
+463
+00:47:59,833 --> 00:48:04,333
+Vaikka luulet, ettei siitä ole hyötyä,
+yritä puhua hänelle. Muuten kadut sitä.
+
+464
+00:48:04,416 --> 00:48:08,208
+Puhumme Gendoh Ikarista.
+Se on liian rankkaa tälle kaverille.
+
+465
+00:48:09,958 --> 00:48:13,208
+He ovat isä ja poika.
+Sellaiset siteet eivät katkea.
+
+466
+00:48:22,833 --> 00:48:27,666
+Rouva Matsukatalla oli vaikea synnytys,
+mutta hän selvisi.
+
+467
+00:48:27,750 --> 00:48:31,833
+Onneksi vauva syntyi terveenä.
+Aviomies itki ilosta.
+
+468
+00:48:37,250 --> 00:48:41,375
+-Osaathan sinä hymyillä.
+-Olet myös tosi söpö.
+
+469
+00:48:41,458 --> 00:48:46,083
+Sinulla on myös kaunis vartalo.
+Mikset kokeilisi muita vaatteita?
+
+470
+00:48:47,041 --> 00:48:49,625
+Selvä... Kokeilen erilaisia vaatteita.
+
+471
+00:48:51,958 --> 00:48:54,333
+Entäpä tämä?
+
+472
+00:48:55,875 --> 00:48:58,125
+Näyttääpä se hienolta ylläsi.
+
+473
+00:48:58,208 --> 00:49:00,750
+-Oletpa söpö.
+-Haluan, että nait poikani.
+
+474
+00:49:01,833 --> 00:49:05,166
+-Onko tämä "punastumista"?
+-Miten söpöä.
+
+475
+00:49:06,041 --> 00:49:08,250
+Onko tämä "häkeltymistä"?
+
+476
+00:49:10,708 --> 00:49:16,083
+Olen pahoillani. Puku on vähän kuuma,
+mutta pidä se päällä vähän aikaa.
+
+477
+00:49:16,166 --> 00:49:21,041
+Olen jokapaikanhöylä, joten
+teen yhteistyötä myös Kreditin kanssa.
+
+478
+00:49:26,458 --> 00:49:30,958
+L-hallintakenttä on heikompi täällä,
+joten he tekevät elvytyskokeiluja.
+
+479
+00:49:31,041 --> 00:49:37,000
+Se on Kreditin ulkolaboratorio.
+Haluan esitellä sinulle erään työntekijän.
+
+480
+00:49:38,541 --> 00:49:40,125
+Aida-san!
+
+481
+00:49:43,583 --> 00:49:47,125
+Siitä onkin pitkä aika.
+Onko tämä uusi avustajasi?
+
+482
+00:49:47,750 --> 00:49:49,583
+Jotain sinnepäin.
+
+483
+00:49:50,375 --> 00:49:52,666
+En ole koskaan tavannut ulkopuolista.
+
+484
+00:49:54,375 --> 00:49:59,041
+Minä olen Ryoji Kaji.
+Mikä sinun nimesi on?
+
+485
+00:50:02,708 --> 00:50:06,500
+-Mitä pidit? Mukava poika, eikö?
+-Niin.
+
+486
+00:50:07,000 --> 00:50:10,083
+Mutta hänen nimensä, Kaji...
+
+487
+00:50:10,166 --> 00:50:15,416
+Hän on Misaton ja Kajin poika.
+Hän täyttää pian 14.
+
+488
+00:50:15,500 --> 00:50:20,041
+Hän ei tiedä vanhemmistaan mitään.
+Se oli Misaton toive.
+
+489
+00:50:20,125 --> 00:50:24,000
+Hän ei koe voivansa olla kunnon äiti,
+joten hän päätti pysytellä loitolla
+
+490
+00:50:24,083 --> 00:50:27,958
+lopun elämänsä
+ja suojella poikaa WILLEn johtajana.
+
+491
+00:50:29,625 --> 00:50:34,666
+-Mitä Kaji-sanille tapahtui?
+-Hän kuoli.
+
+492
+00:50:34,750 --> 00:50:38,833
+Jonkun täytyi uhrautua
+Kolmannen iskun pysäyttämiseksi.
+
+493
+00:50:38,916 --> 00:50:42,916
+Kaji-san päätti tehdä sen,
+ja Misato antoi hänen mennä.
+
+494
+00:50:43,750 --> 00:50:48,500
+Hän on pahoillaan, että sinä joudut
+kantamaan kaiken taakan harteillasi.
+
+495
+00:50:48,583 --> 00:50:50,833
+Hän uskoo, että se kuuluisi hänelle.
+
+496
+00:50:51,333 --> 00:50:54,666
+Luulen, ettei hän halua
+sinun ohjaavan EVAa sen takia.
+
+497
+00:50:55,833 --> 00:51:01,416
+Ikari, et ole ainoa, joka kärsii.
+Myös Misato-saniin sattuu.
+
+498
+00:51:14,791 --> 00:51:15,875
+Maan haju...
+
+499
+00:51:18,500 --> 00:51:19,916
+Kaji-san...
+
+500
+00:51:20,833 --> 00:51:25,125
+Wunder tulee huomenna.
+Paluureitti on jo valmiina.
+
+501
+00:51:26,541 --> 00:51:31,833
+Misato-sanin pyytämät tiedot kylästä,
+myös miehistön jäsenten perhekuvat.
+
+502
+00:51:32,541 --> 00:51:37,458
+Tämä on kirje Tohjin siskolle.
+Hän pyytää kohteliaasti sinua auttamaan.
+
+503
+00:51:38,583 --> 00:51:39,833
+Selvä homma.
+
+504
+00:51:41,500 --> 00:51:42,625
+Olen kotona.
+
+505
+00:52:01,625 --> 00:52:02,958
+Ovatko nämä kyyneliä?
+
+506
+00:52:05,000 --> 00:52:07,625
+Itkenkö... minä?
+
+507
+00:52:13,416 --> 00:52:15,750
+Tältäkö yksinäisyys tuntuu?
+
+508
+00:52:19,375 --> 00:52:21,541
+Huomenta, neiti Kaksoisolento.
+
+509
+00:52:32,583 --> 00:52:38,250
+"Hyvää yötä. Hyvää huomenta.
+Kiitos... Näkemiin."
+
+510
+00:52:43,250 --> 00:52:47,541
+-Huomenta.
+-Huomenta. Mitä nyt? Tulit aikaisin.
+
+511
+00:52:48,250 --> 00:52:50,166
+Halusin nähdä sinut, Shinji.
+
+512
+00:52:53,083 --> 00:52:54,083
+Kas tässä.
+
+513
+00:52:57,458 --> 00:53:02,958
+Kiitos. Kuule, se nimi, jota kysyit...
+
+514
+00:53:03,916 --> 00:53:07,416
+Olet kuitenkin Ayanami.
+En keksi toista nimeä.
+
+515
+00:53:08,333 --> 00:53:13,250
+Kiitos, että mietit sitä.
+Olen tyytyväinen.
+
+516
+00:53:15,708 --> 00:53:19,833
+En selviä täällä,
+mutta tykkään tästä paikasta.
+
+517
+00:53:20,625 --> 00:53:25,833
+-Ayanami...
+-Nyt osaan "tykätä". Olen onnellinen.
+
+518
+00:53:29,208 --> 00:53:30,875
+Mikä hätänä, Ayanami?
+
+519
+00:53:33,916 --> 00:53:36,333
+Halusin korjata riisiä.
+
+520
+00:53:40,916 --> 00:53:43,708
+Halusin pidellä Tsubamea kauemmin.
+
+521
+00:53:48,666 --> 00:53:51,791
+Halusin olla ikuisesti pojan kanssa,
+josta tykkään.
+
+522
+00:53:56,958 --> 00:53:58,041
+Hyvästi.
+
+523
+00:54:00,375 --> 00:54:01,500
+Ayanami!
+
+524
+00:54:02,208 --> 00:54:06,333
+Eikö neiti Kaksoisolento ole kanssasi?
+Mikä hätänä?
+
+525
+00:54:39,458 --> 00:54:43,541
+Tuoko on Wunder? Onpa se valtava.
+
+526
+00:54:45,958 --> 00:54:51,000
+Ne, jotka haluavat lähteä, nousevat
+maihin. Viimeinen taistelu on lähellä.
+
+527
+00:54:54,458 --> 00:54:56,416
+Lopeta kuvaamiseni!
+
+528
+00:54:56,500 --> 00:54:59,833
+Anteeksi,
+mutta haluan tallentaa tämän päivän.
+
+529
+00:55:01,000 --> 00:55:03,250
+Vai niin. Tee kuten haluat.
+
+530
+00:55:09,666 --> 00:55:11,583
+Miksi tulit tänne?
+
+531
+00:55:15,958 --> 00:55:19,708
+Ikari, sinun ei tarvitse tulla.
+
+532
+00:55:21,375 --> 00:55:27,000
+Kiitos, Kensuke.
+Kiitäthän puolestani Tohjia ja muita.
+
+533
+00:55:29,166 --> 00:55:31,666
+Tulen mukaasi, Asuka.
+
+534
+00:55:32,500 --> 00:55:35,916
+Vai niin. Nämä ovat sitten säännöt...
+
+535
+00:55:42,375 --> 00:55:46,458
+Suzuhara... Sakura-san.
+
+536
+00:55:48,166 --> 00:55:53,000
+Kielsin ohjaamasta EVAa,
+mutta karkasit ja teit sen silti!
+
+537
+00:55:53,083 --> 00:55:57,500
+Idiootti! Senkin idiootti, Ikari-san!
+
+538
+00:55:58,541 --> 00:55:59,916
+Oletko hänen vaimonsa?
+
+539
+00:56:10,250 --> 00:56:12,625
+Karkurin status on vahvistettu.
+
+540
+00:56:12,708 --> 00:56:16,791
+Sinä otat vastuun BM-03:n
+valvonnasta ja vangitsemisesta.
+
+541
+00:56:19,041 --> 00:56:23,416
+Allekirjoitus tähän, väliaikainen
+vanhempi erikoismajuri Langley-Shikinami.
+
+542
+00:56:25,083 --> 00:56:26,416
+Ei DSS-pantaa?
+
+543
+00:56:28,208 --> 00:56:30,000
+Sitä ei tarvita.
+
+544
+00:56:30,750 --> 00:56:34,916
+Häntä pidetään räjähdyssuojakammiossa
+tehtävän loppuun.
+
+545
+00:56:35,000 --> 00:56:39,916
+<span style="s0">Valvottava kohde BM-03 on saapunut kakkos-
+kammioon. Sytytysjärjestelmät valmiina.</span>
+
+546
+00:56:40,000 --> 00:56:44,875
+<span style="s0">Ajattelitko, että se on paras ratkaisu,
+koska hän onnistui poistamaan sen?</span>
+
+547
+00:56:44,958 --> 00:56:48,666
+MAGI-kopio tallensi pannan aktivoinnin.
+
+548
+00:56:49,541 --> 00:56:54,166
+<span style="s0">Siitä näkyy, että toinen pilotti
+räjähti Ikari-sanin silmien edessä.</span>
+
+549
+00:56:55,250 --> 00:57:01,166
+<span style="s0">Jopa koettuaan sellaisen trauman
+hän palasi Miksi?
+
+550
+00:57:01,250 --> 00:57:06,666
+Kuka tietää. Ihmettelen lähinnä, miksi
+kapteeni Katsuragi päästi hänet tänne.
+
+551
+00:57:07,666 --> 00:57:11,375
+Kolmoskylän kuvatallenteet
+ja kirjeenvaihto Suzuharalta.
+
+552
+00:57:11,458 --> 00:57:12,500
+SAKURALLE ISOVELJELTÄ
+
+553
+00:57:12,583 --> 00:57:13,666
+Tohjilta...
+
+554
+00:57:15,666 --> 00:57:20,541
+<span style="s0">Kakkoskammion kotelointi ja räjähdyksen
+hätäaktivointijärjestelmä toiminnassa.</span>
+
+555
+00:57:20,625 --> 00:57:24,500
+<span style="s0">Valvottavan kohteen BM-03:n
+karanteenimenettely on suoritettu.</span>
+
+556
+00:57:30,291 --> 00:57:32,458
+Poistuneen henkilöstön suojaus valmis.
+
+557
+00:57:32,541 --> 00:57:37,583
+Uuden yksikkö 02:n työt ovat käynnissä.
+Aloitetaan yksikkö 08i:n virransiirto.
+
+558
+00:57:37,666 --> 00:57:39,833
+Päätornien ja ulkotöiden tilanneraportti?
+
+559
+00:57:39,916 --> 00:57:44,250
+<span style="s0">Nelostornin vaihto ja perätornin lisäys
+etenevät normaalisti.</span>
+
+560
+00:57:44,333 --> 00:57:48,666
+<span style="s0">Työt EVAn ulkoisella telakalla
+ovat yhteensä kolme prosenttia jäljessä.</span>
+
+561
+00:57:48,750 --> 00:57:52,708
+<span style="s0">Nopeus on prioriteetti. Tarkistuslistan
+ensimmäiset 20 % kiireellä läpi!</span>
+
+562
+00:57:52,791 --> 00:57:56,875
+<span style="s0">N1-raketin lisäkytkentä käynnistyy
+uudelleen viiden minuutin kuluttua.</span>
+
+563
+00:57:56,958 --> 00:58:02,291
+Hain mielelläni majuri Shikinamin. Mutta
+miksi se pahanilmanlintu tuli mukaan?
+
+564
+00:58:02,375 --> 00:58:05,375
+Parempi niin kuin antaa
+NERVin käyttää häntä taas.
+
+565
+00:58:05,458 --> 00:58:10,666
+Henkilökunnalla on lupa ampua hänet, jos
+hän yrittää mennä EVAan. Eikö se riitä?
+
+566
+00:58:10,750 --> 00:58:13,208
+Se on pelkkää puhetta.
+
+567
+00:58:13,291 --> 00:58:18,791
+Kapteeni ei neutralisoinut häntä,
+kun hän pakeni. En usko häneen enää.
+
+568
+00:58:18,875 --> 00:58:21,541
+Hän on vain lapsi.
+Ymmärrän kapteenin epäröinnin.
+
+569
+00:58:21,625 --> 00:58:26,208
+Se "lapsi" aiheutti Lähes kolmannen iskun,
+joka hävitti koko perheeni.
+
+570
+00:58:26,291 --> 00:58:31,583
+L3I oli vain tahaton seuraus. Kapteeni
+tekee kaikkensa sovittaakseen sen.
+
+571
+00:58:32,291 --> 00:58:37,541
+Aivan. Kaji uskoi WILLEn hänelle.
+Luotan häneen täysillä.
+
+572
+00:58:38,875 --> 00:58:40,958
+Te olette kaikki liian pehmeitä.
+
+573
+00:58:41,708 --> 00:58:46,875
+Kuten tämä pissasta tehty vesi...
+Ihan kuin puhdistaminen riittäisi.
+
+574
+00:58:48,166 --> 00:58:49,791
+Se ei mene niin.
+
+575
+00:58:54,083 --> 00:58:57,375
+<span style="s0">Uusi yksikkö 02,
+JA-komponenttien yhteystesti alkaa.</span>
+
+576
+00:58:57,458 --> 00:59:01,833
+<span style="s0">Aloittakaa vasemman käsivarren
+itsenäisen koordinointijärjestelmän työt.</span>
+
+577
+00:59:02,333 --> 00:59:06,500
+He ovat lisänneet taas räjähteitä.
+Heiltä alkaa loppua usko meihin.
+
+578
+00:59:08,000 --> 00:59:09,416
+Täällä taas.
+
+579
+00:59:09,500 --> 00:59:15,125
+Tervetuloa takaisin, teidän korkeutenne.
+Hienoa työtä. Oli kamala ikävä!
+
+580
+00:59:15,208 --> 00:59:20,333
+Ei jukra tätä huonetta!
+Rohmuat vain enemmän kirjoja.
+
+581
+00:59:20,416 --> 00:59:22,666
+Kirjat ovat ihmisviisauden summa.
+
+582
+00:59:22,750 --> 00:59:27,291
+Mahdoton unelmani on lukea
+kaikki maailman kirjat.
+
+583
+00:59:27,916 --> 00:59:33,833
+-Mitään edistystä pennun kanssa?
+-Ei kiinnosta.
+
+584
+00:59:33,916 --> 00:59:37,583
+Et välitä teinipojista.
+
+585
+00:59:38,666 --> 00:59:42,333
+Se nulikka ei tarvitse rakastajaa,
+vaan äidin.
+
+586
+00:59:42,416 --> 00:59:45,166
+<span style="s0">Lastaus logistisilta tukialuksilta
+on valmis.</span>
+
+587
+00:59:45,250 --> 00:59:46,958
+WILLEN SIEMENHOLVI
+VESIMELONI
+
+588
+00:59:47,041 --> 00:59:50,375
+<span style="s0">Kaikki logistiikkaupseerit,
+poistukaa tarvikealuksilta.</span>
+
+589
+00:59:50,458 --> 00:59:53,208
+Hyväksy tästä Kreditin itsenäinen toiminta
+
+590
+00:59:53,291 --> 00:59:57,166
+ja kaikkien rajoittimien poistaminen
+EVA-yksiköiltä, kapteeni Katsuragi.
+
+591
+01:00:00,291 --> 01:00:04,833
+Kapteeni ja yliluutnantti hyväksyvät.
+Maya, ole hyvä ja aloita.
+
+592
+01:00:04,916 --> 01:00:06,458
+Selvä, yliluutnantti.
+
+593
+01:00:09,125 --> 01:00:14,791
+Olet aina täällä, kun haluat olla yksin.
+Ehkä tämän pitäisi olla kapteenin huone.
+
+594
+01:00:16,041 --> 01:00:18,500
+Et voi unohtaa Ryojia, vai mitä?
+
+595
+01:00:18,583 --> 01:00:21,958
+Kyse ei ole Kajista.
+Rentoudun vain paremmin täällä.
+
+596
+01:00:23,208 --> 01:00:29,166
+Tällä osastolla on aluksen päätehtävä,
+kaikkien lajien säilyttäminen.
+
+597
+01:00:29,250 --> 01:00:34,583
+Miehittämätön, täysin autonominen arkki,
+jonka toimintakyky on lähes loputon.
+
+598
+01:00:34,666 --> 01:00:37,125
+Se on AAA Wunderin todellinen luonne.
+
+599
+01:00:37,208 --> 01:00:42,166
+Kajille ihmiskunnan selviytyminen
+ei ollut kovin tärkeää.
+
+600
+01:00:42,666 --> 01:00:46,083
+Hänelle tärkeintä oli säilyttää
+kaikki erilaiset elämänmuodot,
+
+601
+01:00:46,166 --> 01:00:50,250
+jotka Ihmisten instrumentaaliprojekti
+hävittäisi.
+
+602
+01:00:50,333 --> 01:00:55,333
+Hän halusi evakuoida mahdollisimman
+paljon elämänsiemeniä pois Maasta.
+
+603
+01:00:56,166 --> 01:01:00,708
+Hän kaappasi tämän aluksen NERViltä,
+kun sitä vielä rakennettiin.
+
+604
+01:01:01,500 --> 01:01:05,666
+Hän uskoi, että ihmiskunnan
+oli mahdoton estää Instrumentaaliprojekti.
+
+605
+01:01:06,416 --> 01:01:10,958
+Mutta lopulta hän antoi henkensä
+estääkseen Kolmannen iskun.
+
+606
+01:01:11,041 --> 01:01:15,750
+Hän kuoli mitä ristiriitaisimmalla ja
+itsekkäimmällä tavalla. Ärsyttävä typerys.
+
+607
+01:01:19,791 --> 01:01:21,625
+Ja nyt hän on poissa.
+
+608
+01:01:22,708 --> 01:01:26,000
+Tuhoan tämän aluksen avulla NERVin
+
+609
+01:01:26,083 --> 01:01:29,208
+<span style="s0">ja estän
+heidän Ihmisten instrumentaaliprojektinsa.</span>
+
+610
+01:01:29,708 --> 01:01:31,416
+Jotta saisit kostosi?
+
+611
+01:01:31,916 --> 01:01:37,083
+<span style="s0">Ei. Elämän säilyttämisen sijaan arkista
+tulee taistelulaiva, joka pelastaa elämiä.</span>
+
+612
+01:01:38,291 --> 01:01:41,583
+Kuulostat ihan äidiltä.
+
+613
+01:01:42,208 --> 01:01:45,416
+Minulla ei ole oikeutta siihen nimeen.
+
+614
+01:01:52,208 --> 01:01:55,083
+Kapteeni ja yliluutnantti komentosillalle.
+
+615
+01:01:55,166 --> 01:01:56,916
+NERVin päämaja alkoi liikkua.
+
+616
+01:01:57,000 --> 01:02:00,375
+<span style="s0">Se on luultavasti matkalla
+entisen etelänavan nollapisteeseen</span>
+
+617
+01:02:00,458 --> 01:02:01,875
+yhdessä Mustan kuun kanssa.
+
+618
+01:02:18,250 --> 01:02:21,875
+<span style="s0">Musta kuu ilmestyi uudelleen
+Neljättä iskua varten.</span>
+
+619
+01:02:22,583 --> 01:02:25,583
+Sitten luotiin edistynyt Ayanami-sarja.
+
+620
+01:02:25,666 --> 01:02:30,375
+Puhtaista sieluista tehdyt tahrattomat
+sukupuolettomat elämänmuodot
+
+621
+01:02:30,458 --> 01:02:33,708
+tarjotaan uhrilahjaksi Adamin säiliölle.
+
+622
+01:02:34,541 --> 01:02:38,500
+Ihmisten instrumentaaliprojekti,
+ihmiskunnan pelastautumisyritys...
+
+623
+01:02:39,250 --> 01:02:42,833
+Mihin ylimielisyys onkaan meidät johtanut.
+
+624
+01:02:50,083 --> 01:02:52,333
+Kolmas poika on palannut WILLEen.
+
+625
+01:02:53,083 --> 01:02:58,375
+Ayanami 6 ei ollut kunnolla kalibroitu.
+Se näyttää menettäneen muotonsa.
+
+626
+01:02:59,708 --> 01:03:05,666
+Laitoitko hänet kokemaan saman menetyksen
+kuin sinä opettaaksesi hänelle jotain?
+
+627
+01:03:11,208 --> 01:03:13,750
+Hän vaikuttaa henkisesti vakaalta.
+
+628
+01:03:14,333 --> 01:03:18,791
+Kapteeni Katsuragi.
+Mitä haluat tehdä Shinji Ikarin kanssa?
+
+629
+01:03:18,875 --> 01:03:20,958
+Olla tapaamatta häntä, kuten poikaasi?
+
+630
+01:03:21,041 --> 01:03:24,833
+Vangitseminen riittää.
+Minun ei tarvitse tavata häntä.
+
+631
+01:03:25,666 --> 01:03:28,583
+Oletko varma,
+ettei hän tarvitse DSS-pantaa?
+
+632
+01:03:29,250 --> 01:03:33,708
+Vapahdus on turhaa
+ellei ole valmis sovittamaan syntejään.
+
+633
+01:03:34,458 --> 01:03:40,041
+Misato. Esität kovaa, mutta
+olet oikeasti onnellinen, että hän palasi.
+
+634
+01:03:42,375 --> 01:03:45,958
+Tunteiden ohjaamat teot tuovat
+vain ongelmia. Tiedät sen.
+
+635
+01:03:47,500 --> 01:03:49,625
+Et tapasi mukaan säästele sanojasi.
+
+636
+01:03:49,708 --> 01:03:53,583
+Pehmoilu kanssasi tuo vain ongelmia.
+Tiedän sen.
+
+637
+01:03:58,666 --> 01:04:04,000
+Mikään muu ei muutu kehossani,
+mutta hiukseni kasvavat. Miten ärsyttävää.
+
+638
+01:04:05,500 --> 01:04:10,250
+Jumalat, korruptio ja halut...
+Ne kaikki elävät hiusten kuiduissa.
+
+639
+01:04:10,333 --> 01:04:13,583
+Ne ilmentävät ihmismielen kaaosta.
+
+640
+01:04:13,666 --> 01:04:17,250
+Se on kiistaton todiste,
+että olet ihminen, teidän korkeutenne.
+
+641
+01:04:33,208 --> 01:04:37,625
+Kirottu Toisen iskun nollapiste.
+
+642
+01:04:38,333 --> 01:04:41,041
+Kaikki Adamin säiliöt ovat valmiita.
+
+643
+01:04:41,125 --> 01:04:45,291
+Yksikkö 13:n uudelleenaktivointi
+on vain ajan kysymys.
+
+644
+01:04:45,916 --> 01:04:49,166
+Aloittakaamme siis, Fuyutsuki.
+
+645
+01:04:51,541 --> 01:04:52,583
+Hoidetaan loput.
+
+646
+01:04:54,041 --> 01:04:58,666
+Toistaiseksi kaikki etenee
+SEELEn suunnitelmien mukaan.
+
+647
+01:05:04,333 --> 01:05:05,791
+Mene vaan, Shinji!
+
+648
+01:05:07,125 --> 01:05:11,916
+Tee tämä itsellesi!
+Tee se toteuttaaksesi toiveesi!
+
+649
+01:05:20,291 --> 01:05:24,458
+<span style="s0">Huonoja uutisia, kapteeni.
+NERVin päämaja on saapunut määränpäähänsä.</span>
+
+650
+01:05:24,541 --> 01:05:27,166
+<span style="s0">Yksikkö 13:n uudelleenaktivointi
+on alkanut.</span>
+
+651
+01:05:27,875 --> 01:05:31,708
+Se tarkoittaa, että
+meillä on vain muutama tunti jäljellä.
+
+652
+01:05:31,791 --> 01:05:34,083
+Niin, mutta minulla on hyviäkin uutisia.
+
+653
+01:05:34,166 --> 01:05:38,208
+<span style="s0">Sammutussignaaliliittimet ovat valmiina,
+sekä molemmat EVAt minimitilassa.</span>
+
+654
+01:05:38,291 --> 01:05:41,083
+Selvä. Kaikki asemat,
+valmistautukaa laukaisuun.
+
+655
+01:05:41,708 --> 01:05:45,583
+<span style="s0">Keskeyttäkää kaikki työt 25 minuutin
+kuluttua. Lähtöön 30 minuuttia.</span>
+
+656
+01:05:45,666 --> 01:05:47,208
+Hätäinen kuten aina.
+
+657
+01:05:47,833 --> 01:05:52,041
+Valmistautukaa laukaisuun. Taisteluasemat
+kakkostilaan. Nousuun 25 minuuttia.
+
+658
+01:05:52,125 --> 01:05:54,625
+Työt on saatava valmiiksi 20 minuutissa.
+
+659
+01:05:54,708 --> 01:05:58,583
+<span style="s0">Kaikki asemat, valmistautukaa
+laukaisuun taisteluasematilassa 1.</span>
+
+660
+01:05:58,666 --> 01:06:01,791
+<span style="s0">Miehittämätön laivue,
+siirtykää laukaisuasemiin.</span>
+
+661
+01:06:01,875 --> 01:06:06,291
+<span style="s0">N1-raketin ajoaineinjektio valmis.
+Vaihdetaan sisävirtaan.</span>
+
+662
+01:06:06,375 --> 01:06:10,500
+<span style="s0">Viimeinen tilatarkistus alkaa. Aluksen
+ulkopuolisen miehistön täytyy poistua nyt!</span>
+
+663
+01:06:20,000 --> 01:06:22,250
+Onpa sinulla monta bandanaa,
+päällikkö Takao.
+
+664
+01:06:22,333 --> 01:06:26,083
+Yksi jokaista NERViä vastaan
+taistellessa kuollutta toveria kohti.
+
+665
+01:06:26,166 --> 01:06:30,875
+Siitä osasit erottaa viholliset
+liittolaisista kapinan aikana, vai mitä?
+
+666
+01:06:30,958 --> 01:06:35,125
+Kyllä. Haluamme palauttaa meren ja maan
+näiden värisiksi.
+
+667
+01:06:35,208 --> 01:06:38,250
+Se on lupauksemme symboli.
+
+668
+01:06:40,041 --> 01:06:44,625
+Kiitos. Tästä bandanasta on tullut
+Ryojin muistoesine.
+
+669
+01:07:03,333 --> 01:07:05,791
+Pidä huolta itsestäsi, Katsuragi.
+
+670
+01:07:09,541 --> 01:07:13,750
+Totta puhuen...
+halusin jäädä silloin Kajin luo.
+
+671
+01:07:14,583 --> 01:07:19,416
+Tiedän. Ehkä hän olisi antanut sinun
+jäädä, jollet olisi ollut raskaana.
+
+672
+01:07:22,291 --> 01:07:25,291
+Minun pitää mennä taisteluasemille,
+olen sairastuvassa.
+
+673
+01:07:25,375 --> 01:07:31,083
+Ikari, älä mene minnekään. Paina punaista
+nappia, jos haluat soittaa minulle.
+
+674
+01:07:31,958 --> 01:07:33,750
+Minä menen nyt.
+
+675
+01:07:41,041 --> 01:07:44,875
+Erityisen tehokas syvyyspaineenkestävä
+kokeellinen kapselipuku.
+
+676
+01:07:44,958 --> 01:07:47,166
+Näyttää ihan tuliterältä.
+
+677
+01:07:47,666 --> 01:07:51,333
+Totta kai saimme uudet puvut.
+Meidät haudataan niissä.
+
+678
+01:07:56,416 --> 01:08:01,750
+<span style="s0">Uusi yksikkö 02, JA-reaktori aktivoitu.
+Teho on vakaa. Aloittakaa energian kierto.</span>
+
+679
+01:08:01,833 --> 01:08:05,958
+<span style="s0">Parannellun yksikkö 08:n kytkentä
+Dragon-tukialukseen on kunnossa.</span>
+
+680
+01:08:06,041 --> 01:08:08,541
+<span style="s0">Ei erotustestiä.
+Laukaisemme sen sellaisenaan!</span>
+
+681
+01:08:08,625 --> 01:08:11,333
+<span style="s0">Poistetaan väliaikaisen häkin
+viimeinen lukkopultti.</span>
+
+682
+01:08:11,416 --> 01:08:14,166
+<span style="s0">Molemmat EVA-yksiköt
+valmistautuvat laukaisuun.</span>
+
+683
+01:08:25,458 --> 01:08:28,750
+Rillipää, poiketaan yhdessä paikassa.
+
+684
+01:08:31,083 --> 01:08:32,083
+Selvä.
+
+685
+01:08:32,166 --> 01:08:36,458
+<span style="s0">Säädetään uuden yksikkö 02:n
+ja yksikkö 08i:n sisäänmenoliitin.</span>
+
+686
+01:08:36,541 --> 01:08:40,625
+-Arvaa kuka.
+-En tiedä...
+
+687
+01:08:41,125 --> 01:08:46,958
+Annan vihjeen: ulkokatto ja silmälasit.
+Upea isotissinen tyttö.
+
+688
+01:08:47,958 --> 01:08:51,041
+-Laskuvarjotyttö?
+-Bingo!
+
+689
+01:08:51,125 --> 01:08:56,500
+En esitellyt itseäni.
+Olen maineikas Mari Illustrious-Makinami.
+
+690
+01:08:57,125 --> 01:09:00,250
+Mukava tavata taas, WILLE-pentu.
+
+691
+01:09:03,500 --> 01:09:06,583
+Olet muuttunut vähän.
+Haiset kai vähän aikuisemmalta.
+
+692
+01:09:06,666 --> 01:09:09,916
+Tuo nulikka ei muutu niin helpolla.
+
+693
+01:09:11,125 --> 01:09:16,916
+Loppu on lähellä, joten kysyn:
+tajusitko, miksi halusin mukiloida sinut?
+
+694
+01:09:20,333 --> 01:09:26,291
+Koska en osannut päättää,
+kun olit yksikkö 03:ssa.
+
+695
+01:09:27,500 --> 01:09:29,625
+En auttanut enkä tappanut sinua.
+
+696
+01:09:31,083 --> 01:09:33,500
+En halunnut ottaa vastuuta.
+
+697
+01:09:35,000 --> 01:09:40,333
+Olethan sinä kasvanut vähän.
+Loppu on lähellä, joten kerron sinulle.
+
+698
+01:09:41,166 --> 01:09:44,458
+Ne minulle tekemäsi eväät
+olivat aika maukkaat.
+
+699
+01:09:45,208 --> 01:09:48,125
+Taisin olla ihastunut sinuun silloin.
+
+700
+01:09:49,208 --> 01:09:52,875
+Mutta minusta on tullut aikuinen
+ennen sinua.
+
+701
+01:09:54,333 --> 01:09:55,333
+Terve.
+
+702
+01:09:57,791 --> 01:10:02,125
+Pärjäät hienosti.
+Saisit olla ylpeä itsestäsi, Shinji Ikari.
+
+703
+01:10:03,416 --> 01:10:04,500
+Näkyilee!
+
+704
+01:10:07,416 --> 01:10:12,875
+-Onko nyt parempi, teidän korkeutenne?
+-On.
+
+705
+01:10:15,333 --> 01:10:19,250
+<span style="s0">Molemmat EVA-pilotit ovat alkaneet
+kytkeä sisäänmenoliittimiään.</span>
+
+706
+01:10:19,333 --> 01:10:22,666
+Shinji, sinun pitää löytää
+ihan oma lepopaikkasi.
+
+707
+01:10:24,125 --> 01:10:29,375
+Sinua pidättelevät siteet näyttävät tien.
+Tapaamme vielä.
+
+708
+01:10:33,291 --> 01:10:35,750
+Olet oikeassa, Kaworu.
+
+709
+01:10:37,958 --> 01:10:41,625
+Apuvoimalaitteen teho vakaa.
+Päämoottorin kynnysarvo saavutettu.
+
+710
+01:10:41,708 --> 01:10:44,166
+Työntövoima nousee 11 600 000 tonniin.
+
+711
+01:10:44,250 --> 01:10:48,416
+Gyrokompassi toiminnassa.
+Ruorin ja painovoiman ohjaimet vihreitä.
+
+712
+01:10:48,500 --> 01:10:52,333
+Molemmat EVAt laukaisuasemissa.
+Aloittakaa alkusekvenssi.
+
+713
+01:10:52,416 --> 01:10:55,708
+Reititetään virta pääaseisiin.
+Energiavirrassa ei poikkeavuuksia.
+
+714
+01:10:55,791 --> 01:10:58,875
+Miehittämätön laivue
+on lukittu laukaisuasemaan.
+
+715
+01:10:58,958 --> 01:11:02,916
+Lopettakaa aluksen ulkopuoliset työt.
+Aseettomat valmiustilaan.
+
+716
+01:11:03,000 --> 01:11:05,958
+Kaikki asemat ovat nyt
+taisteluasematilassa yksi.
+
+717
+01:11:06,625 --> 01:11:09,416
+Kapteeni,
+kaikki asemat valmiina laukaisuun.
+
+718
+01:11:09,500 --> 01:11:12,458
+-Valmiina rynnäköimään NERVin päämajaan.
+-Selvä.
+
+719
+01:11:13,333 --> 01:11:18,750
+Kapteeni tiedottaa miehistöä. Estääkseen
+Neljännen iskun peruuttamattomasti
+
+720
+01:11:18,833 --> 01:11:23,458
+<span style="s0">tämä alus hyökkää nyt NERVin päämajaan
+entisen etelänavan nollapisteeseen.</span>
+
+721
+01:11:23,541 --> 01:11:29,166
+<span style="s0">Operaatio Yamato neutralisoi EVA-13:n,
+riittien laukaisimen.</span>
+
+722
+01:11:29,875 --> 01:11:32,833
+Teemme vihdoin lopun
+kaikesta tästä kaaoksesta.
+
+723
+01:11:33,666 --> 01:11:35,916
+Laukaiskaa Wunder!
+
+724
+01:12:12,666 --> 01:12:16,916
+Alkusekvenssi suoritettu.
+Siirretään hallinta taistelusillalle.
+
+725
+01:12:17,000 --> 01:12:19,958
+Saavutaan
+siemenvarastoyksiköiden poistokohtaan.
+
+726
+01:12:20,041 --> 01:12:22,625
+Selvä. Katkaiskaa yhteys Wunderiin.
+
+727
+01:12:22,708 --> 01:12:26,500
+<span style="s0">Vaihtakaa itsenäisiin
+sisävirta- ja hallintajärjestelmiin.</span>
+
+728
+01:12:27,291 --> 01:12:29,500
+Poistakaa kaikki siemenvarastoyksiköt.
+
+729
+01:13:00,541 --> 01:13:04,708
+Kaikki yksiköt siirretty L5:een.
+Autonomiset järjestelmät toiminnassa.
+
+730
+01:13:06,291 --> 01:13:10,000
+Aloittakaa laskeutuminen kohteeseen.
+Käynnistäkää paluu.
+
+731
+01:13:10,083 --> 01:13:12,500
+Selvä. Siirrytään ilmakehään.
+
+732
+01:13:28,791 --> 01:13:31,083
+Monitorit taas toiminnassa.
+
+733
+01:13:33,083 --> 01:13:37,041
+Edetään nollapisteeseen.
+Siirrytään L-hallintakentän rajapinnalle.
+
+734
+01:13:48,000 --> 01:13:51,208
+Suunnistetaan L-hallintakentän
+rajapinnalla. Kaikki valmista.
+
+735
+01:13:51,291 --> 01:13:56,000
+Olemme L-hallintakentän yllä, joka torjuu
+kaiken perisynnin turmeleman elämän.
+
+736
+01:13:58,208 --> 01:14:02,458
+Ihmiskunta etenee tämän
+puhdistetun alueen läpi ilman siunausta.
+
+737
+01:14:02,541 --> 01:14:05,541
+Se on Kajin datan
+ja L-vastajärjestelmän ansiota.
+
+738
+01:14:05,625 --> 01:14:08,500
+20 valmiina syöksymään L-hallintakentälle.
+
+739
+01:14:08,583 --> 01:14:11,041
+Selvä. Kaikki asemat, valmiina syöksyyn.
+
+740
+01:14:15,083 --> 01:14:17,708
+Osuma tyyrpuurin rungossa 2!
+Vahinko tuntematon!
+
+741
+01:14:17,791 --> 01:14:19,541
+Vihollisalus kello kolmessa!
+
+742
+01:14:23,166 --> 01:14:26,416
+Alus numero 2, <span style="s0">Erlösung,
+</span> jossa Opfer-tyypin järjestelmät!
+
+743
+01:14:26,500 --> 01:14:27,958
+Se on siis saatu valmiiksi.
+
+744
+01:14:28,625 --> 01:14:32,875
+Valitan, mutta meidän täytyy antaa
+Ikarin jatkaa vielä hetken pelejään.
+
+745
+01:14:36,833 --> 01:14:39,541
+Vitkutteletko estääksesi
+yksikkö 13:n uudelleenaktivoinnin?
+
+746
+01:14:39,625 --> 01:14:42,375
+Sama jumalanmurhaava voima kuin meillä.
+Huono juttu.
+
+747
+01:14:42,458 --> 01:14:45,333
+Antaa palaa!
+Tyyrpuurin aseet, valmiina ampumaan!
+
+748
+01:14:45,416 --> 01:14:49,791
+Pidämme NERVin aluksen loitolla,
+kun kiirehdimme syöksypisteeseen. Tulta!
+
+749
+01:15:10,500 --> 01:15:13,916
+Saimme monta osumaa!
+Heidän tulivoimansa on ylivoimainen!
+
+750
+01:15:14,000 --> 01:15:16,375
+Miten tuo voi olla
+saman luokan alus kuin tämä?
+
+751
+01:15:16,458 --> 01:15:22,333
+Meidän aluksemme on keskeneräinen. Mutta
+propulsiokonetehon suhteen... me voitamme!
+
+752
+01:15:29,041 --> 01:15:31,458
+L-hallintakentän syöksypiste saavutettu!
+
+753
+01:15:31,541 --> 01:15:33,375
+-Hätäsyöksy!
+-Selvä!
+
+754
+01:15:46,083 --> 01:15:48,708
+Läpäistään L-hallintakentän ykköskerros.
+
+755
+01:15:50,416 --> 01:15:53,791
+Saavutaan kakkoskerrokseen.
+L-hallintakentän tiheys +30.
+
+756
+01:15:53,875 --> 01:15:57,000
+EVA Infinity -joukko
+suoraan edessä kello 12:ssa!
+
+757
+01:15:57,083 --> 01:15:59,250
+Ei haittaa. Syöksymme sen läpi.
+
+758
+01:16:05,083 --> 01:16:08,791
+-Vihollisalus kello 12:ssa!
+-Väijytys?
+
+759
+01:16:12,458 --> 01:16:16,166
+Alus numero 3, Erbsünde...
+Jäimme keskelle saartohyökkäystä.
+
+760
+01:16:21,541 --> 01:16:24,666
+Tämä on paha! Navigointijärjestelmä
+ei kestä lisää osumia!
+
+761
+01:16:24,750 --> 01:16:27,291
+Kolmosaluksen varustelu on huono.
+Pudotamme sen ensin.
+
+762
+01:16:27,375 --> 01:16:30,916
+-Ruori vakaa. Maksimi taistelunopeus!
+-Selvä!
+
+763
+01:16:42,000 --> 01:16:43,833
+Kolmosalus vaihtaa suuntaa!
+
+764
+01:16:45,625 --> 01:16:47,833
+Älkää päästäkö sitä karkuun! Törmätkää!
+
+765
+01:16:55,583 --> 01:16:57,875
+Tämä on ihan hullua!
+
+766
+01:17:00,750 --> 01:17:03,500
+Kääntäkää meidät ympäri!
+Kiertäkää 180 astetta!
+
+767
+01:17:03,583 --> 01:17:07,041
+-Vaihdetaan asemia!
+-Selvä!
+
+768
+01:17:23,458 --> 01:17:28,458
+Käyttävät kolmosalusta kilpenä...
+Holtitonta kuten aina.
+
+769
+01:17:34,583 --> 01:17:39,083
+Lensimme Infinity-joukon läpi. Saavutaan
+L-hallintakentän kolmoskerrokseen.
+
+770
+01:17:39,166 --> 01:17:43,416
+Saavutettu kohde, NERVin päämaja.
+Se on jo siirtynyt Mustan kuun alle.
+
+771
+01:17:44,583 --> 01:17:47,041
+Yksikkö 13:n uudelleenaktivointi
+alkaa pian.
+
+772
+01:17:47,125 --> 01:17:50,208
+Alukset numero 2 ja 3 lähestyvät perää.
+
+773
+01:17:50,291 --> 01:17:55,166
+Aika on lopussa. Käytetään Kuuta peitteenä
+ja valmistaudutaan hyökkäykseen.
+
+774
+01:17:55,250 --> 01:17:59,666
+Ohjattavat ammukset valmiina laukaisuun.
+Kohde yksikkö 13:n uudelleensäätösektori.
+
+775
+01:17:59,750 --> 01:18:03,000
+NERVin taistelulaivat
+lähestyvät perää kello kuudessa!
+
+776
+01:18:04,541 --> 01:18:07,625
+Kallistakaa alusta.
+Säätäkää kohteen koko minimiin.
+
+777
+01:18:07,708 --> 01:18:09,083
+Selvä!
+
+778
+01:18:09,166 --> 01:18:12,291
+Irrottakaa paapuurin painovoimalasti.
+Alas 20.
+
+779
+01:18:12,375 --> 01:18:16,625
+Suojatkaa pääsiipien alukset!
+Keskittäkää AT-kenttämme!
+
+780
+01:18:25,083 --> 01:18:27,708
+Paha isku perän pääaseeseen!
+He päihittävät meidät!
+
+781
+01:18:27,791 --> 01:18:30,791
+Ei paniikkia!
+Sinnitelkää laukaisupisteeseen.
+
+782
+01:18:36,458 --> 01:18:39,791
+Kymmenen ohjattavien ammusten
+laukaisupisteeseen.
+
+783
+01:18:41,916 --> 01:18:44,708
+Lentorata selvä!
+Laukaiskaa kaikki ohjattavat ammukset!
+
+784
+01:18:44,791 --> 01:18:47,166
+Laukaistaan kaikki ohjattavat ammukset.
+
+785
+01:19:09,416 --> 01:19:12,458
+Lopullinen kohde yksikkö 13 näkyvissä!
+
+786
+01:19:13,083 --> 01:19:16,958
+Sitä ei ole vielä uudelleenaktivoitu.
+Yksikkö 13 on yhä paikallaan.
+
+787
+01:19:20,333 --> 01:19:25,916
+EVA 7 -sarja lähestyy!
+Niitä on tsiljoonittain! Mahdoton laskea.
+
+788
+01:19:26,000 --> 01:19:28,875
+Pikkujutuista viis!
+Kiirehtikää EVA-yksiköiden laukaisua!
+
+789
+01:19:28,958 --> 01:19:31,083
+Maya! Valmiina laukaisemaan molemmat EVAt!
+
+790
+01:19:31,166 --> 01:19:34,625
+-Selvä. Valmistaudun laukaisemaan EVAt!
+-Laukaisu!
+
+791
+01:19:40,000 --> 01:19:42,000
+Mari, Asuka, luotan teihin.
+
+792
+01:20:06,791 --> 01:20:08,250
+Pois tieltä!
+
+793
+01:20:27,958 --> 01:20:30,583
+Täältä tullaan! Sori, kaverit!
+
+794
+01:20:41,708 --> 01:20:44,708
+-Rillipää! Seuraava ase!
+-Selvä pyy!
+
+795
+01:20:56,750 --> 01:20:58,166
+Seuraava!
+
+796
+01:21:12,208 --> 01:21:13,416
+Teidän korkeutenne!
+
+797
+01:21:45,208 --> 01:21:47,791
+Vale-EVAt tukkivat tien. Miten ärsyttävää!
+
+798
+01:21:55,166 --> 01:21:57,708
+-Rillipää, auta vähän!
+-Selvä!
+
+799
+01:22:27,041 --> 01:22:29,958
+Molemmat EVAmme
+laskeutuivat NERVin päämajaan!
+
+800
+01:22:32,750 --> 01:22:35,208
+Kohteemme täytyy olla kraatterin alla.
+
+801
+01:22:56,416 --> 01:23:00,625
+Nuo tyypit... ovat aivan liian rasittavia!
+
+802
+01:23:09,375 --> 01:23:13,208
+-Mene vaan, teidän korkeutenne!
+-Kiitos, Rillipää!
+
+803
+01:23:37,541 --> 01:23:40,833
+EVA-yksikkö 13... Me selvisimme.
+
+804
+01:23:47,833 --> 01:23:50,166
+Vaikka he kutsuisivat sitä
+"Jumalan EVAksi",
+
+805
+01:23:50,250 --> 01:23:54,916
+se on vain 13. keinotekoinen
+äärimmäinen monitoimihumanoidiase.
+
+806
+01:23:57,333 --> 01:24:01,333
+Jos ammun pysäyttämisen ohituksen
+signaaliliittimen ytimeen,
+
+807
+01:24:01,416 --> 01:24:04,958
+vaikka se ei tuhoutuisi,
+se ei ainakaan pysty liikkumaan.
+
+808
+01:24:07,375 --> 01:24:10,625
+Tämä on... loppu!
+
+809
+01:24:17,541 --> 01:24:23,166
+AT-kenttä? Yksikkö 13:ssa
+ei kuulu olla AT-kenttää...
+
+810
+01:24:23,250 --> 01:24:24,541
+Miksi?
+
+811
+01:24:25,416 --> 01:24:28,666
+Hetkinen, onko tämä minun EVAni AT-kenttä?
+
+812
+01:24:28,750 --> 01:24:31,708
+Pelkääkö uusi yksikkö 02 yksikkö 13:a?
+
+813
+01:24:45,208 --> 01:24:48,916
+Jotain on pielessä.
+Mitä sinä juonit, Gendoh?
+
+814
+01:24:53,958 --> 01:24:58,083
+Outoa. NERVin alukset vetäytyvät.
+Ne laskeutuvat.
+
+815
+01:25:12,541 --> 01:25:16,250
+Tuo on Toisen iskun
+kirottu nollapiste, Golgata-tukikohta.
+
+816
+01:25:17,708 --> 01:25:20,916
+Helvetin portit ovat taas auki.
+Tarkoittaako tämä...
+
+817
+01:25:25,666 --> 01:25:27,125
+Valon siivet?
+
+818
+01:25:27,791 --> 01:25:31,791
+<span style="s0">Haluavatko he aiheuttaa Neljännen iskun
+Toisen menetelmällä?</span>
+
+819
+01:25:31,875 --> 01:25:36,500
+<span style="s0">Ei. He eivät voi käyttää Gufin vartijoina
+toimivia aluksia laukaisimena.</span>
+
+820
+01:25:37,250 --> 01:25:40,333
+<span style="s0">Sitä paitsi Mustan kuun muutos
+ei ole osa suunnitelmaa.</span>
+
+821
+01:25:40,416 --> 01:25:44,666
+<span style="s0">Tämä ei ole SEELEn suunnitelmissa.
+Emme tiedä tästä riitistä mitään.</span>
+
+822
+01:25:44,750 --> 01:25:48,041
+Täysin odottamaton Uusi isku siis.
+
+823
+01:25:50,291 --> 01:25:53,833
+<span style="s0">Tämä ei muuta mitään.
+Tuhoamme kaikki NERVin suunnitelmat!</span>
+
+824
+01:25:53,916 --> 01:25:57,166
+Pääaseet valmiina!
+Tuhotkaa Alus numero 3 ensin.
+
+825
+01:25:57,250 --> 01:26:00,166
+Kaikki mahdolliset aseet, kohde numero 3!
+
+826
+01:26:00,250 --> 01:26:04,083
+Sähkömagneettiset törmäyskilvet valmiina.
+Ennustelaskelmia ei tarvita!
+
+827
+01:26:04,166 --> 01:26:06,291
+Kaikki tornit, aloittakaa tulitus!
+
+828
+01:26:06,375 --> 01:26:10,833
+-Rakennussuunnitelmassa oli neljä alusta.
+-Tulta!
+
+829
+01:26:14,250 --> 01:26:15,250
+Tilanneraportti!
+
+830
+01:26:15,333 --> 01:26:19,083
+Suora osuma! Jokin lävisti
+tyyrpuurin ja paapuurin toiset rungot!
+
+831
+01:26:19,166 --> 01:26:22,416
+Perä vaurioitunut.
+Pääasejärjestelmät kaatuneet!
+
+832
+01:26:30,250 --> 01:26:34,291
+Alus numero 4, Gebet.
+Lankesimme heidän ansaansa.
+
+833
+01:26:37,958 --> 01:26:41,666
+He tarvitsevat joka tapauksessa tätä
+viimeisessä iskussa.
+
+834
+01:26:41,750 --> 01:26:45,083
+Siitä täytyy päästä heti eroon.
+
+835
+01:26:46,166 --> 01:26:48,791
+Se on suoraan edessäni,
+mutten pääse läpi...
+
+836
+01:26:49,958 --> 01:26:54,833
+Viimeisen keinon aika. Valitan,
+uusi yksikkö 02. Nyt pitää mennä täysillä.
+
+837
+01:26:55,666 --> 01:26:59,333
+Poistakaa kaikki rajoittimet.
+Takaporttikoodi Tripla-9.
+
+838
+01:27:19,875 --> 01:27:23,916
+Sininen malli! Sain lukemia
+9. Enkelistä NERVin päämajassa!
+
+839
+01:27:25,916 --> 01:27:28,166
+Aiotko käyttää Enkelin voimaa?
+
+840
+01:27:37,125 --> 01:27:42,208
+Enkelin verta... Täysi injektio!
+
+841
+01:28:34,125 --> 01:28:36,833
+Teidän korkeutenne,
+sitten et ole enää ihminen!
+
+842
+01:28:46,625 --> 01:28:52,416
+Neutraloin uuden yksikkö 02:n AT-kentän
+omalla AT-kentälläni!
+
+843
+01:29:31,666 --> 01:29:34,041
+Eikö se ole yhden kapselin järjestelmä?
+
+844
+01:29:44,291 --> 01:29:47,750
+Voi ei! Gendoh halusi,
+että prinsessasta tulee Enkeli!
+
+845
+01:30:02,416 --> 01:30:06,041
+Shikinami-tyyppi? Minun alkuperäiseni.
+
+846
+01:30:11,791 --> 01:30:14,708
+Viimeisen EVAn muoto
+kuvastaa Jumalan muotoa.
+
+847
+01:30:14,791 --> 01:30:20,583
+Sinun täytyy vain hyväksyä
+minut ja rakkauteni. Tule luokseni.
+
+848
+01:30:23,875 --> 01:30:24,958
+Harmin paikka.
+
+849
+01:30:30,208 --> 01:30:32,083
+Hyödytöntä, söpö idioottini.
+
+850
+01:30:55,500 --> 01:30:56,500
+Asuka!
+
+851
+01:30:56,583 --> 01:31:00,166
+Uuden yksikkö 02:n signaali pimeni!
+Pilotin status tuntematon!
+
+852
+01:31:02,791 --> 01:31:06,750
+-N2-reaktorin apuvoimalaite vaurioitunut!
+-Hemmetti! Mitä nyt?
+
+853
+01:31:10,291 --> 01:31:13,250
+Jokin EVAn kaltainen
+on kiinnittynyt alukseen!
+
+854
+01:31:17,166 --> 01:31:22,041
+-Sininen malli. Se on Opfer-tyypin EVA.
+-Rakensivatko he Mk.9:n ja pilotin alusta?
+
+855
+01:31:29,250 --> 01:31:33,875
+-Tämä on paha! Alukseen tunkeudutaan!
+-Poistakaa se heti!
+
+856
+01:31:33,958 --> 01:31:38,083
+Yritämme, mutta kontaminaationopeus
+on liian suuri, emme pysy perässä!
+
+857
+01:31:41,333 --> 01:31:42,458
+AAA WUNDER PALAUTETTU
+
+858
+01:31:43,250 --> 01:31:45,458
+Mk.9 on läpäissyt VD-palomuurin!
+
+859
+01:31:45,541 --> 01:31:48,791
+Olemme hukassa!
+Kaikki hallintajärjestelmät on kaapattu!
+
+860
+01:31:53,208 --> 01:31:54,541
+LUKITUS AKTIIVINEN - HÄIRIÖ
+
+861
+01:32:01,500 --> 01:32:03,416
+Olemme todellakin liemessä.
+
+862
+01:32:03,500 --> 01:32:06,541
+Vaikuttavaa kuten aina,
+varakomentaja Fuyutsuki.
+
+863
+01:32:21,458 --> 01:32:23,958
+Lilithin keinotekoinen uudelleenluominen.
+
+864
+01:32:24,041 --> 01:32:27,125
+Mustan kuun pakolla muuttaminen keihäiksi.
+
+865
+01:32:27,958 --> 01:32:33,166
+Näyttämö on valmiina.
+Miten päätät tämän draaman, Ikari?
+
+866
+01:32:35,875 --> 01:32:38,041
+Tunkeutuja keulakannella!
+
+867
+01:32:40,541 --> 01:32:41,958
+Komentaja Ikari.
+
+868
+01:32:48,500 --> 01:32:52,291
+Anteeksi, teidän korkeutenne.
+Olen täynnä sietämätöntä häpeää.
+
+869
+01:32:53,375 --> 01:32:56,291
+En kai voi muuta
+kuin vetäytyä toistaiseksi.
+
+870
+01:33:05,000 --> 01:33:06,416
+Siitä onkin aikaa.
+
+871
+01:33:09,583 --> 01:33:11,083
+Komentaja Ikari.
+
+872
+01:33:13,166 --> 01:33:16,166
+Onnittelut kovasta työstäsi,
+eversti Katsuragi.
+
+873
+01:33:17,166 --> 01:33:20,541
+Alan nyt käyttää alusta
+aiemman suunnitelman mukaan.
+
+874
+01:33:23,250 --> 01:33:27,416
+Sinä... Ammu ensin, kysy sitten, näemmä.
+
+875
+01:33:27,500 --> 01:33:31,375
+Et tapasi mukaan epäröi,
+kun haluat saavuttaa tavoitteesi.
+
+876
+01:33:31,458 --> 01:33:34,125
+Niinpä. Opin sen sinulta.
+
+877
+01:33:47,166 --> 01:33:53,083
+Jumalat eivät tarvitse rajoja.
+Hyväksymme kaiken, mitä tiellemme tulee.
+
+878
+01:33:53,791 --> 01:33:55,333
+Gendoh Ikari.
+
+879
+01:33:55,416 --> 01:33:59,000
+Oletko käyttänyt Nebukadressar-avainta
+ja hylännyt inhimillisyytesi?
+
+880
+01:33:59,083 --> 01:34:02,291
+Liitin vain ruumiiseeni tietoja,
+
+881
+01:34:02,375 --> 01:34:06,333
+jotka ylittävät valtakuntamme
+käsityskyvyn. Siinä ei ole ongelmaa.
+
+882
+01:34:11,416 --> 01:34:16,041
+Murhaan jumalat, teen heistä inhimillisiä,
+
+883
+01:34:16,125 --> 01:34:18,000
+ja Enkelten uhrauksen myötä
+
+884
+01:34:18,083 --> 01:34:21,041
+suoritan jumalallistamisen
+ja ihmisten instrumentalisoinnin.
+
+885
+01:34:21,125 --> 01:34:24,958
+Aiotko uhrata Asukan sen vuoksi,
+Gendoh Ikari?
+
+886
+01:34:25,500 --> 01:34:31,083
+Ayanami- ja Shikinami-tyypin pilotit
+valmistettiin nimenomaan tätä varten.
+
+887
+01:34:31,916 --> 01:34:33,458
+Siinä ei ole ongelmaa.
+
+888
+01:35:02,750 --> 01:35:08,708
+Inhimillisyys... Ei, vaan kaikki planeetan
+muinainen elämä tuotteistetaan.
+
+889
+01:35:09,333 --> 01:35:12,125
+Kaikki sielut muutetaan ytimiksi
+
+890
+01:35:12,208 --> 01:35:16,833
+ja sulautetaan EVA Infinityihin.
+Onko tämä Neljännen iskun alkua?
+
+891
+01:35:19,083 --> 01:35:23,958
+Kyllä. Toinen isku puhdisti valtameret.
+
+892
+01:35:24,041 --> 01:35:29,875
+<span style="s0">Kolmas puhdisti maan.
+Neljäs puhdistaa sielut.</span>
+
+893
+01:35:29,958 --> 01:35:35,041
+<span style="s0">EVA Infinityt muodostavat ytimet
+ovat sielujen materialisaatio.</span>
+
+894
+01:35:36,541 --> 01:35:39,208
+Luovumme säiliöistämme, ihmisen siemenistä
+
+895
+01:35:39,291 --> 01:35:44,708
+<span style="s0">ja kollektiivinen älykkyytemme ohjataan
+paratiisiin tässä viimeisessä riitissä.</span>
+
+896
+01:35:45,625 --> 01:35:51,541
+Vastineeksi Toisesta iskusta
+isäsi tohtori Katsuragi
+
+897
+01:35:51,625 --> 01:35:56,166
+todisti ehdotuksensa, Ihmisten
+instrumentaaliprojektin pätevyyden.
+
+898
+01:35:56,916 --> 01:35:59,875
+Estän isäni houreet
+hinnalla millä hyvänsä.
+
+899
+01:36:00,500 --> 01:36:05,708
+Ihmiskunnan maistettua tiedon hedelmää
+heitä odottaa vain kaksi polkua.
+
+900
+01:36:05,791 --> 01:36:09,750
+<span style="s0">Elämän hedelmän syöneet Enkelit
+voivat hävittää heidät.</span>
+
+901
+01:36:09,833 --> 01:36:12,958
+<span style="s0">Tai sitten he voivat hävittää Enkelit,
+viedä heidän paikkansa,</span>
+
+902
+01:36:13,041 --> 01:36:17,875
+<span style="s0">luovuttaa älykkyytensä ja elää ikuisesti
+jumalallisina jälkeläisinä.</span>
+
+903
+01:36:18,375 --> 01:36:21,166
+<span style="s0">Meidän pitää valita
+näistä kohtaloista toinen.</span>
+
+904
+01:36:21,666 --> 01:36:24,416
+<span style="s0">NERVin Ihmisten
+instrumentaaliprojekti syntyi,</span>
+
+905
+01:36:24,500 --> 01:36:28,208
+<span style="s0">kun SEELE valitsi jälkimmäisen,
+heikon vastarinnan</span>
+
+906
+01:36:28,291 --> 01:36:30,750
+Adamien voimia käyttäviä jumalia kohtaan.
+
+907
+01:36:30,833 --> 01:36:34,125
+Se on joka tapauksessa
+tavoittelemisen arvoinen asia.
+
+908
+01:36:34,208 --> 01:36:39,250
+Hylkäämme suunnitelman, joka kumartaa
+jumalia ja aloittaa kaiken alusta.
+
+909
+01:36:39,791 --> 01:36:41,958
+Jatkamme eteenpäin uskoen itseemme.
+
+910
+01:36:42,041 --> 01:36:45,208
+Uskon siihen,
+että ihmiskunnan tahto ja tietämys
+
+911
+01:36:45,291 --> 01:36:47,458
+päihittävät vielä jumalten voimat.
+
+912
+01:36:48,083 --> 01:36:53,625
+Kyse on vain totuuden tulkinnasta.
+Eversti Katsuragi, hylkäät maailman.
+
+913
+01:36:53,708 --> 01:36:56,791
+Tohtori Akagi,
+et näe, mitä onni voi tarjota.
+
+914
+01:36:57,416 --> 01:37:00,166
+Ihmisten tunteet eivät voi muuttaa mitään.
+
+915
+01:37:02,166 --> 01:37:05,458
+Kaikki ratsastajat ovat nyt kokoontuneet.
+
+916
+01:37:14,458 --> 01:37:19,041
+Palautat nyt EVA-yksikkö 01:n,
+jonka lainasin sinulle.
+
+917
+01:37:21,666 --> 01:37:23,083
+Isä!
+
+918
+01:38:34,500 --> 01:38:37,166
+Selvisimme Lähes kolmannestakin iskusta.
+
+919
+01:38:37,250 --> 01:38:40,458
+Uskon onneemme ja Misato-sanin WILLEen.
+
+920
+01:38:44,291 --> 01:38:49,125
+Gufin porttien takana on antiuniversumi,
+valtakunta, jonne Wunder ei pääse.
+
+921
+01:38:50,000 --> 01:38:54,291
+WILLE ei kykene enää estämään
+Instrumentaaliprojektia.
+
+922
+01:38:55,291 --> 01:38:58,750
+-Olemme tiemme päässä.
+-Misato-san.
+
+923
+01:39:00,375 --> 01:39:02,750
+Minä ohjaan EVA-yksikkö 01:tä.
+
+924
+01:39:22,500 --> 01:39:25,291
+Kotimatkalla Ayanamin katoamisen jälkeen
+
+925
+01:39:25,375 --> 01:39:28,166
+huomasin maan hajun.
+Opin sen Kaji-sanilta.
+
+926
+01:39:31,125 --> 01:39:34,208
+Haluan ottaa puolet taakastasi.
+
+927
+01:39:35,125 --> 01:39:39,166
+Sitten sinun täytyy taistella
+Gendoh Ikaria vastaan.
+
+928
+01:39:43,583 --> 01:39:46,208
+Haluan hoitaa asiat itse.
+
+929
+01:39:58,083 --> 01:39:59,333
+Odottakaa!
+
+930
+01:40:00,166 --> 01:40:04,125
+Oletko tosissasi?
+Et kai anna hänen ohjata EVAa?
+
+931
+01:40:07,125 --> 01:40:09,166
+Pelkäsin jotain tällaista.
+
+932
+01:40:10,000 --> 01:40:14,166
+Annoit meille luvan ampua hänet
+tällaisessa tilanteessa, eikö?
+
+933
+01:40:15,291 --> 01:40:21,250
+Olet vitsaus! Se L3I, jonka aloitit,
+teki elämästämme helvettiä!
+
+934
+01:40:21,333 --> 01:40:27,000
+Tämä kaikki on sinun ja isäsi syytä.
+En anna teille koskaan anteeksi!
+
+935
+01:40:32,541 --> 01:40:36,000
+-Sakura?
+-Shinji Ikari ei ohjaa EVAa.
+
+936
+01:40:36,791 --> 01:40:42,750
+Ikari-san ohjasi EVAa
+ja aiheutti meille ja itselleen epäonnea.
+
+937
+01:40:42,833 --> 01:40:45,583
+Siksi Ikari-san ei ohjaa EVAa!
+
+938
+01:40:46,750 --> 01:40:51,041
+Olen pahoillani, Sakura-san.
+Ole kiltti ja anna minun ohjata EVAa.
+
+939
+01:40:51,125 --> 01:40:56,958
+Tuo on pelkkää hölynpölyä! Sinun
+ei tarvitse käyttää EVAa haavoittuneena.
+
+940
+01:40:57,041 --> 01:41:01,458
+Se sattuu, mutta parempi niin
+kuin pilottina olo. Koeta kestää!
+
+941
+01:41:04,166 --> 01:41:06,083
+-Misato!
+-Kapteeni!
+
+942
+01:41:07,000 --> 01:41:10,791
+-Misato-san?
+-Ei hätää, Shinji.
+
+943
+01:41:11,958 --> 01:41:17,916
+Jollet olisi ohjannut EVA-yksikkö 01:tä
+14 vuotta sitten, meidät olisi hävitetty.
+
+944
+01:41:18,666 --> 01:41:23,583
+Siksi olen kiitollinen sinulle,
+vaikka L3I tapahtuikin sen seurauksena.
+
+945
+01:41:25,041 --> 01:41:28,416
+Minä olen täysin vastuussa teoistasi.
+
+946
+01:41:28,500 --> 01:41:32,333
+Minä, Misato Katsuragi,
+olen yhä Shinji Ikarin huoltaja.
+
+947
+01:41:32,416 --> 01:41:35,916
+Otan täyden vastuun
+hänen seuraavista teoistaan.
+
+948
+01:41:38,000 --> 01:41:41,750
+Nyt haluan antaa kaiken
+Shinjin hoidettavaksi.
+
+949
+01:41:45,250 --> 01:41:50,750
+Se on totta! Saamme kaikki kiittää
+Ikari-sania pelastamisestamme!
+
+950
+01:41:50,833 --> 01:41:54,250
+Mutta isäni ja niin monet muut
+menehtyivät L3I:ssä!
+
+951
+01:41:54,333 --> 01:42:00,000
+Ikari-san on pelastajamme ja tuhoajamme!
+Meillä ei ole vaihtoehtoja!
+
+952
+01:42:02,291 --> 01:42:05,416
+Ei se mitään. Anna olla, Sakura.
+
+953
+01:42:06,750 --> 01:42:09,666
+Mietitään nyt,
+mitä teemme tulevaisuudessa.
+
+954
+01:42:09,750 --> 01:42:12,916
+Tämä kaikki on niin...
+
+955
+01:42:20,000 --> 01:42:21,416
+Sori, kaikki!
+
+956
+01:42:24,416 --> 01:42:29,166
+Valmistelut saivat minut myöhästymään.
+Mennään sitten, pentu.
+
+957
+01:42:31,791 --> 01:42:34,625
+Maya, hae kapselipuku kapteenin huoneesta.
+
+958
+01:42:37,791 --> 01:42:42,208
+Luoti liukenee äkkiä.
+Annan sinulle ensiapua.
+
+959
+01:42:42,291 --> 01:42:43,958
+Ei se mitään, luutnantti.
+
+960
+01:42:45,833 --> 01:42:47,125
+Shinji Ikari...
+
+961
+01:42:48,333 --> 01:42:51,666
+Ainoa asia,
+jonka poika voi tehdä isälleen,
+
+962
+01:42:51,750 --> 01:42:56,958
+on taputtaa häntä olalle tai tappaa hänet.
+Kajin sanoja.
+
+963
+01:42:58,250 --> 01:43:01,208
+Misato-san, tapasin Ryoji Kajin.
+
+964
+01:43:02,041 --> 01:43:04,291
+-Voiko hän hyvin?
+-Kyllä.
+
+965
+01:43:05,083 --> 01:43:09,625
+-Se on hyvä kuulla.
+-Hän on mukava mies.
+
+966
+01:43:10,166 --> 01:43:13,291
+Puhuimme vain vähän aikaa,
+mutta pidin hänestä.
+
+967
+01:43:14,125 --> 01:43:15,333
+Kiitos.
+
+968
+01:43:18,208 --> 01:43:22,416
+Tuen sinua. Luotan sinuun, Shinji.
+
+969
+01:43:26,166 --> 01:43:29,833
+-Misato-san, menen nyt.
+-Pidä huolta itsestäsi, Shinji.
+
+970
+01:43:49,375 --> 01:43:50,958
+Mennään takaisin töihin.
+
+971
+01:43:51,041 --> 01:43:56,416
+Alus romuttuu. Pää- ja lisämoottorit ovat
+hajalla. Ihme, että olemme vielä pystyssä.
+
+972
+01:43:56,500 --> 01:44:01,916
+Ei se mitään. Keksimme uuden ihmeen,
+ennen kuin varavirta loppuu.
+
+973
+01:44:03,125 --> 01:44:09,083
+Parannellussa EVA-yksikkö 08:ssa on mukana
+Adamin säiliö. Siinä on neljä tilaa.
+
+974
+01:44:09,166 --> 01:44:13,750
+Jotta voimme kulkea antiuniversumin läpi.
+Aika siistiä.
+
+975
+01:44:14,708 --> 01:44:19,583
+No niin. Tehtäväsi on tuhota yksikkö 13
+ennen kuin L-vastajärjestelmät tuhoutuvat
+
+976
+01:44:19,666 --> 01:44:25,250
+ja kaikki joutuvat ydintilaan.
+Se on ainoa tapa korjata tilanne.
+
+977
+01:44:25,916 --> 01:44:30,541
+-Ymmärrän.
+-Gendoh on kyllä pirun viekas.
+
+978
+01:44:30,625 --> 01:44:33,958
+Hän käytti hyväksi antiuniversumia
+ja kvanttiteleportaatiota.
+
+979
+01:44:34,041 --> 01:44:37,291
+Häntä ei ole helppo napata.
+
+980
+01:44:38,208 --> 01:44:41,041
+Ei hätää, Mari-san. Menen nyt.
+
+981
+01:44:42,166 --> 01:44:47,750
+Pentu, on mahdollista, että
+prinsessan sielu on yksikkö 13:n sisällä.
+
+982
+01:44:47,833 --> 01:44:50,583
+Ole kiltti, prinsessa...
+Asuka tarvitsee apuasi.
+
+983
+01:44:51,500 --> 01:44:54,750
+Ei hätää. Ayanami...
+
+984
+01:45:02,083 --> 01:45:06,166
+Tulen hakemaan sinua, missä ikinä olet.
+
+985
+01:45:06,958 --> 01:45:09,000
+Odota minua, Shinji!
+
+986
+01:45:09,625 --> 01:45:13,666
+Kiitos. Odotan sinua.
+
+987
+01:45:17,791 --> 01:45:19,208
+Onnea matkaan.
+
+988
+01:45:19,583 --> 01:45:21,500
+Eikö tämä haittaa sinua, Rei?
+
+989
+01:45:22,791 --> 01:45:28,125
+-Ayanami...
+-Shinji... Olen pahoillani.
+
+990
+01:45:28,625 --> 01:45:33,416
+Yritin toimia niin, ettei sinun tarvitsisi
+enää ohjata EVAa, mutta epäonnistuin.
+
+991
+01:45:33,500 --> 01:45:37,541
+Ei se mitään. Kiitos, Ayanami.
+Minä jatkan tästä.
+
+992
+01:45:38,416 --> 01:45:40,041
+Kyllä, kiitos.
+
+993
+01:45:47,166 --> 01:45:49,750
+Yksikkö 01:n pilotti on siis herännyt.
+
+994
+01:45:49,833 --> 01:45:54,541
+Siirtyminen antiuniversumista 08i:n
+kautta. EVA-01 on uudelleenaktivoitu!
+
+995
+01:45:54,625 --> 01:45:59,208
+Se ei voi olla totta! Pahanilmanlinnun
+synkronointitaso oli nolla!
+
+996
+01:45:59,291 --> 01:46:04,916
+Voiko olla, että Shinjin synkronointi ei
+ollutkaan nolla, vaan nollan lähin arvo?
+
+997
+01:46:05,000 --> 01:46:08,208
+Kyllä, hänen synkronointitasonsa
+on ääretön.
+
+998
+01:46:21,958 --> 01:46:24,875
+Se muuttui Cassiukseksi, toivon keihääksi.
+
+999
+01:46:28,875 --> 01:46:34,583
+-Sinun täytyy lopettaa tämä, isä!
+-En voi.
+
+1000
+01:46:35,291 --> 01:46:37,791
+Minun täytyy toteuttaa suunnitelma.
+
+1001
+01:46:45,583 --> 01:46:46,750
+SIIRRETTY
+ANTIUNIVERSUMIDATA
+
+1002
+01:46:46,833 --> 01:46:51,416
+Mitä tuo mies aikoo tehdä
+pakottamalla Uuden iskun?
+
+1003
+01:46:51,500 --> 01:46:54,708
+Uuden iskun aiheuttamiselle
+voi olla vain yksi syy.
+
+1004
+01:46:54,791 --> 01:46:57,166
+Hän loi uuden keihään Neljänteen iskuun,
+
+1005
+01:46:57,250 --> 01:47:00,166
+mutta säästi kaksi keihästä loppuun.
+
+1006
+01:47:00,833 --> 01:47:04,166
+Luultavasti toteuttaakseen
+yhden ainoan toiveen.
+
+1007
+01:47:04,250 --> 01:47:06,583
+Se on tyhmää. Mikä itsekäs idiootti.
+
+1008
+01:47:09,000 --> 01:47:11,250
+Olemme pian taas yhdessä, Yui.
+
+1009
+01:47:12,375 --> 01:47:16,208
+En pysty liikkumaan. Isä, päästä minut!
+
+1010
+01:47:19,791 --> 01:47:22,875
+-Mikä tuo on?
+-Golgata-objekti.
+
+1011
+01:47:22,958 --> 01:47:25,625
+Olennot, jotka eivät olleet ihmisiä,
+
+1012
+01:47:25,708 --> 01:47:30,875
+jättivät tähän paikkaan kuusi keihästä,
+Adamit ja jumalten maailman.
+
+1013
+01:47:30,958 --> 01:47:34,666
+Myös vaimoni, äitisi, oli täällä.
+
+1014
+01:47:35,250 --> 01:47:38,541
+Tämä on luvattu maa,
+paikka, josta kaikki alkoi.
+
+1015
+01:47:38,625 --> 01:47:41,375
+Ihminen ei voi muuttaa kaikkea,
+paitsi täällä.
+
+1016
+01:47:41,458 --> 01:47:45,375
+Tämä on ainoa paikka, jossa
+jopa kohtalon voi taivuttaa tahtoonsa.
+
+1017
+01:47:52,500 --> 01:47:56,416
+Missä me olemme? EVA-häkissä?
+
+1018
+01:47:57,916 --> 01:48:01,166
+-Mikä tämä paikka on?
+-Tämä on muistojesi maailma.
+
+1019
+01:48:01,791 --> 01:48:07,166
+-Isä?
+-Aistimme eivät havaitse antiuniversumia.
+
+1020
+01:48:07,791 --> 01:48:12,666
+Siksi LCL on luonut virtuaaliympäristön,
+jonka voimme havaita.
+
+1021
+01:48:13,500 --> 01:48:15,541
+Luovuta yksikkö 01 viipymättä.
+
+1022
+01:48:16,166 --> 01:48:19,875
+Sitten voit taas tavata äitisi.
+
+1023
+01:48:27,750 --> 01:48:29,166
+VAARA
+
+1024
+01:48:30,291 --> 01:48:35,000
+Aiotko nousta turhanpäiväiseen
+vastarintaan? Siksi en pidä lapsista.
+
+1025
+01:48:49,750 --> 01:48:52,916
+Hyvä on, mennään sitten kiertotietä.
+
+1026
+01:50:41,125 --> 01:50:46,333
+Mitä tapahtuu? Meillä on samat liikkeet.
+Tämä on vaikeaa!
+
+1027
+01:50:46,416 --> 01:50:48,750
+EVAt ovat täydelliset vastakappaleet.
+
+1028
+01:50:48,833 --> 01:50:52,625
+Yksikkö 01 ilmentää toivoa,
+yksikkö 13 epätoivoa.
+
+1029
+01:50:53,208 --> 01:50:56,083
+Ne on synkronoitu ja viritetty toisiinsa.
+
+1030
+01:50:56,583 --> 01:50:59,625
+Tämä on myös siirtymäriitti,
+joka minun täytyy läpäistä.
+
+1031
+01:51:00,500 --> 01:51:02,208
+Lopeta, isä!
+
+1032
+01:51:05,708 --> 01:51:11,125
+Tuo on hyödytöntä.
+Heikot voimasi eivät pysäytä minua.
+
+1033
+01:51:36,250 --> 01:51:38,500
+Et vieläkään ymmärrä.
+
+1034
+01:51:48,458 --> 01:51:50,416
+Voimasi ovat hyödyttömiä.
+
+1035
+01:51:55,083 --> 01:52:00,500
+Konfliktiamme ei ratkaista
+väkivallan ja pelon perusteella.
+
+1036
+01:52:24,416 --> 01:52:28,375
+Uskotko jo?
+Tätä ei voi ratkaista voiman avulla.
+
+1037
+01:52:31,000 --> 01:52:32,916
+Haluan puhua kanssasi, isä.
+
+1038
+01:52:34,500 --> 01:52:38,625
+Isä... mitä yrität tehdä täällä?
+
+1039
+01:52:39,250 --> 01:52:44,125
+Jotain, jonka voi tehdä vain täällä
+Golgata-objektissa. Lisäiskun.
+
+1040
+01:52:44,875 --> 01:52:48,583
+Sen myötä voin murhata jumalat.
+
+1041
+01:52:49,541 --> 01:52:54,083
+Toimitin sen vuoksi
+kaksi keihästä tähän maahan.
+
+1042
+01:52:55,166 --> 01:52:57,791
+MAGI-kopio ennustaa,
+
+1043
+01:52:57,875 --> 01:53:01,541
+<span style="s0">että komentaja Ikari käyttää
+kaksi viimeistä keihästä vasta lopussa.</span>
+
+1044
+01:53:01,625 --> 01:53:06,541
+Kun kaikki keihäät ovat poissa,
+Shinji ei voi pysäyttää käyttöönottoa.
+
+1045
+01:53:06,625 --> 01:53:07,833
+Mitä me sitten teemme?
+
+1046
+01:53:07,916 --> 01:53:11,750
+Teemme uuden keihään
+ja toimitamme sen hänelle.
+
+1047
+01:53:11,833 --> 01:53:14,875
+Se on mahdotonta.
+Miten muka ajattelit tehdä sen?
+
+1048
+01:53:14,958 --> 01:53:17,500
+<span style="s0">Kun alus kaapattiin
+ja palautettiin </span> Bußeen,
+
+1049
+01:53:17,583 --> 01:53:21,875
+<span style="s0">alukset käyttivät Mustaa kuuta
+tuntemattomien keihäiden raaka-aineena.</span>
+
+1050
+01:53:22,500 --> 01:53:26,458
+<span style="s0">Tämän aluksen täytyy
+jotenkin voida luoda uusi keihäs.</span>
+
+1051
+01:53:27,083 --> 01:53:30,333
+Kun ihmisen tahto täyttyy toivolla,
+se voi tehdä uuden ihmeen.
+
+1052
+01:53:30,416 --> 01:53:35,125
+Uskon Ritsukon älykkyyteen
+ja WILLEn ja Wunderin voimaan.
+
+1053
+01:53:35,750 --> 01:53:39,958
+Uhkarohkeaa. Meillä on vain
+hetki sitten keräämämme datanäytteet.
+
+1054
+01:53:40,041 --> 01:53:42,083
+Se varmasti riittää sinulle.
+
+1055
+01:53:43,416 --> 01:53:48,416
+Eiköhän. Yritän. Uskon,
+että avain on selkärankajärjestelmässä.
+
+1056
+01:53:49,041 --> 01:53:51,708
+Maya, tämä täytyy tehdä lennossa.
+
+1057
+01:53:51,791 --> 01:53:55,583
+Ei huolta. Niinhän me aina teemme.
+
+1058
+01:53:56,750 --> 01:54:01,375
+Päällikkö! Varavirtajärjestelmät
+ja selkärankajärjestelmät toimivat vielä!
+
+1059
+01:54:01,458 --> 01:54:04,250
+Vaihdetaan nämä komponentit!
+
+1060
+01:54:04,833 --> 01:54:09,291
+Ei! Teidän täytyy evakuoida!
+On vaarallista vain olla täällä!
+
+1061
+01:54:09,375 --> 01:54:13,208
+-Se on viimeinen velvollisuutemme!
+-Tehdään mitä voidaan!
+
+1062
+01:54:14,041 --> 01:54:16,583
+Aina sama ongelma nuorten miesten kanssa.
+
+1063
+01:54:16,666 --> 01:54:21,583
+Aletaan auttaa Shinjiä, ennen kuin
+komentaja Ikari tekee jotain hullua.
+
+1064
+01:54:21,666 --> 01:54:22,666
+Selvä!
+
+1065
+01:54:22,750 --> 01:54:27,125
+Yksikkö 01:n pilotti,
+haluan näyttää sinulle jotain.
+
+1066
+01:54:31,416 --> 01:54:34,583
+Sehän on... Musta Lilith?
+
+1067
+01:54:34,666 --> 01:54:37,416
+Muistisi johdattaa sinut
+näkemään sen niin.
+
+1068
+01:54:37,500 --> 01:54:40,208
+Tämä on Evangelion Imaginary.
+
+1069
+01:54:40,291 --> 01:54:43,875
+Tohtori Katsuragi ennusti
+tämän EVAn olemassaolon.
+
+1070
+01:54:43,958 --> 01:54:46,666
+Se on fiktiivinen EVA.
+
+1071
+01:54:46,750 --> 01:54:52,250
+Vain ihmiskunta, joka pystyy uskomaan
+fantasiaa ja todellisuutta, havaitsee sen.
+
+1072
+01:54:55,333 --> 01:54:59,875
+Epätoivon ja toivon keihäistä
+tulee toistensa uhraus ja laukaisin.
+
+1073
+01:54:59,958 --> 01:55:05,291
+Kuvitteellinen ja todellisuus sekoittuvat
+ja kaikesta tulee homogeenistä tietoa.
+
+1074
+01:55:10,833 --> 01:55:13,125
+Siitä alkaa Lisäisku.
+
+1075
+01:55:13,208 --> 01:55:18,125
+Prosessi, joka ei muokkaa vain meidän
+tajuntaamme, vaan myös koko maailman.
+
+1076
+01:55:27,541 --> 01:55:31,625
+Tämä on ainoa keino toteuttaa toiveeni.
+
+1077
+01:55:54,000 --> 01:55:56,375
+Onko tämä Lisäisku?
+
+1078
+01:55:57,000 --> 01:56:00,625
+Kyllä. Tuo on luultavasti EVA Imaginary.
+
+1079
+01:56:00,708 --> 01:56:04,041
+-En uskonut, että sitä on olemassa.
+-Tämä on hullua.
+
+1080
+01:56:08,708 --> 01:56:09,833
+Ihan pähkähullua!
+
+1081
+01:56:57,083 --> 01:56:59,958
+Se alkaa siis vihdoin.
+
+1082
+01:57:01,958 --> 01:57:06,208
+-Ai, sinä.
+-Siitä onkin aikaa, Fuyutsuki-sensei.
+
+1083
+01:57:06,875 --> 01:57:11,291
+Pakko sanoa, eikö L-hallintakentän
+tiheys ole aika korkea täällä?
+
+1084
+01:57:11,375 --> 01:57:16,541
+Alusta ei suunniteltu miehitettäväksi.
+Huomaan, että olen ajattelematon.
+
+1085
+01:57:17,416 --> 01:57:21,166
+Valonpilkahdus nimeltä toivo
+loistaa ikuisesti ihmiskunnan yllä.
+
+1086
+01:57:21,708 --> 01:57:26,333
+Mutta ihmiset myös hukkuvat
+takertuessaan toivona tunnettuun tautiin.
+
+1087
+01:57:26,833 --> 01:57:31,375
+Luulen, että Ikari ja minä olemme
+takertuneet siihen tautiin liian kauan.
+
+1088
+01:57:31,458 --> 01:57:36,958
+Gendoh haluaa toteuttaa toiveensa olemalla
+ihmisten instrumentaalisuuden keskipiste.
+
+1089
+01:57:37,708 --> 01:57:43,666
+Ymmärrän, että haluat auttaa häntä,
+tai että toiveenne menevätkin ristiin.
+
+1090
+01:57:44,333 --> 01:57:48,375
+Mutta olisi kiva,
+jollet vetäisi koko ihmiskuntaa mukaasi.
+
+1091
+01:57:49,000 --> 01:57:51,958
+Ymmärrän kyllä. Työni on tehty.
+
+1092
+01:57:52,583 --> 01:57:54,750
+Olen koonnut haluamasi asiat.
+
+1093
+01:57:54,833 --> 01:57:59,041
+Tee kuten haluat, Mary Iscariot.
+
+1094
+01:58:00,833 --> 01:58:03,875
+Minusta ei olekaan ikuisuuksiin
+käytetty sitä nimeä.
+
+1095
+01:58:04,916 --> 01:58:07,958
+Heippa sitten.
+
+1096
+01:58:15,541 --> 01:58:19,375
+Yui. Tätäkö sinä halusit?
+
+1097
+01:58:53,416 --> 01:58:55,833
+Saimme sen irti! Se toimii nyt!
+
+1098
+01:58:55,916 --> 01:59:01,333
+-Kapteeni, tämä miehistö riittää.
+-Selvä. Miehistö, jättäkää alus.
+
+1099
+01:59:03,166 --> 01:59:06,416
+<span style="s0">Miehistö, jättäkää alus!
+Toistan, jättäkää alus!</span>
+
+1100
+01:59:06,500 --> 01:59:09,916
+<span style="s0">Haavoittunut miehistö on prioriteetti!
+Kaikki pakokapseleihin!</span>
+
+1101
+01:59:14,750 --> 01:59:18,666
+Kaikki Adamien säiliöt,
+Opfer-tyypin EVAt ovat näköjään täällä.
+
+1102
+01:59:20,083 --> 01:59:23,625
+Fuyutsuki-sensei
+pitää tapansa mukaan tiukkaa kuria.
+
+1103
+01:59:25,208 --> 01:59:29,208
+Sori, mutta teistä täytyy tulla
+uhrilampaita...
+
+1104
+01:59:33,666 --> 01:59:35,333
+...EVAni päällekkäisyyksille!
+
+1105
+01:59:40,750 --> 01:59:43,333
+Tilanne on 08 plus 09 plus 10.
+
+1106
+01:59:55,833 --> 01:59:57,666
+Plus 11!
+
+1107
+02:00:05,375 --> 02:00:09,541
+No niin, enää yksi jäljellä!
+
+1108
+02:00:10,166 --> 02:00:12,291
+Pakokapselit 1 - 4, luukut suljettu.
+
+1109
+02:00:12,375 --> 02:00:15,250
+<span style="s0">Loput miehistöstä
+välittömästi pakokapseli viiteen!</span>
+
+1110
+02:00:17,916 --> 02:00:22,791
+-Minun täytyy palata ruoriin.
+-Tehtävämme on nyt selvitä elossa.
+
+1111
+02:00:23,916 --> 02:00:25,416
+Vaikka se tuntuisi katkeralta.
+
+1112
+02:00:31,583 --> 02:00:35,875
+<span style="s0">Kapteeni, vaihto on tehty.
+Voimme nyt yrittää.</span>
+
+1113
+02:00:35,958 --> 02:00:40,125
+Selvä. Ohjatkaa ruorin
+hallintajärjestelmät kapteenin paikalle.
+
+1114
+02:00:40,208 --> 02:00:42,875
+-Jättäkää sitten alus välittömästi.
+-Misato?
+
+1115
+02:00:42,958 --> 02:00:46,708
+<span style="s0">Jonkun täytyy jäädä varmistamaan,
+että aktivointi alkaa.</span>
+
+1116
+02:00:46,791 --> 02:00:49,750
+Minulla on lopullinen vastuu aluksesta.
+
+1117
+02:00:50,791 --> 02:00:55,416
+<span style="s0">Ritsuko, pidä huolta eloonjääneistä,
+kaikista selviytyneistä lapsista.</span>
+
+1118
+02:00:57,875 --> 02:01:03,666
+-Ymmärrän, Misato. Teen parhaani.
+-Kiitos.
+
+1119
+02:01:25,000 --> 02:01:28,000
+Sähkömagneettiset tehoreservit
+ovat vähissä.
+
+1120
+02:01:28,083 --> 02:01:31,958
+Kun mikään muu ei toimi,
+vanhat reaktiomoottorit...
+
+1121
+02:01:33,416 --> 02:01:35,291
+...ovat kai ainoa vaihtoehto.
+
+1122
+02:01:35,750 --> 02:01:37,041
+SYTYTYS
+
+1123
+02:02:07,833 --> 02:02:13,083
+Lilinit eivät tarvitse teitä enää.
+Levätkää rauhassa, Adamit.
+
+1124
+02:02:14,166 --> 02:02:17,458
+Wunder on liikkeellä. Pitää mennä mukaan.
+
+1125
+02:02:18,041 --> 02:02:21,875
+Mutta voi pojat... Yritätkö toteuttaa
+samanaikaisesti ihmiskunnan
+
+1126
+02:02:21,958 --> 02:02:25,458
+fyysisen ja henkisen puolen
+instrumentaalisuuden?
+
+1127
+02:02:25,541 --> 02:02:28,208
+Gendoh, mitä...
+
+1128
+02:02:28,833 --> 02:02:31,291
+Isä, mitä sinä toivot?
+
+1129
+02:02:31,375 --> 02:02:36,125
+Valitsin maailman, jonka sinä hylkäsit.
+Maailman, jossa ei ole AT-kenttiä
+
+1130
+02:02:36,208 --> 02:02:40,625
+ja jossa ihmiskunta jakaa yhteisen
+sydämen ja mielen tasa-arvoisesti.
+
+1131
+02:02:40,708 --> 02:02:42,750
+Yksilöiden välillä ei ole rajoja.
+
+1132
+02:02:42,833 --> 02:02:47,500
+Ei rikkaita ja köyhiä, ei syrjintää,
+sotia, hyväksikäyttöä, tuskaa tai surua.
+
+1133
+02:02:47,583 --> 02:02:50,208
+Maailma, jossa on vain puhtaita sieluja.
+
+1134
+02:02:50,291 --> 02:02:55,875
+Se on levollinen maailma,
+jossa voin olla jälleen Yuin kanssa.
+
+1135
+02:02:56,583 --> 02:03:01,916
+Yui! Yui!
+
+1136
+02:03:02,000 --> 02:03:05,375
+Missä sinä olet, Yui?
+
+1137
+02:03:06,458 --> 02:03:11,500
+<span style="s0">Ovatko kaikki täällä Rei?
+Missä sinä olet? Yui!</span>
+
+1138
+02:03:12,541 --> 02:03:15,333
+Isä, sinun täytyy lopettaa tämä.
+
+1139
+02:03:15,958 --> 02:03:21,416
+-Miksi? Mitä sinä täällä teet, Shinji?
+-Haluan tietää sinusta.
+
+1140
+02:03:22,458 --> 02:03:27,041
+Pysyin kaukana sinusta silloinkin,
+kun olin yksinäinen.
+
+1141
+02:03:27,708 --> 02:03:31,291
+Pelkäsin saavani tietää,
+inhositko minua vai et.
+
+1142
+02:03:32,416 --> 02:03:36,250
+Mutta haluan tietää nyt.
+Haluan tutustua sinuun.
+
+1143
+02:03:40,875 --> 02:03:45,000
+AT-kenttä?
+Mutta pääsin eroon inhimillisyydestäni!
+
+1144
+02:03:47,083 --> 02:03:52,458
+Voiko olla, että pelkään Shinjiä? Minä?
+
+1145
+02:03:52,958 --> 02:03:56,250
+Tästä ei kuulunut päästä eroon.
+
+1146
+02:03:56,958 --> 02:04:00,166
+Se kuuluu palauttaa sinulle, isä.
+
+1147
+02:04:06,791 --> 02:04:11,375
+-Olit siis samanlainen kuin minä.
+-Niin olin.
+
+1148
+02:04:12,250 --> 02:04:15,666
+Kuulokkeet eristivät minut ulkomaailmasta.
+
+1149
+02:04:16,708 --> 02:04:21,541
+Ne suojelivat minua muiden melulta
+ja auttoivat esittämään välinpitämätöntä.
+
+1150
+02:04:23,125 --> 02:04:27,916
+<span style="s0">Mutta kun tapasin Yuin,
+en enää tarvinnut niitä.</span>
+
+1151
+02:04:29,500 --> 02:04:35,250
+<span style="s0">-Oletko päättänyt nimestä?
+-Shinji, jos se on poika. Rei, jos tyttö.</span>
+
+1152
+02:04:36,000 --> 02:04:38,666
+Shinji... Rei...
+
+1153
+02:04:46,916 --> 02:04:50,750
+<span style="s0">En koskaan tuntenut vanhempieni rakkautta,
+silti minusta tuli isä.</span>
+
+1154
+02:04:50,833 --> 02:04:55,250
+<span style="s0">Tämä maailma on epäilemättä epävakaa,
+epätäydellinen ja irrationaalinen.</span>
+
+1155
+02:04:55,333 --> 02:04:59,625
+<span style="s0">Se on maailma, jossa asiat hajoavat,
+jos ihmisten puheita uskoo sokeasti.</span>
+
+1156
+02:04:59,708 --> 02:05:02,416
+Ihmiset sanovat eri asioita eri aikoina.
+
+1157
+02:05:03,750 --> 02:05:09,416
+<span style="s0">Mikä on totuus? Mihin pitäisi uskoa?
+Ehkä molemmat olivat tosia heille.</span>
+
+1158
+02:05:09,500 --> 02:05:13,666
+<span style="s0">Ero on vain siinä, mitä
+heidän mielessään liikkui juuri silloin.</span>
+
+1159
+02:05:14,583 --> 02:05:20,041
+<span style="s0">Pelkäsin päästää ihmisiä lähelle.
+Inhosin maailmaa pullollaan heitä.</span>
+
+1160
+02:05:20,875 --> 02:05:26,000
+<span style="s0">Olin yksin lapsuudestani asti.
+En koskaan tuntenut yksinäisyyttä.</span>
+
+1161
+02:05:26,708 --> 02:05:30,916
+<span style="s0">Mutta yhteiskunnassa on niitä,
+jotka halveksivat sellaista olemassaoloa.</span>
+
+1162
+02:05:31,000 --> 02:05:33,416
+Inhosin vierailuja muiden kodeissa.
+
+1163
+02:05:33,500 --> 02:05:37,250
+<span style="s0">Luokkatovereiden, jotka eivät
+kiinnostaneet minua, tai sukulaisten.</span>
+
+1164
+02:05:37,333 --> 02:05:41,958
+<span style="s0">Minut pakotettiin osallistumaan
+heidän elämäänsä.</span>
+
+1165
+02:05:42,791 --> 02:05:47,625
+<span style="s0">Yhdessäolo muiden kanssa oli sietämätöntä.
+Halusin vain aina olla yksin.</span>
+
+1166
+02:05:48,666 --> 02:05:53,500
+<span style="s0">Pidin kahdesta asiasta lapsena.
+Toinen oli tieto.</span>
+
+1167
+02:05:54,166 --> 02:05:59,125
+<span style="s0">Saatoin täyttää nälkäisen sydämeni
+ahmimalla tietoja omilla ehdoillani.</span>
+
+1168
+02:05:59,208 --> 02:06:00,958
+Ei tarvinnut ajatella toisia.
+
+1169
+02:06:01,583 --> 02:06:06,375
+<span style="s0">Saatoin tarjota itselleni
+niin paljon tietoa kuin aika salli.</span>
+
+1170
+02:06:07,208 --> 02:06:09,041
+Toinen asia oli piano.
+
+1171
+02:06:09,125 --> 02:06:13,333
+<span style="s0">Hienosti viritetyt kielet vastasivat
+tarkkaan kosketinta, jota hipaisin.</span>
+
+1172
+02:06:15,666 --> 02:06:19,208
+<span style="s0">Siinä ei ollut mitään
+vilppiä, petosta tai pettymystä.</span>
+
+1173
+02:06:19,291 --> 02:06:23,208
+<span style="s0">Olemassaoloni kääntyi
+saumattomasti äänten virraksi.</span>
+
+1174
+02:06:23,291 --> 02:06:27,208
+<span style="s0">Pidin siitä järjestelmästä.
+Pidin yksinolosta.</span>
+
+1175
+02:06:27,875 --> 02:06:32,708
+<span style="s0">Siten minuun tai muihin ei sattuisi.
+Yksin saatoin olla rauhassa.</span>
+
+1176
+02:06:34,833 --> 02:06:40,750
+<span style="s0">Mutta tavattuani Yuin opin, että
+eläminen voi olla nautinnollinen kokemus.</span>
+
+1177
+02:06:41,291 --> 02:06:45,541
+<span style="s0">Vain Yui hyväksyi minut
+sellaisena kuin olin.</span>
+
+1178
+02:06:48,625 --> 02:06:50,458
+Menetettyäni hänet
+
+1179
+02:06:50,541 --> 02:06:55,041
+pelkäsin, etten voisi elää enää yksin.
+
+1180
+02:06:56,291 --> 02:06:59,416
+<span style="s0">Tunsin ensimmäistä kertaa
+yksinäisyyden ahdistuksen.</span>
+
+1181
+02:07:00,291 --> 02:07:01,666
+IHMISTEN INSTRUMENTAALIPROJEKTI
+
+1182
+02:07:01,750 --> 02:07:04,333
+En kestänyt Yuin menettämisen taakkaa.
+
+1183
+02:07:05,375 --> 02:07:08,625
+Halusin vain itkeä hänen käsivarsillaan.
+
+1184
+02:07:09,875 --> 02:07:14,250
+<span style="s0">Halusin vain muuttaa itseni
+olemalla hänen vierellään.</span>
+
+1185
+02:07:15,583 --> 02:07:19,125
+Halusin vain toteuttaa sen toiveen.
+
+1186
+02:07:20,375 --> 02:07:26,208
+Enkö saa tavata Yuita, koska olen heikko?
+
+1187
+02:07:27,625 --> 02:07:29,000
+Shinji...
+
+1188
+02:07:29,791 --> 02:07:33,500
+Uskon, että se johtuu siitä,
+ettet halua hyväksyä heikkouttasi.
+
+1189
+02:07:34,541 --> 02:07:37,958
+Tiesit koko ajan, vai mitä, isä?
+
+1190
+02:07:41,166 --> 02:07:44,291
+-Mitä?
+-Tuo taitaa olla Misato-san.
+
+1191
+02:07:57,958 --> 02:07:59,375
+En lopettanut vielä!
+
+1192
+02:08:20,666 --> 02:08:24,875
+Mahdotonta...
+Kaikki pyhät keihäät on menetetty.
+
+1193
+02:08:25,625 --> 02:08:28,875
+Enää ei pitäisi olla keihäitä,
+jotka voivat muokata maailmaa!
+
+1194
+02:08:28,958 --> 02:08:33,375
+<span style="s0">Saimme jumalilta toivon keihään Cassiuksen
+ja epätoivon keihään Longinuksen.</span>
+
+1195
+02:08:34,041 --> 02:08:37,125
+Mutta menetettyämme ne keihäät
+
+1196
+02:08:37,208 --> 02:08:40,791
+tahto palauttaa maailma ennalleen
+loi Gaius-keihään.
+
+1197
+02:08:40,875 --> 02:08:42,666
+Ei, vaan WILLEn keihään.
+
+1198
+02:08:43,583 --> 02:08:46,166
+Aseistettuna tiedolla ja tahdonvoimalla
+
+1199
+02:08:46,250 --> 02:08:49,250
+<span style="s0">ihmiskunta on päässyt näin pitkälle
+ilman jumalallista apua.</span>
+
+1200
+02:08:49,333 --> 02:08:50,458
+Yui-san!
+
+1201
+02:09:05,458 --> 02:09:06,625
+Läpi meni!
+
+1202
+02:09:12,041 --> 02:09:14,583
+-Mari, mene Shinjin luo!
+-Selvä homma!
+
+1203
+02:09:14,666 --> 02:09:17,333
+<span style="s0">-Lupaan tuoda hänet takaisin!
+</span> -Luotan sinuun!
+
+1204
+02:09:38,708 --> 02:09:43,083
+<span style="s0">Uusi keihäs näyttää saapuvan
+ennen kuin pääsen Yuin luo.</span>
+
+1205
+02:09:44,083 --> 02:09:45,208
+Miten valitettavaa.
+
+1206
+02:09:48,833 --> 02:09:52,208
+Äitinäsi tämä oli ainoa asia,
+jonka voin tehdä vuoksesi.
+
+1207
+02:09:52,291 --> 02:09:54,625
+Olen pahoillani, Ryoji.
+
+1208
+02:10:06,208 --> 02:10:08,625
+Kiitos, Misato-san.
+
+1209
+02:10:09,750 --> 02:10:13,083
+Voitko kuulla muiden mielipiteet
+ja hyväksyä heidän kuolemansa?
+
+1210
+02:10:13,166 --> 02:10:15,708
+Olet kasvanut aikuiseksi, Shinji.
+
+1211
+02:10:17,500 --> 02:10:20,916
+En tiennyt vasta kuin aivan lopussa
+
+1212
+02:10:21,000 --> 02:10:26,500
+<span style="s0">tarvittaisiinko Shinjiä
+Yuin uudelleenrakentamisessa.</span>
+
+1213
+02:10:27,416 --> 02:10:30,625
+Toiveen toteuttaminen vaatii uhrauksen.
+
+1214
+02:10:31,333 --> 02:10:34,083
+Luulin, että lapsi oli rangaistus minulle.
+
+1215
+02:10:34,916 --> 02:10:40,791
+<span style="s0">Luulin, että vapahdus olisi se, etten
+tapaisi lastani ja olisi hänen tukenaan.</span>
+
+1216
+02:10:41,833 --> 02:10:45,791
+Luulin, että niin olisi paras pojalleni.
+
+1217
+02:11:07,625 --> 02:11:10,958
+Olen pahoillani, Shinji.
+
+1218
+02:11:12,416 --> 02:11:17,625
+Vai niin... Siellä sinä siis olit, Yui.
+
+1219
+02:11:30,750 --> 02:11:36,291
+Gendoh Ikari... Hän oli
+ihmisten instrumentaalisuuden ydin.
+
+1220
+02:11:36,375 --> 02:11:41,791
+Minä jatkan tästä.
+Shinji Ikari, mitä toivot?
+
+1221
+02:11:41,875 --> 02:11:45,208
+En mitään.
+Uskon kestäväni tuskaa ja sydänsurua.
+
+1222
+02:11:45,916 --> 02:11:48,708
+Olen huolissani Asukan
+ja muiden pelastamisesta.
+
+1223
+02:11:50,291 --> 02:11:54,916
+Vai niin. Onnistuit jo pääsemään
+jaloillesi oikeassa maailmassa
+
+1224
+02:11:55,000 --> 02:11:57,000
+etkä vain mielikuvitusmaailmassa.
+
+1225
+02:11:59,166 --> 02:12:03,291
+Minun täytyy tasoittaa tilit
+isäni tekojen puolesta. Asuka.
+
+1226
+02:12:05,750 --> 02:12:08,625
+En tiedä, isä... Äiti ei ole täällä.
+
+1227
+02:12:09,458 --> 02:12:13,416
+Siksipä... et tarvitse ketään, Asuka.
+
+1228
+02:12:16,500 --> 02:12:21,541
+<span style="s0">Minä pidän huolen siitä.
+Se olisi liian tuskallista.</span>
+
+1229
+02:12:23,166 --> 02:12:25,083
+Eläminen on tuskallista.
+
+1230
+02:12:30,833 --> 02:12:32,333
+Ohjaan EVAani.
+
+1231
+02:12:54,041 --> 02:12:56,083
+Ihmiset ehkä vihaavat minua.
+
+1232
+02:12:56,166 --> 02:12:59,500
+<span style="s0">Sillä ei ole väliä,
+kunhan voin ohjata EVAani.</span>
+
+1233
+02:13:00,125 --> 02:13:01,875
+En ole enemmän arvoinen.
+
+1234
+02:13:01,958 --> 02:13:02,958
+PÄÄSY KIELLETTY
+
+1235
+02:13:03,958 --> 02:13:08,166
+<span style="s0">Teen kehostani ja sydämestäni vahvan,
+jotten tarvitse ketään.</span>
+
+1236
+02:13:08,250 --> 02:13:12,875
+<span style="s0">Joten... ylistäkää minua.
+Antakaa minulle tunnustusta.</span>
+
+1237
+02:13:13,500 --> 02:13:18,000
+<span style="s0">Antakaa minulle paikka, jossa voin olla!
+Olen oikeasti yksinäinen.</span>
+
+1238
+02:13:26,583 --> 02:13:31,041
+Haluan vain jonkun, joka silittää päätäni.
+
+1239
+02:13:44,458 --> 02:13:48,875
+Ei hätää. Olet kuka olet. Se on hyvä niin.
+
+1240
+02:13:59,000 --> 02:14:00,958
+Nukuinko minä?
+
+1241
+02:14:02,875 --> 02:14:06,666
+-Idiootti Shinji?
+-Olen iloinen, että sain nähdä sinut.
+
+1242
+02:14:07,625 --> 02:14:13,250
+Halusin sanoa sinulle jotain.
+Kiitos, että sanoit, että tykkäät minusta.
+
+1243
+02:14:14,500 --> 02:14:17,166
+Minäkin tykkäsin sinusta.
+
+1244
+02:14:22,291 --> 02:14:25,166
+Näkemiin, Asuka.
+Kerro terveisiä Kensukelle.
+
+1245
+02:14:25,250 --> 02:14:27,875
+Pidä huolta itsestäsi, prinsessa.
+
+1246
+02:14:34,166 --> 02:14:37,666
+Hän on kai sitten poissa.
+Etkö ole yksinäinen, Shinji?
+
+1247
+02:14:37,750 --> 02:14:42,916
+Pärjään kyllä.
+Nyt on sinun vuorosi, Kaworu.
+
+1248
+02:14:44,666 --> 02:14:49,500
+Muistan nyt, että olen ollut täällä
+jo monta kertaa ja tavannut sinut.
+
+1249
+02:14:49,583 --> 02:14:53,833
+Nimemme ovat Elämän kirjassa.
+Tapaamme toisemme yhä uudestaan.
+
+1250
+02:14:54,625 --> 02:14:59,875
+Olen sinä. Olen aivan kuin sinä.
+Siksi tunsin vetoa sinuun.
+
+1251
+02:15:00,666 --> 02:15:04,041
+-Halusin antaa sinulle onnea.
+-Niin.
+
+1252
+02:15:04,750 --> 02:15:09,458
+Kaworu, olet aivan kuin isäni.
+Senkö takia ohjasit EVAa?
+
+1253
+02:15:10,291 --> 02:15:14,875
+Shinji, olet erilainen kuin yleensä.
+Etkö aio itkeä?
+
+1254
+02:15:14,958 --> 02:15:18,750
+En. Itkeminen on vain helpotus itselle.
+
+1255
+02:15:19,541 --> 02:15:22,500
+Itkuni ei pelasta ketään.
+
+1256
+02:15:23,500 --> 02:15:26,125
+Siksi en itke enää.
+
+1257
+02:15:26,208 --> 02:15:32,166
+Vai niin... Olet todella kasvanut. Kaipaan
+vanhaa puoltasi, mutta tämäkin on hyvä.
+
+1258
+02:15:32,833 --> 02:15:38,041
+Kaworu, minun täytyy kai päästä eroon
+sinunkin EVAstasi, yksikkö 13:sta.
+
+1259
+02:15:38,666 --> 02:15:41,333
+Aivan. Heität EVAt menemään...
+
+1260
+02:15:42,083 --> 02:15:45,708
+Olen pahoillani. Ymmärsin onnesi väärin.
+
+1261
+02:15:46,416 --> 02:15:50,541
+Aivan. Se oli sinun onnesi,
+komentaja Nagisa.
+
+1262
+02:15:51,583 --> 02:15:53,666
+Et halunnut Shinjin onnea.
+
+1263
+02:15:54,583 --> 02:15:58,000
+<span style="s0">Halusit hänelle onnea,
+jotta sinä olisit onnellinen.</span>
+
+1264
+02:16:00,458 --> 02:16:03,500
+Olemassaoloni voi päättää vain valetyhjiö.
+
+1265
+02:16:03,583 --> 02:16:07,583
+<span style="s0">Siksi minun täytyy
+jatkuvasti esittää roolia</span>
+
+1266
+02:16:07,666 --> 02:16:10,958
+<span style="s0">tässä ennalta määrätyssä
+kertomuksessa ikuisesti.</span>
+
+1267
+02:16:22,375 --> 02:16:24,750
+Näin tehdään, kun haluaa olla lähellä.
+
+1268
+02:16:28,458 --> 02:16:33,458
+Etsit maailmaan täydennystä.
+Et muutu koskaan, Shinji.
+
+1269
+02:16:34,083 --> 02:16:39,000
+Juuri sen takia valitsit hänet
+ja laitoit hänen nimensä Elämän kirjaan.
+
+1270
+02:16:39,083 --> 02:16:41,958
+Kiitos. Annoit minulle pelastuksen, Ryoji.
+
+1271
+02:16:42,041 --> 02:16:44,375
+Se oli kunnia, komentaja Nagisa.
+
+1272
+02:16:44,458 --> 02:16:48,125
+Älä nyt, Ryoji. Sano vain Kaworu.
+
+1273
+02:16:49,166 --> 02:16:51,708
+En vielä, komentaja Nagisa.
+
+1274
+02:16:52,500 --> 02:16:55,333
+Nagisa tarkoittaa "rantaa",
+tilaa maan ja meren välillä.
+
+1275
+02:16:55,416 --> 02:16:59,000
+Se on sopiva nimi sinulle,
+joka yhdistät ihmiskunnan,
+
+1276
+02:16:59,083 --> 02:17:02,291
+Ensimmäisen Enkelin
+ja sen, josta tulee 13. Enkeli.
+
+1277
+02:17:03,208 --> 02:17:08,833
+Olet todellakin suorittanut roolisi.
+Antaa hänen jatkaa tästä.
+
+1278
+02:17:12,666 --> 02:17:16,833
+Haluaisitko viljellä maata minun
+ja Katsuragin kanssa, kun vetäydyt?
+
+1279
+02:17:18,916 --> 02:17:23,291
+Se kuulostaa mukavalta.
+
+1280
+02:17:28,666 --> 02:17:34,500
+-Vain sinä olet enää täällä... Ayanami.
+-Minulla on hyvä näin.
+
+1281
+02:17:34,583 --> 02:17:38,500
+Toinen teistä löysi paikan,
+jota voi kutsua kodikseen.
+
+1282
+02:17:39,166 --> 02:17:42,750
+<span style="s0">Asukakin löytää varmasti
+oman uuden paikkansa.</span>
+
+1283
+02:17:43,541 --> 02:17:48,250
+<span style="s0">Onnea ilman EVAa...
+Toivoin sitä sinulle, Shinji.</span>
+
+1284
+02:17:50,083 --> 02:17:53,458
+<span style="s0">Niin. Muualla on elämää,
+jota sinäkin voit elää.</span>
+
+1285
+02:17:54,375 --> 02:17:56,291
+-Oikeastiko?
+-Kyllä.
+
+1286
+02:17:56,791 --> 02:18:00,250
+Minäkin valitsen elämän ilman EVAa.
+
+1287
+02:18:01,166 --> 02:18:03,666
+En kelaa aikaa tai käännä maailmaa.
+
+1288
+02:18:03,750 --> 02:18:07,833
+Muokkaan vain maailmasta sellaisen,
+jossa ei ole EVA-yksiköitä.
+
+1289
+02:18:08,500 --> 02:18:11,500
+Se on uusi maailma,
+jossa ihmiset voivat elää.
+
+1290
+02:18:12,541 --> 02:18:16,666
+Uuden maailman syntymä. Neon Genesis.
+
+1291
+02:18:18,666 --> 02:18:23,208
+Sitä paitsi Mari-san tulee hakemaan minua.
+Älä siis murehdi.
+
+1292
+02:18:24,000 --> 02:18:26,250
+Hyvä on, en murehdi.
+
+1293
+02:18:27,791 --> 02:18:30,541
+Shinji, kiitos.
+
+1294
+02:18:36,083 --> 02:18:40,791
+Minä teen sen, Ayanami. Neon Genesis.
+
+1295
+02:19:10,125 --> 02:19:11,541
+Kuka siellä?
+
+1296
+02:19:15,375 --> 02:19:16,708
+Ayanami?
+
+1297
+02:19:17,583 --> 02:19:20,958
+Eikä. Näen nyt.
+
+1298
+02:19:22,083 --> 02:19:26,583
+Tämän takia olit sisälläni
+koko tämän ajan.
+
+1299
+02:19:27,500 --> 02:19:28,916
+Äiti...
+
+1300
+02:19:35,625 --> 02:19:36,833
+Ymmärrän vihdoin.
+
+1301
+02:19:38,750 --> 02:19:42,208
+Isä halusi nähdä äidin lähtevän.
+
+1302
+02:19:43,291 --> 02:19:47,500
+Sitä jumalten murhaa hän toivoi.
+
+1303
+02:20:38,833 --> 02:20:42,375
+Hyvästi, kaikki Evangelionit.
+
+1304
+02:22:40,333 --> 02:22:43,208
+Jippii! Pääsin perille!
+
+1305
+02:22:44,625 --> 02:22:48,083
+-Juuri sopivasti!
+-Mari-san!
+
+1306
+02:23:01,125 --> 02:23:06,500
+<span style="s0">Kiitos, yksikkö 08 plus 09
+plus 10 plus 11 plus 12.</span>
+
+1307
+02:23:07,250 --> 02:23:10,666
+<span style="s0">Hei, viimeinen Evangelion,
+pärjäsit hienosti.</span>
+
+1308
+02:23:20,333 --> 02:23:21,750
+Mari-san!
+
+1309
+02:23:24,208 --> 02:23:26,416
+Anteeksi, että olen myöhässä, Shinji!
+
+1310
+02:23:35,458 --> 02:23:38,375
+Juna saapuu pian.
+
+1311
+02:23:38,458 --> 02:23:43,250
+<span style="s0">Pysykää oman turvallisuutenne vuoksi
+keltaisen viivan takana.</span>
+
+1312
+02:24:06,916 --> 02:24:10,708
+-Arvaa kuka.
+-Upea isotissinen tyttö.
+
+1313
+02:24:11,958 --> 02:24:13,166
+Bingo.
+
+1314
+02:24:18,500 --> 02:24:22,166
+Tuoksut ihanalta kuten aina.
+Onko se aikuisen tuoksu?
+
+1315
+02:24:25,916 --> 02:24:28,166
+Sinäkin olet tosi söpö kuten aina.
+
+1316
+02:24:28,791 --> 02:24:32,416
+Ohhoh. Puhut kuin oikea aikuinen.
+
+1317
+02:24:38,375 --> 02:24:40,750
+Tule, Shinji!
+
+1318
+02:24:46,083 --> 02:24:47,458
+Mennään!
+
+1319
+02:34:21,833 --> 02:34:27,791
+LOPPU
+
